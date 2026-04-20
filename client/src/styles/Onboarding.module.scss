@@ -1,0 +1,277 @@
+@import './Auth.module.scss';
+
+// Variables
+$primary-color: #FF6B6B;
+$secondary-color: #4ECDC4;
+$accent-color: #FFE66D;
+$text-color: #2C3E50;
+$background-color: #F7F9FC;
+$gradient-start: #FF6B6B;
+$gradient-end: #4ECDC4;
+$shadow-color: rgba(0, 0, 0, 0.1);
+$border-radius: 12px;
+$transition-speed: 0.3s;
+
+.onboardingContainer {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, $gradient-start, $gradient-end);
+  padding: 2rem;
+}
+
+.onboardingContent {
+  background: white;
+  border-radius: $border-radius;
+  box-shadow: 0 10px 30px $shadow-color;
+  padding: 2.5rem;
+  width: 100%;
+  max-width: 600px;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, $primary-color, $secondary-color);
+  }
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+
+  h1 {
+    color: $text-color;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+
+  p {
+    color: lighten($text-color, 20%);
+    font-size: 1.1rem;
+  }
+}
+
+.progressContainer {
+  margin-bottom: 2.5rem;
+}
+
+.progressStep {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-radius: $border-radius;
+  background: $background-color;
+  transition: all $transition-speed ease;
+
+  &.active {
+    background: lighten($primary-color, 35%);
+    transform: scale(1.02);
+  }
+
+  &.completed {
+    background: lighten($secondary-color, 35%);
+  }
+}
+
+.stepNumber {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  margin-right: 1rem;
+  box-shadow: 0 2px 5px $shadow-color;
+  color: $text-color;
+  transition: all $transition-speed ease;
+
+  .active & {
+    background: $primary-color;
+    color: white;
+  }
+
+  .completed & {
+    background: $secondary-color;
+    color: white;
+  }
+}
+
+.stepInfo {
+  flex: 1;
+
+  h3 {
+    margin: 0;
+    color: $text-color;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  p {
+    margin: 0.25rem 0 0;
+    color: lighten($text-color, 20%);
+    font-size: 0.9rem;
+  }
+}
+
+.form {
+  .formGroup {
+    margin-bottom: 1.5rem;
+  }
+
+  label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    color: $text-color;
+    font-weight: 500;
+  }
+}
+
+.inputIcon {
+  margin-right: 0.5rem;
+  color: $primary-color;
+  font-size: 1.2rem;
+}
+
+.input, .select {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 2px solid lighten($text-color, 60%);
+  border-radius: $border-radius;
+  font-size: 1rem;
+  transition: all $transition-speed ease;
+  background: white;
+
+  &:focus {
+    outline: none;
+    border-color: $primary-color;
+    box-shadow: 0 0 0 3px lighten($primary-color, 35%);
+  }
+
+  &::placeholder {
+    color: lighten($text-color, 40%);
+  }
+}
+
+.select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%232C3E50' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1rem;
+  padding-right: 2.5rem;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.primaryButton, .secondaryButton {
+  padding: 0.75rem 1.5rem;
+  border-radius: $border-radius;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all $transition-speed ease;
+  border: none;
+  flex: 1;
+  text-align: center;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+.primaryButton {
+  background: $primary-color;
+  color: white;
+  box-shadow: 0 4px 15px rgba($primary-color, 0.3);
+
+  &:hover {
+    background: darken($primary-color, 5%);
+  }
+}
+
+.secondaryButton {
+  background: white;
+  color: $text-color;
+  border: 2px solid lighten($text-color, 60%);
+
+  &:hover {
+    border-color: $primary-color;
+    color: $primary-color;
+  }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  .onboardingContent {
+    padding: 1.5rem;
+  }
+
+  .header {
+    h1 {
+      font-size: 1.75rem;
+    }
+  }
+
+  .progressStep {
+    padding: 0.75rem;
+  }
+
+  .stepNumber {
+    width: 32px;
+    height: 32px;
+    font-size: 0.9rem;
+  }
+
+  .stepInfo {
+    h3 {
+      font-size: 1rem;
+    }
+
+    p {
+      font-size: 0.8rem;
+    }
+  }
+}
+
+// Animations
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

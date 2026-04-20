@@ -1,0 +1,9 @@
+{
+  "short_name": "Postpartum Care",
+  "name": "Postpartum Care Platform",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A2D2FF",
+  "background_color": "#ffffff"
+} 

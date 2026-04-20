@@ -1,0 +1,3001 @@
+user_id,delivery_date,delivery_type,epds_score,feeding,specific_concerns,postpartum_week
+1,2025-06-22,assisted,4,formula,Sleep deprivation,9
+2,2025-07-31,assisted,11,mixed,Mood swings,4
+3,2025-08-11,assisted,15,breastfeeding,Severe fatigue,2
+4,2025-07-03,c_section,7,breastfeeding,Low milk supply,8
+5,2025-06-30,c_section,4,formula,Severe fatigue,8
+6,2025-07-05,c_section,11,mixed,Severe fatigue,7
+7,2025-08-19,c_section,16,mixed,Pain while feeding,1
+8,2025-06-21,c_section,14,mixed,Severe fatigue,9
+9,2025-07-13,c_section,17,formula,Severe fatigue,6
+10,2025-06-26,assisted,5,breastfeeding,No family support,9
+11,2025-08-03,c_section,5,breastfeeding,Pain while feeding,3
+12,2025-07-10,vaginal,7,formula,Back pain,7
+13,2025-06-09,assisted,7,breastfeeding,No family support,11
+14,2025-07-17,vaginal,17,formula,Mood swings,6
+15,2025-05-27,vaginal,5,formula,Low milk supply,13
+16,2025-05-29,c_section,19,mixed,Low milk supply,13
+17,2025-06-19,vaginal,14,mixed,Mood swings,10
+18,2025-08-06,vaginal,19,mixed,Pain while feeding,3
+19,2025-07-06,c_section,13,breastfeeding,No family support,7
+20,2025-07-09,vaginal,9,formula,Mood swings,7
+21,2025-06-29,assisted,15,formula,Low milk supply,8
+22,2025-05-26,c_section,7,formula,Sleep deprivation,13
+23,2025-08-19,vaginal,7,breastfeeding,Mood swings,1
+24,2025-08-07,assisted,18,formula,Mood swings,3
+25,2025-06-08,vaginal,3,breastfeeding,Low milk supply,11
+26,2025-08-14,vaginal,14,mixed,Mood swings,2
+27,2025-07-13,c_section,10,formula,Incision pain,6
+28,2025-06-28,c_section,9,mixed,Low milk supply,8
+29,2025-05-31,c_section,11,formula,Sleep deprivation,12
+30,2025-06-20,c_section,9,mixed,Pain while feeding,9
+31,2025-07-17,assisted,3,mixed,Feeling overwhelmed,6
+32,2025-07-29,assisted,4,mixed,Pain while feeding,4
+33,2025-07-16,assisted,12,formula,Incision pain,6
+34,2025-08-16,assisted,8,formula,Mood swings,1
+35,2025-08-05,vaginal,8,mixed,Feeling overwhelmed,3
+36,2025-06-27,vaginal,7,mixed,Mood swings,8
+37,2025-05-27,c_section,7,formula,Sleep deprivation,13
+38,2025-05-25,c_section,17,formula,Severe fatigue,13
+39,2025-06-26,c_section,17,breastfeeding,Pain while feeding,9
+40,2025-06-12,vaginal,10,mixed,Mood swings,11
+41,2025-07-03,c_section,19,mixed,Back pain,8
+42,2025-06-04,c_section,10,mixed,Low milk supply,12
+43,2025-08-04,c_section,19,formula,Incision pain,3
+44,2025-05-30,c_section,3,mixed,Low milk supply,12
+45,2025-06-04,c_section,20,breastfeeding,Feeling overwhelmed,12
+46,2025-06-16,c_section,20,formula,Sleep deprivation,10
+47,2025-07-26,vaginal,5,mixed,Sleep deprivation,4
+48,2025-06-26,vaginal,20,breastfeeding,No family support,9
+49,2025-07-19,c_section,10,breastfeeding,Worried about scar healing,5
+50,2025-07-12,c_section,4,breastfeeding,Low milk supply,6
+51,2025-08-11,c_section,15,formula,Feeling overwhelmed,2
+52,2025-07-26,assisted,15,breastfeeding,Back pain,4
+53,2025-05-30,c_section,11,mixed,Back pain,12
+54,2025-06-03,vaginal,15,formula,Mood swings,12
+55,2025-06-15,vaginal,5,mixed,Back pain,10
+56,2025-06-06,c_section,6,breastfeeding,Feeling overwhelmed,11
+57,2025-05-23,vaginal,5,breastfeeding,Worried about scar healing,13
+58,2025-06-22,assisted,14,mixed,Severe fatigue,9
+59,2025-08-01,assisted,4,mixed,No family support,3
+60,2025-06-21,assisted,6,mixed,Pain while feeding,9
+61,2025-05-28,assisted,8,formula,Pain while feeding,13
+62,2025-07-27,vaginal,7,breastfeeding,Severe fatigue,4
+63,2025-08-13,c_section,14,mixed,Worried about scar healing,2
+64,2025-08-04,c_section,8,formula,Incision pain,3
+65,2025-07-31,assisted,3,formula,No family support,4
+66,2025-07-06,assisted,3,mixed,Low milk supply,7
+67,2025-08-19,c_section,6,formula,Mood swings,1
+68,2025-07-24,vaginal,16,mixed,Back pain,5
+69,2025-08-03,vaginal,16,mixed,Feeling overwhelmed,3
+70,2025-06-25,vaginal,9,mixed,Worried about scar healing,9
+71,2025-06-26,assisted,11,formula,Pain while feeding,9
+72,2025-06-20,assisted,14,formula,No family support,9
+73,2025-08-01,c_section,13,breastfeeding,Feeling overwhelmed,3
+74,2025-07-13,c_section,4,mixed,Incision pain,6
+75,2025-06-28,vaginal,19,mixed,No family support,8
+76,2025-08-13,assisted,7,mixed,No family support,2
+77,2025-08-04,c_section,13,formula,Low milk supply,3
+78,2025-08-08,assisted,5,formula,Feeling overwhelmed,2
+79,2025-06-05,assisted,13,breastfeeding,Low milk supply,12
+80,2025-07-19,assisted,18,breastfeeding,Low milk supply,5
+81,2025-07-02,c_section,13,mixed,Back pain,8
+82,2025-08-20,vaginal,13,mixed,Mood swings,1
+83,2025-07-29,vaginal,4,formula,Incision pain,4
+84,2025-07-09,vaginal,6,formula,Worried about scar healing,7
+85,2025-07-15,c_section,17,breastfeeding,Severe fatigue,6
+86,2025-05-25,assisted,4,breastfeeding,Mood swings,13
+87,2025-05-24,c_section,7,breastfeeding,Sleep deprivation,13
+88,2025-08-14,c_section,9,breastfeeding,Feeling overwhelmed,2
+89,2025-06-11,c_section,9,mixed,Pain while feeding,11
+90,2025-07-20,c_section,6,mixed,Mood swings,5
+91,2025-07-30,assisted,16,formula,Low milk supply,4
+92,2025-06-01,assisted,8,mixed,Back pain,12
+93,2025-06-28,assisted,20,mixed,Incision pain,8
+94,2025-07-25,c_section,15,formula,Worried about scar healing,4
+95,2025-06-09,assisted,17,breastfeeding,Sleep deprivation,11
+96,2025-06-28,assisted,6,mixed,Severe fatigue,8
+97,2025-06-21,c_section,20,formula,Feeling overwhelmed,9
+98,2025-05-30,c_section,12,formula,Worried about scar healing,12
+99,2025-08-04,vaginal,19,formula,Back pain,3
+100,2025-06-05,assisted,13,formula,Feeling overwhelmed,12
+101,2025-08-12,vaginal,11,breastfeeding,Feeling overwhelmed,2
+102,2025-08-17,vaginal,9,formula,Mood swings,1
+103,2025-07-26,assisted,6,mixed,Low milk supply,4
+104,2025-07-23,assisted,3,formula,Back pain,5
+105,2025-08-01,vaginal,12,mixed,Incision pain,3
+106,2025-06-16,vaginal,3,breastfeeding,Low milk supply,10
+107,2025-07-31,c_section,4,mixed,Feeling overwhelmed,4
+108,2025-06-10,c_section,10,mixed,Low milk supply,11
+109,2025-07-10,assisted,9,formula,Incision pain,7
+110,2025-07-25,c_section,19,breastfeeding,Incision pain,4
+111,2025-05-30,assisted,11,breastfeeding,Sleep deprivation,12
+112,2025-08-12,assisted,20,formula,Back pain,2
+113,2025-06-23,assisted,12,formula,Back pain,9
+114,2025-06-04,assisted,20,mixed,Pain while feeding,12
+115,2025-06-22,vaginal,19,formula,No family support,9
+116,2025-06-17,c_section,14,mixed,No family support,10
+117,2025-06-09,assisted,11,breastfeeding,Low milk supply,11
+118,2025-06-26,assisted,20,mixed,Sleep deprivation,9
+119,2025-07-24,vaginal,13,breastfeeding,Feeling overwhelmed,5
+120,2025-08-05,vaginal,9,breastfeeding,Incision pain,3
+121,2025-08-17,vaginal,11,formula,Worried about scar healing,1
+122,2025-08-12,c_section,18,formula,Feeling overwhelmed,2
+123,2025-07-14,vaginal,15,mixed,Severe fatigue,6
+124,2025-07-06,vaginal,13,breastfeeding,Severe fatigue,7
+125,2025-06-01,c_section,8,formula,No family support,12
+126,2025-07-12,c_section,4,formula,Pain while feeding,6
+127,2025-06-01,c_section,12,breastfeeding,Feeling overwhelmed,12
+128,2025-05-28,vaginal,5,formula,Sleep deprivation,13
+129,2025-07-17,c_section,8,breastfeeding,Pain while feeding,6
+130,2025-08-19,c_section,20,formula,Incision pain,1
+131,2025-08-02,vaginal,17,formula,Back pain,3
+132,2025-06-17,assisted,7,formula,Incision pain,10
+133,2025-06-07,vaginal,17,formula,Pain while feeding,11
+134,2025-06-16,vaginal,16,formula,Incision pain,10
+135,2025-06-20,vaginal,10,breastfeeding,Pain while feeding,9
+136,2025-06-26,c_section,9,mixed,Sleep deprivation,9
+137,2025-05-29,vaginal,18,mixed,Feeling overwhelmed,13
+138,2025-05-27,assisted,8,formula,Sleep deprivation,13
+139,2025-07-24,vaginal,6,formula,Pain while feeding,5
+140,2025-06-22,vaginal,10,formula,Pain while feeding,9
+141,2025-07-03,assisted,16,mixed,Incision pain,8
+142,2025-08-13,assisted,7,breastfeeding,Worried about scar healing,2
+143,2025-07-14,assisted,15,mixed,Low milk supply,6
+144,2025-06-02,assisted,16,formula,Feeling overwhelmed,12
+145,2025-08-17,vaginal,4,formula,Incision pain,1
+146,2025-08-03,assisted,18,breastfeeding,Feeling overwhelmed,3
+147,2025-05-26,c_section,20,formula,Mood swings,13
+148,2025-07-15,vaginal,18,formula,Pain while feeding,6
+149,2025-05-25,vaginal,19,formula,Low milk supply,13
+150,2025-07-18,vaginal,10,formula,Severe fatigue,5
+151,2025-07-07,c_section,13,mixed,Severe fatigue,7
+152,2025-06-12,c_section,3,mixed,Low milk supply,11
+153,2025-07-06,vaginal,12,mixed,Severe fatigue,7
+154,2025-07-10,assisted,14,breastfeeding,Feeling overwhelmed,7
+155,2025-08-14,c_section,5,breastfeeding,Back pain,2
+156,2025-06-08,assisted,20,mixed,Low milk supply,11
+157,2025-06-24,c_section,8,formula,Mood swings,9
+158,2025-07-10,c_section,18,breastfeeding,Feeling overwhelmed,7
+159,2025-07-11,c_section,14,breastfeeding,Severe fatigue,6
+160,2025-07-03,vaginal,7,breastfeeding,Feeling overwhelmed,8
+161,2025-07-18,vaginal,12,formula,Low milk supply,5
+162,2025-06-07,assisted,13,formula,Sleep deprivation,11
+163,2025-06-23,assisted,9,breastfeeding,Pain while feeding,9
+164,2025-06-25,vaginal,4,breastfeeding,Worried about scar healing,9
+165,2025-08-11,c_section,6,formula,Sleep deprivation,2
+166,2025-05-27,c_section,5,formula,Feeling overwhelmed,13
+167,2025-08-19,assisted,3,mixed,Worried about scar healing,1
+168,2025-07-08,vaginal,9,formula,Severe fatigue,7
+169,2025-08-20,assisted,7,formula,Incision pain,1
+170,2025-06-23,c_section,5,breastfeeding,Feeling overwhelmed,9
+171,2025-06-18,c_section,15,mixed,Severe fatigue,10
+172,2025-06-20,vaginal,14,breastfeeding,Sleep deprivation,9
+173,2025-07-01,assisted,18,breastfeeding,Low milk supply,8
+174,2025-06-24,assisted,18,breastfeeding,Worried about scar healing,9
+175,2025-07-15,vaginal,8,mixed,Sleep deprivation,6
+176,2025-08-03,c_section,3,breastfeeding,Severe fatigue,3
+177,2025-06-27,c_section,4,breastfeeding,Mood swings,8
+178,2025-05-25,assisted,9,breastfeeding,Incision pain,13
+179,2025-07-27,vaginal,20,breastfeeding,Incision pain,4
+180,2025-08-08,c_section,18,formula,Worried about scar healing,2
+181,2025-06-08,c_section,3,breastfeeding,Sleep deprivation,11
+182,2025-07-12,assisted,5,formula,Back pain,6
+183,2025-08-11,c_section,20,mixed,Severe fatigue,2
+184,2025-06-13,assisted,9,mixed,Back pain,10
+185,2025-06-04,c_section,18,breastfeeding,No family support,12
+186,2025-06-22,c_section,17,mixed,Severe fatigue,9
+187,2025-07-12,c_section,7,mixed,Back pain,6
+188,2025-07-01,assisted,20,mixed,No family support,8
+189,2025-06-03,assisted,12,breastfeeding,Incision pain,12
+190,2025-05-28,assisted,7,mixed,Severe fatigue,13
+191,2025-06-03,c_section,16,formula,Severe fatigue,12
+192,2025-07-24,assisted,3,breastfeeding,Low milk supply,5
+193,2025-07-12,vaginal,9,breastfeeding,Worried about scar healing,6
+194,2025-08-13,assisted,13,formula,Sleep deprivation,2
+195,2025-07-31,assisted,3,formula,Low milk supply,4
+196,2025-07-25,assisted,20,formula,Feeling overwhelmed,4
+197,2025-06-20,c_section,7,mixed,Incision pain,9
+198,2025-06-24,assisted,7,breastfeeding,Worried about scar healing,9
+199,2025-06-20,vaginal,5,mixed,Incision pain,9
+200,2025-08-08,vaginal,10,formula,Sleep deprivation,2
+201,2025-07-02,assisted,3,mixed,Severe fatigue,8
+202,2025-07-30,c_section,8,formula,Low milk supply,4
+203,2025-08-18,vaginal,19,breastfeeding,Low milk supply,1
+204,2025-06-23,vaginal,17,formula,Sleep deprivation,9
+205,2025-05-25,c_section,18,mixed,Severe fatigue,13
+206,2025-06-14,c_section,8,mixed,Mood swings,10
+207,2025-06-14,assisted,4,breastfeeding,Worried about scar healing,10
+208,2025-06-30,assisted,14,formula,Severe fatigue,8
+209,2025-07-14,c_section,6,formula,Feeling overwhelmed,6
+210,2025-08-01,vaginal,7,breastfeeding,Back pain,3
+211,2025-07-13,assisted,4,formula,Incision pain,6
+212,2025-06-09,vaginal,15,formula,Incision pain,11
+213,2025-07-15,assisted,11,formula,Mood swings,6
+214,2025-08-09,vaginal,17,mixed,Feeling overwhelmed,2
+215,2025-08-19,c_section,20,formula,Sleep deprivation,1
+216,2025-07-01,c_section,6,breastfeeding,Worried about scar healing,8
+217,2025-05-23,vaginal,14,breastfeeding,Low milk supply,13
+218,2025-05-27,vaginal,12,mixed,Incision pain,13
+219,2025-05-26,assisted,16,breastfeeding,Worried about scar healing,13
+220,2025-06-25,vaginal,16,breastfeeding,No family support,9
+221,2025-06-25,c_section,20,mixed,Back pain,9
+222,2025-06-23,assisted,7,formula,Back pain,9
+223,2025-06-26,vaginal,15,mixed,Mood swings,9
+224,2025-08-08,assisted,8,mixed,Worried about scar healing,2
+225,2025-08-04,vaginal,14,formula,Pain while feeding,3
+226,2025-08-18,assisted,3,mixed,Sleep deprivation,1
+227,2025-05-24,c_section,13,formula,Pain while feeding,13
+228,2025-07-31,assisted,7,breastfeeding,Severe fatigue,4
+229,2025-07-19,c_section,12,mixed,Worried about scar healing,5
+230,2025-07-19,vaginal,18,mixed,No family support,5
+231,2025-06-08,c_section,4,formula,Incision pain,11
+232,2025-07-20,assisted,17,formula,Feeling overwhelmed,5
+233,2025-08-02,assisted,13,mixed,Worried about scar healing,3
+234,2025-07-12,assisted,18,formula,Mood swings,6
+235,2025-06-29,assisted,10,breastfeeding,Feeling overwhelmed,8
+236,2025-06-22,assisted,16,mixed,Feeling overwhelmed,9
+237,2025-07-04,vaginal,15,formula,Mood swings,7
+238,2025-07-23,assisted,10,formula,Low milk supply,5
+239,2025-06-25,c_section,10,formula,Worried about scar healing,9
+240,2025-07-06,vaginal,6,formula,Back pain,7
+241,2025-06-12,c_section,15,breastfeeding,Severe fatigue,11
+242,2025-06-22,assisted,13,breastfeeding,Back pain,9
+243,2025-08-11,c_section,4,formula,No family support,2
+244,2025-08-06,c_section,19,breastfeeding,Back pain,3
+245,2025-07-26,vaginal,10,breastfeeding,Severe fatigue,4
+246,2025-05-27,c_section,14,formula,Severe fatigue,13
+247,2025-05-30,assisted,6,mixed,Incision pain,12
+248,2025-05-26,c_section,16,mixed,Sleep deprivation,13
+249,2025-08-04,vaginal,5,breastfeeding,Severe fatigue,3
+250,2025-07-23,assisted,6,breastfeeding,Worried about scar healing,5
+251,2025-07-30,assisted,14,mixed,No family support,4
+252,2025-07-22,c_section,9,formula,Sleep deprivation,5
+253,2025-07-07,assisted,20,breastfeeding,Worried about scar healing,7
+254,2025-06-26,vaginal,11,mixed,Feeling overwhelmed,9
+255,2025-08-11,vaginal,12,mixed,Mood swings,2
+256,2025-07-10,c_section,6,mixed,No family support,7
+257,2025-06-05,assisted,5,formula,Back pain,12
+258,2025-07-30,assisted,12,breastfeeding,Mood swings,4
+259,2025-06-22,vaginal,9,mixed,Severe fatigue,9
+260,2025-08-18,c_section,3,breastfeeding,Worried about scar healing,1
+261,2025-06-01,c_section,19,formula,Worried about scar healing,12
+262,2025-07-09,assisted,11,formula,Mood swings,7
+263,2025-06-02,c_section,11,breastfeeding,Incision pain,12
+264,2025-08-15,vaginal,11,breastfeeding,Sleep deprivation,1
+265,2025-07-08,vaginal,4,mixed,No family support,7
+266,2025-06-10,vaginal,20,breastfeeding,Mood swings,11
+267,2025-06-03,vaginal,17,breastfeeding,Low milk supply,12
+268,2025-06-15,assisted,19,mixed,Low milk supply,10
+269,2025-05-24,assisted,8,mixed,Mood swings,13
+270,2025-07-07,vaginal,7,mixed,Worried about scar healing,7
+271,2025-08-18,assisted,17,mixed,Mood swings,1
+272,2025-06-07,c_section,9,formula,No family support,11
+273,2025-05-24,vaginal,12,breastfeeding,No family support,13
+274,2025-06-24,c_section,11,breastfeeding,Worried about scar healing,9
+275,2025-07-17,assisted,3,breastfeeding,No family support,6
+276,2025-07-04,vaginal,5,mixed,Sleep deprivation,7
+277,2025-08-19,assisted,19,mixed,Sleep deprivation,1
+278,2025-07-07,c_section,14,breastfeeding,Pain while feeding,7
+279,2025-05-23,assisted,19,formula,Pain while feeding,13
+280,2025-07-20,vaginal,13,mixed,Sleep deprivation,5
+281,2025-06-26,assisted,3,breastfeeding,Worried about scar healing,9
+282,2025-08-04,assisted,5,breastfeeding,Pain while feeding,3
+283,2025-05-28,c_section,5,mixed,Worried about scar healing,13
+284,2025-07-04,c_section,19,breastfeeding,Worried about scar healing,7
+285,2025-05-30,c_section,20,mixed,Feeling overwhelmed,12
+286,2025-06-21,c_section,6,breastfeeding,Incision pain,9
+287,2025-06-22,vaginal,8,formula,Pain while feeding,9
+288,2025-08-18,c_section,11,formula,Incision pain,1
+289,2025-06-05,vaginal,14,breastfeeding,Back pain,12
+290,2025-06-24,c_section,6,breastfeeding,Back pain,9
+291,2025-07-10,c_section,7,mixed,Feeling overwhelmed,7
+292,2025-06-21,vaginal,19,breastfeeding,Sleep deprivation,9
+293,2025-06-14,c_section,15,breastfeeding,Worried about scar healing,10
+294,2025-08-08,c_section,15,mixed,Pain while feeding,2
+295,2025-05-31,vaginal,13,mixed,Mood swings,12
+296,2025-08-14,assisted,19,mixed,Incision pain,2
+297,2025-06-13,vaginal,10,breastfeeding,Back pain,10
+298,2025-05-29,assisted,17,mixed,Mood swings,13
+299,2025-06-04,assisted,10,formula,No family support,12
+300,2025-06-20,c_section,10,mixed,Sleep deprivation,9
+301,2025-07-13,assisted,5,formula,Severe fatigue,6
+302,2025-06-05,vaginal,20,formula,Feeling overwhelmed,12
+303,2025-07-17,c_section,16,mixed,Pain while feeding,6
+304,2025-08-18,c_section,8,formula,Low milk supply,1
+305,2025-07-23,c_section,11,mixed,Feeling overwhelmed,5
+306,2025-07-17,c_section,4,formula,Back pain,6
+307,2025-06-30,vaginal,11,mixed,Severe fatigue,8
+308,2025-07-13,assisted,6,formula,No family support,6
+309,2025-08-03,assisted,3,mixed,Pain while feeding,3
+310,2025-05-24,vaginal,10,formula,Back pain,13
+311,2025-08-02,assisted,20,breastfeeding,Worried about scar healing,3
+312,2025-06-08,assisted,3,mixed,Severe fatigue,11
+313,2025-06-01,vaginal,10,breastfeeding,Feeling overwhelmed,12
+314,2025-08-12,assisted,3,formula,No family support,2
+315,2025-06-14,c_section,17,formula,Mood swings,10
+316,2025-06-09,assisted,16,breastfeeding,Mood swings,11
+317,2025-08-11,assisted,10,mixed,Incision pain,2
+318,2025-06-16,vaginal,8,formula,No family support,10
+319,2025-07-07,assisted,15,breastfeeding,Worried about scar healing,7
+320,2025-06-07,c_section,4,mixed,Feeling overwhelmed,11
+321,2025-08-03,assisted,13,mixed,Back pain,3
+322,2025-06-30,vaginal,8,formula,Worried about scar healing,8
+323,2025-06-17,vaginal,13,mixed,Worried about scar healing,10
+324,2025-07-24,vaginal,17,breastfeeding,Mood swings,5
+325,2025-06-15,c_section,12,formula,Low milk supply,10
+326,2025-07-10,vaginal,17,formula,Back pain,7
+327,2025-07-04,assisted,17,breastfeeding,Pain while feeding,7
+328,2025-08-06,vaginal,20,formula,Mood swings,3
+329,2025-07-16,vaginal,19,mixed,Pain while feeding,6
+330,2025-07-02,c_section,6,mixed,Incision pain,8
+331,2025-07-31,c_section,13,formula,Worried about scar healing,4
+332,2025-08-14,assisted,9,mixed,Incision pain,2
+333,2025-05-27,vaginal,13,breastfeeding,Low milk supply,13
+334,2025-07-06,c_section,12,breastfeeding,Severe fatigue,7
+335,2025-07-27,vaginal,16,formula,Low milk supply,4
+336,2025-06-06,assisted,4,formula,Severe fatigue,11
+337,2025-08-04,c_section,15,breastfeeding,Back pain,3
+338,2025-06-19,vaginal,9,formula,Mood swings,10
+339,2025-08-18,vaginal,19,mixed,Incision pain,1
+340,2025-06-21,c_section,15,breastfeeding,Sleep deprivation,9
+341,2025-07-11,c_section,17,breastfeeding,Incision pain,6
+342,2025-07-31,c_section,17,breastfeeding,Sleep deprivation,4
+343,2025-06-01,vaginal,19,breastfeeding,Mood swings,12
+344,2025-05-26,vaginal,15,mixed,Incision pain,13
+345,2025-08-07,vaginal,20,breastfeeding,Pain while feeding,3
+346,2025-08-19,c_section,14,breastfeeding,Pain while feeding,1
+347,2025-08-16,c_section,8,breastfeeding,No family support,1
+348,2025-08-11,assisted,16,breastfeeding,Pain while feeding,2
+349,2025-06-20,c_section,5,formula,Low milk supply,9
+350,2025-08-05,c_section,19,breastfeeding,Incision pain,3
+351,2025-06-10,c_section,14,breastfeeding,Pain while feeding,11
+352,2025-07-15,assisted,19,mixed,Sleep deprivation,6
+353,2025-08-02,assisted,18,breastfeeding,Back pain,3
+354,2025-08-15,vaginal,18,formula,Back pain,1
+355,2025-07-18,assisted,20,formula,No family support,5
+356,2025-05-23,vaginal,10,mixed,Mood swings,13
+357,2025-07-06,assisted,10,mixed,Incision pain,7
+358,2025-06-29,c_section,17,mixed,Sleep deprivation,8
+359,2025-05-26,vaginal,17,mixed,Mood swings,13
+360,2025-06-07,vaginal,12,breastfeeding,Mood swings,11
+361,2025-08-15,assisted,19,formula,Sleep deprivation,1
+362,2025-06-09,c_section,20,breastfeeding,Worried about scar healing,11
+363,2025-08-06,c_section,19,formula,Mood swings,3
+364,2025-05-24,vaginal,5,mixed,Pain while feeding,13
+365,2025-06-16,vaginal,5,formula,Back pain,10
+366,2025-08-17,assisted,3,mixed,Low milk supply,1
+367,2025-07-05,vaginal,6,formula,Back pain,7
+368,2025-07-26,vaginal,10,breastfeeding,Mood swings,4
+369,2025-06-06,assisted,20,mixed,Low milk supply,11
+370,2025-07-08,assisted,11,breastfeeding,Mood swings,7
+371,2025-06-29,vaginal,17,breastfeeding,Back pain,8
+372,2025-08-08,c_section,13,formula,No family support,2
+373,2025-08-07,vaginal,7,breastfeeding,Severe fatigue,3
+374,2025-08-02,assisted,16,mixed,Back pain,3
+375,2025-06-06,vaginal,3,breastfeeding,Feeling overwhelmed,11
+376,2025-07-12,vaginal,4,breastfeeding,Mood swings,6
+377,2025-08-15,vaginal,9,mixed,No family support,1
+378,2025-07-24,vaginal,18,formula,Worried about scar healing,5
+379,2025-06-30,vaginal,16,mixed,Pain while feeding,8
+380,2025-06-29,assisted,18,formula,Back pain,8
+381,2025-07-30,vaginal,3,mixed,Severe fatigue,4
+382,2025-07-26,vaginal,16,breastfeeding,Back pain,4
+383,2025-06-07,c_section,10,formula,Feeling overwhelmed,11
+384,2025-06-18,assisted,9,mixed,Pain while feeding,10
+385,2025-08-13,assisted,11,breastfeeding,Sleep deprivation,2
+386,2025-05-25,assisted,20,mixed,Incision pain,13
+387,2025-07-12,c_section,20,breastfeeding,Feeling overwhelmed,6
+388,2025-07-06,c_section,12,breastfeeding,Mood swings,7
+389,2025-08-01,assisted,5,breastfeeding,Back pain,3
+390,2025-05-31,c_section,8,formula,Worried about scar healing,12
+391,2025-07-05,vaginal,8,formula,Severe fatigue,7
+392,2025-07-22,vaginal,14,mixed,Mood swings,5
+393,2025-07-01,vaginal,11,formula,No family support,8
+394,2025-06-07,c_section,16,breastfeeding,Incision pain,11
+395,2025-08-10,assisted,7,breastfeeding,Severe fatigue,2
+396,2025-06-16,vaginal,14,mixed,Low milk supply,10
+397,2025-07-12,vaginal,17,breastfeeding,Back pain,6
+398,2025-07-13,vaginal,17,breastfeeding,Back pain,6
+399,2025-05-25,assisted,11,mixed,Sleep deprivation,13
+400,2025-06-29,assisted,4,breastfeeding,No family support,8
+401,2025-08-20,assisted,17,mixed,Incision pain,1
+402,2025-08-04,assisted,10,formula,No family support,3
+403,2025-06-19,c_section,20,mixed,Back pain,10
+404,2025-06-26,vaginal,5,mixed,No family support,9
+405,2025-05-29,c_section,18,mixed,Severe fatigue,13
+406,2025-06-29,vaginal,20,mixed,Mood swings,8
+407,2025-07-13,vaginal,17,mixed,Feeling overwhelmed,6
+408,2025-05-27,vaginal,5,formula,No family support,13
+409,2025-06-01,assisted,12,mixed,Pain while feeding,12
+410,2025-06-22,assisted,9,mixed,Mood swings,9
+411,2025-08-14,c_section,16,mixed,Back pain,2
+412,2025-08-02,c_section,5,breastfeeding,Pain while feeding,3
+413,2025-07-07,vaginal,15,formula,Worried about scar healing,7
+414,2025-05-30,vaginal,4,formula,Back pain,12
+415,2025-05-29,vaginal,4,mixed,Severe fatigue,13
+416,2025-07-22,vaginal,16,breastfeeding,Mood swings,5
+417,2025-08-01,assisted,13,mixed,Mood swings,3
+418,2025-07-01,c_section,14,mixed,Back pain,8
+419,2025-06-25,assisted,6,formula,Worried about scar healing,9
+420,2025-07-30,vaginal,7,formula,Feeling overwhelmed,4
+421,2025-05-23,assisted,11,mixed,Mood swings,13
+422,2025-08-17,c_section,17,mixed,Worried about scar healing,1
+423,2025-05-25,c_section,14,breastfeeding,Back pain,13
+424,2025-05-31,c_section,14,breastfeeding,Worried about scar healing,12
+425,2025-07-02,vaginal,19,formula,Worried about scar healing,8
+426,2025-06-22,vaginal,13,breastfeeding,Sleep deprivation,9
+427,2025-06-22,c_section,17,breastfeeding,Mood swings,9
+428,2025-07-31,assisted,5,breastfeeding,Low milk supply,4
+429,2025-08-16,assisted,13,breastfeeding,Pain while feeding,1
+430,2025-08-15,assisted,5,mixed,Feeling overwhelmed,1
+431,2025-08-10,vaginal,9,breastfeeding,Worried about scar healing,2
+432,2025-06-25,assisted,6,breastfeeding,Mood swings,9
+433,2025-06-29,assisted,18,breastfeeding,Severe fatigue,8
+434,2025-06-25,assisted,5,mixed,Back pain,9
+435,2025-08-15,assisted,12,mixed,Pain while feeding,1
+436,2025-06-18,c_section,7,formula,Pain while feeding,10
+437,2025-06-15,assisted,13,mixed,No family support,10
+438,2025-08-03,c_section,17,breastfeeding,Incision pain,3
+439,2025-07-19,c_section,7,breastfeeding,Pain while feeding,5
+440,2025-05-26,assisted,5,formula,Worried about scar healing,13
+441,2025-06-21,assisted,10,formula,Mood swings,9
+442,2025-07-26,c_section,13,breastfeeding,Worried about scar healing,4
+443,2025-07-15,vaginal,14,mixed,Feeling overwhelmed,6
+444,2025-07-12,assisted,14,formula,No family support,6
+445,2025-06-16,c_section,7,mixed,Sleep deprivation,10
+446,2025-08-15,vaginal,12,mixed,Pain while feeding,1
+447,2025-06-26,c_section,17,mixed,Pain while feeding,9
+448,2025-06-29,vaginal,16,mixed,Back pain,8
+449,2025-06-30,c_section,3,mixed,Mood swings,8
+450,2025-06-22,assisted,19,mixed,Low milk supply,9
+451,2025-07-31,c_section,14,breastfeeding,No family support,4
+452,2025-07-31,assisted,9,formula,Worried about scar healing,4
+453,2025-07-17,c_section,18,formula,Mood swings,6
+454,2025-07-12,c_section,6,mixed,Sleep deprivation,6
+455,2025-07-26,c_section,11,formula,Back pain,4
+456,2025-07-07,assisted,11,formula,Low milk supply,7
+457,2025-07-15,vaginal,5,breastfeeding,Back pain,6
+458,2025-07-06,vaginal,14,breastfeeding,Low milk supply,7
+459,2025-07-11,c_section,20,breastfeeding,Incision pain,6
+460,2025-08-12,vaginal,3,mixed,Incision pain,2
+461,2025-08-02,assisted,11,breastfeeding,Feeling overwhelmed,3
+462,2025-07-25,c_section,13,breastfeeding,Severe fatigue,4
+463,2025-06-09,vaginal,11,breastfeeding,Low milk supply,11
+464,2025-08-03,vaginal,10,mixed,Low milk supply,3
+465,2025-07-04,c_section,7,breastfeeding,No family support,7
+466,2025-07-26,vaginal,9,mixed,Mood swings,4
+467,2025-05-23,vaginal,5,mixed,Severe fatigue,13
+468,2025-06-02,c_section,16,mixed,Mood swings,12
+469,2025-06-29,c_section,6,formula,No family support,8
+470,2025-08-05,c_section,17,breastfeeding,No family support,3
+471,2025-06-10,assisted,8,mixed,Worried about scar healing,11
+472,2025-07-11,c_section,14,mixed,Severe fatigue,6
+473,2025-07-03,assisted,4,formula,Incision pain,8
+474,2025-06-29,c_section,5,breastfeeding,Sleep deprivation,8
+475,2025-05-25,c_section,8,breastfeeding,Back pain,13
+476,2025-05-31,c_section,14,formula,Worried about scar healing,12
+477,2025-05-30,c_section,13,breastfeeding,Back pain,12
+478,2025-05-31,assisted,5,mixed,Low milk supply,12
+479,2025-08-03,vaginal,16,formula,Back pain,3
+480,2025-06-26,vaginal,11,formula,Feeling overwhelmed,9
+481,2025-06-20,assisted,7,breastfeeding,Back pain,9
+482,2025-08-11,c_section,13,formula,Severe fatigue,2
+483,2025-07-27,assisted,5,breastfeeding,No family support,4
+484,2025-06-05,assisted,6,mixed,No family support,12
+485,2025-07-20,c_section,19,breastfeeding,Feeling overwhelmed,5
+486,2025-08-07,vaginal,17,formula,Low milk supply,3
+487,2025-05-23,assisted,14,mixed,Pain while feeding,13
+488,2025-05-23,assisted,8,formula,Mood swings,13
+489,2025-08-02,assisted,12,mixed,Pain while feeding,3
+490,2025-05-24,assisted,13,mixed,No family support,13
+491,2025-07-16,assisted,9,breastfeeding,Mood swings,6
+492,2025-07-16,c_section,16,formula,No family support,6
+493,2025-06-07,c_section,20,breastfeeding,Mood swings,11
+494,2025-06-27,assisted,7,mixed,No family support,8
+495,2025-06-25,assisted,15,mixed,Worried about scar healing,9
+496,2025-06-17,assisted,10,breastfeeding,Feeling overwhelmed,10
+497,2025-06-10,assisted,5,formula,Worried about scar healing,11
+498,2025-07-10,vaginal,19,breastfeeding,Low milk supply,7
+499,2025-07-10,c_section,15,breastfeeding,No family support,7
+500,2025-07-03,assisted,12,breastfeeding,Pain while feeding,8
+501,2025-06-22,assisted,5,breastfeeding,Sleep deprivation,9
+502,2025-06-10,vaginal,3,breastfeeding,Incision pain,11
+503,2025-07-25,vaginal,6,breastfeeding,Feeling overwhelmed,4
+504,2025-06-21,vaginal,11,breastfeeding,Feeling overwhelmed,9
+505,2025-08-11,vaginal,12,breastfeeding,Sleep deprivation,2
+506,2025-06-18,vaginal,10,breastfeeding,Mood swings,10
+507,2025-07-31,vaginal,11,mixed,Mood swings,4
+508,2025-07-22,c_section,5,breastfeeding,Worried about scar healing,5
+509,2025-06-13,c_section,10,mixed,Mood swings,10
+510,2025-07-06,assisted,10,mixed,Sleep deprivation,7
+511,2025-07-14,vaginal,15,mixed,Back pain,6
+512,2025-06-20,vaginal,18,formula,Low milk supply,9
+513,2025-07-02,vaginal,16,formula,Low milk supply,8
+514,2025-08-07,assisted,16,formula,Mood swings,3
+515,2025-07-04,assisted,5,breastfeeding,Sleep deprivation,7
+516,2025-07-01,vaginal,8,breastfeeding,Mood swings,8
+517,2025-07-03,assisted,8,mixed,Back pain,8
+518,2025-08-03,assisted,19,breastfeeding,Worried about scar healing,3
+519,2025-06-05,assisted,6,breastfeeding,Incision pain,12
+520,2025-06-22,c_section,12,mixed,Incision pain,9
+521,2025-07-17,assisted,7,breastfeeding,Feeling overwhelmed,6
+522,2025-06-18,c_section,8,formula,Severe fatigue,10
+523,2025-08-17,assisted,4,breastfeeding,Sleep deprivation,1
+524,2025-07-09,assisted,5,formula,Severe fatigue,7
+525,2025-07-23,c_section,12,formula,Incision pain,5
+526,2025-07-29,assisted,19,breastfeeding,Low milk supply,4
+527,2025-07-30,c_section,13,mixed,Pain while feeding,4
+528,2025-08-03,vaginal,5,breastfeeding,Feeling overwhelmed,3
+529,2025-06-11,vaginal,12,breastfeeding,Worried about scar healing,11
+530,2025-06-28,assisted,11,formula,Back pain,8
+531,2025-07-16,vaginal,8,formula,Low milk supply,6
+532,2025-07-22,assisted,10,mixed,Pain while feeding,5
+533,2025-08-15,vaginal,14,mixed,Feeling overwhelmed,1
+534,2025-07-17,assisted,6,breastfeeding,No family support,6
+535,2025-08-02,assisted,12,formula,Severe fatigue,3
+536,2025-07-31,assisted,12,breastfeeding,No family support,4
+537,2025-06-26,vaginal,17,formula,Mood swings,9
+538,2025-07-10,assisted,8,breastfeeding,Back pain,7
+539,2025-06-05,vaginal,14,formula,Mood swings,12
+540,2025-08-12,assisted,17,mixed,Worried about scar healing,2
+541,2025-05-30,vaginal,5,breastfeeding,Mood swings,12
+542,2025-06-15,assisted,19,mixed,No family support,10
+543,2025-08-09,vaginal,20,mixed,Sleep deprivation,2
+544,2025-07-14,vaginal,8,mixed,Severe fatigue,6
+545,2025-06-20,c_section,4,breastfeeding,Sleep deprivation,9
+546,2025-07-11,vaginal,5,mixed,Worried about scar healing,6
+547,2025-07-11,c_section,4,mixed,Low milk supply,6
+548,2025-07-30,c_section,14,mixed,Worried about scar healing,4
+549,2025-06-21,c_section,8,formula,Feeling overwhelmed,9
+550,2025-08-16,vaginal,13,breastfeeding,Back pain,1
+551,2025-06-18,vaginal,5,formula,Back pain,10
+552,2025-08-11,c_section,16,formula,Low milk supply,2
+553,2025-05-29,vaginal,6,formula,Sleep deprivation,13
+554,2025-07-11,assisted,6,mixed,Pain while feeding,6
+555,2025-06-24,c_section,6,formula,Incision pain,9
+556,2025-06-19,vaginal,9,formula,Worried about scar healing,10
+557,2025-08-12,assisted,4,breastfeeding,Back pain,2
+558,2025-06-28,vaginal,11,mixed,Worried about scar healing,8
+559,2025-06-10,vaginal,18,formula,Worried about scar healing,11
+560,2025-05-26,assisted,16,mixed,Severe fatigue,13
+561,2025-07-09,c_section,13,breastfeeding,Severe fatigue,7
+562,2025-05-30,vaginal,9,mixed,Pain while feeding,12
+563,2025-07-22,vaginal,18,formula,Severe fatigue,5
+564,2025-08-03,assisted,10,breastfeeding,No family support,3
+565,2025-06-05,c_section,20,formula,Incision pain,12
+566,2025-08-01,c_section,16,formula,Feeling overwhelmed,3
+567,2025-07-09,c_section,11,mixed,Back pain,7
+568,2025-07-16,vaginal,9,mixed,Low milk supply,6
+569,2025-06-16,vaginal,9,mixed,Back pain,10
+570,2025-06-28,assisted,6,breastfeeding,No family support,8
+571,2025-08-10,c_section,11,mixed,Low milk supply,2
+572,2025-08-07,assisted,16,formula,Severe fatigue,3
+573,2025-07-26,vaginal,3,formula,Pain while feeding,4
+574,2025-07-13,c_section,4,breastfeeding,Sleep deprivation,6
+575,2025-06-21,assisted,17,formula,Low milk supply,9
+576,2025-07-20,assisted,11,formula,Sleep deprivation,5
+577,2025-06-30,vaginal,15,breastfeeding,Sleep deprivation,8
+578,2025-05-24,vaginal,5,formula,Sleep deprivation,13
+579,2025-08-06,c_section,16,mixed,Incision pain,3
+580,2025-07-16,c_section,11,mixed,Low milk supply,6
+581,2025-07-23,assisted,3,formula,Worried about scar healing,5
+582,2025-06-07,c_section,19,breastfeeding,Back pain,11
+583,2025-06-22,vaginal,8,breastfeeding,Back pain,9
+584,2025-06-18,assisted,11,formula,Severe fatigue,10
+585,2025-06-01,c_section,3,breastfeeding,Incision pain,12
+586,2025-07-28,assisted,20,breastfeeding,No family support,4
+587,2025-08-18,c_section,7,breastfeeding,Low milk supply,1
+588,2025-06-02,vaginal,7,formula,Back pain,12
+589,2025-08-16,c_section,18,mixed,Pain while feeding,1
+590,2025-07-01,c_section,14,formula,Low milk supply,8
+591,2025-06-25,c_section,4,breastfeeding,Severe fatigue,9
+592,2025-06-15,assisted,4,mixed,Pain while feeding,10
+593,2025-05-31,assisted,8,formula,Mood swings,12
+594,2025-08-10,c_section,17,breastfeeding,Incision pain,2
+595,2025-08-05,c_section,16,formula,Sleep deprivation,3
+596,2025-06-19,assisted,18,breastfeeding,Back pain,10
+597,2025-07-04,c_section,10,formula,Worried about scar healing,7
+598,2025-07-31,vaginal,11,formula,Worried about scar healing,4
+599,2025-06-01,vaginal,20,formula,No family support,12
+600,2025-06-14,c_section,13,breastfeeding,Incision pain,10
+601,2025-06-22,vaginal,18,formula,Pain while feeding,9
+602,2025-07-16,c_section,18,breastfeeding,Sleep deprivation,6
+603,2025-07-02,vaginal,18,breastfeeding,No family support,8
+604,2025-05-23,c_section,11,breastfeeding,Severe fatigue,13
+605,2025-07-29,c_section,5,breastfeeding,Incision pain,4
+606,2025-08-19,c_section,8,formula,Back pain,1
+607,2025-06-20,c_section,8,mixed,Low milk supply,9
+608,2025-06-13,vaginal,9,formula,Worried about scar healing,10
+609,2025-08-13,vaginal,15,mixed,Low milk supply,2
+610,2025-06-05,c_section,19,mixed,Severe fatigue,12
+611,2025-07-26,c_section,8,breastfeeding,Sleep deprivation,4
+612,2025-07-02,c_section,8,mixed,Low milk supply,8
+613,2025-08-16,c_section,18,formula,Back pain,1
+614,2025-06-08,c_section,20,formula,Feeling overwhelmed,11
+615,2025-08-12,c_section,7,breastfeeding,No family support,2
+616,2025-06-11,vaginal,8,breastfeeding,Incision pain,11
+617,2025-06-12,c_section,17,formula,Worried about scar healing,11
+618,2025-06-15,c_section,18,mixed,Worried about scar healing,10
+619,2025-07-30,vaginal,8,formula,Low milk supply,4
+620,2025-05-27,assisted,9,formula,Low milk supply,13
+621,2025-06-18,assisted,15,breastfeeding,No family support,10
+622,2025-06-20,vaginal,3,formula,Low milk supply,9
+623,2025-06-18,assisted,13,breastfeeding,Worried about scar healing,10
+624,2025-06-23,assisted,18,breastfeeding,Sleep deprivation,9
+625,2025-06-23,vaginal,13,mixed,Low milk supply,9
+626,2025-07-09,vaginal,3,mixed,Feeling overwhelmed,7
+627,2025-08-10,c_section,10,formula,Pain while feeding,2
+628,2025-07-17,c_section,7,mixed,No family support,6
+629,2025-06-05,c_section,3,breastfeeding,Worried about scar healing,12
+630,2025-07-09,vaginal,15,breastfeeding,Worried about scar healing,7
+631,2025-06-11,vaginal,5,breastfeeding,Pain while feeding,11
+632,2025-07-29,vaginal,19,breastfeeding,Feeling overwhelmed,4
+633,2025-07-19,vaginal,17,mixed,Pain while feeding,5
+634,2025-05-24,c_section,8,formula,Sleep deprivation,13
+635,2025-07-18,c_section,6,breastfeeding,Severe fatigue,5
+636,2025-06-25,vaginal,16,breastfeeding,No family support,9
+637,2025-06-28,assisted,15,breastfeeding,Pain while feeding,8
+638,2025-06-29,vaginal,14,mixed,Mood swings,8
+639,2025-06-17,vaginal,18,mixed,Incision pain,10
+640,2025-06-13,c_section,19,mixed,Pain while feeding,10
+641,2025-05-23,c_section,6,mixed,No family support,13
+642,2025-07-25,c_section,10,mixed,Worried about scar healing,4
+643,2025-06-04,assisted,16,breastfeeding,Sleep deprivation,12
+644,2025-06-25,assisted,20,breastfeeding,Low milk supply,9
+645,2025-06-13,vaginal,5,mixed,Sleep deprivation,10
+646,2025-08-07,vaginal,8,breastfeeding,Incision pain,3
+647,2025-07-22,assisted,17,formula,Incision pain,5
+648,2025-08-18,vaginal,19,breastfeeding,Back pain,1
+649,2025-08-05,assisted,18,mixed,Back pain,3
+650,2025-06-15,vaginal,9,mixed,Pain while feeding,10
+651,2025-07-25,vaginal,20,formula,Pain while feeding,4
+652,2025-07-25,c_section,12,breastfeeding,No family support,4
+653,2025-07-26,vaginal,4,breastfeeding,Pain while feeding,4
+654,2025-06-09,vaginal,8,mixed,Back pain,11
+655,2025-07-29,c_section,4,mixed,Low milk supply,4
+656,2025-08-01,vaginal,4,mixed,Mood swings,3
+657,2025-08-09,c_section,20,breastfeeding,Back pain,2
+658,2025-06-07,c_section,14,mixed,Worried about scar healing,11
+659,2025-06-17,assisted,16,formula,No family support,10
+660,2025-07-25,assisted,7,mixed,Pain while feeding,4
+661,2025-05-23,assisted,16,mixed,Low milk supply,13
+662,2025-06-25,assisted,9,formula,Back pain,9
+663,2025-06-15,assisted,8,formula,Sleep deprivation,10
+664,2025-08-14,vaginal,14,formula,Back pain,2
+665,2025-06-07,c_section,12,mixed,Low milk supply,11
+666,2025-08-01,vaginal,6,mixed,Incision pain,3
+667,2025-06-02,c_section,18,breastfeeding,Low milk supply,12
+668,2025-08-14,assisted,11,formula,Low milk supply,2
+669,2025-06-07,c_section,12,breastfeeding,Pain while feeding,11
+670,2025-07-10,c_section,8,formula,Back pain,7
+671,2025-07-07,assisted,16,mixed,No family support,7
+672,2025-06-28,c_section,19,mixed,Feeling overwhelmed,8
+673,2025-07-17,c_section,16,breastfeeding,Sleep deprivation,6
+674,2025-07-03,vaginal,16,breastfeeding,Incision pain,8
+675,2025-08-03,c_section,13,mixed,Worried about scar healing,3
+676,2025-07-19,c_section,7,mixed,Low milk supply,5
+677,2025-06-15,assisted,19,mixed,No family support,10
+678,2025-07-16,vaginal,5,formula,Sleep deprivation,6
+679,2025-07-14,vaginal,11,mixed,Low milk supply,6
+680,2025-05-24,vaginal,8,mixed,Severe fatigue,13
+681,2025-07-27,vaginal,6,breastfeeding,Back pain,4
+682,2025-08-16,c_section,19,formula,No family support,1
+683,2025-08-09,c_section,17,breastfeeding,No family support,2
+684,2025-08-09,assisted,3,mixed,Back pain,2
+685,2025-08-17,c_section,17,breastfeeding,Incision pain,1
+686,2025-05-31,c_section,8,breastfeeding,Incision pain,12
+687,2025-08-08,vaginal,19,mixed,Sleep deprivation,2
+688,2025-06-13,assisted,11,mixed,Incision pain,10
+689,2025-05-30,c_section,15,breastfeeding,Back pain,12
+690,2025-07-16,assisted,8,formula,Worried about scar healing,6
+691,2025-06-05,assisted,19,mixed,Mood swings,12
+692,2025-05-29,c_section,18,breastfeeding,Feeling overwhelmed,13
+693,2025-06-14,c_section,7,breastfeeding,Sleep deprivation,10
+694,2025-08-10,assisted,6,mixed,Worried about scar healing,2
+695,2025-05-23,assisted,17,breastfeeding,Feeling overwhelmed,13
+696,2025-06-02,vaginal,18,breastfeeding,Sleep deprivation,12
+697,2025-06-22,assisted,17,formula,No family support,9
+698,2025-08-04,c_section,6,mixed,Incision pain,3
+699,2025-06-07,vaginal,8,formula,No family support,11
+700,2025-05-26,vaginal,4,mixed,Sleep deprivation,13
+701,2025-05-24,vaginal,13,breastfeeding,Back pain,13
+702,2025-08-04,vaginal,11,formula,Low milk supply,3
+703,2025-08-04,c_section,12,formula,Incision pain,3
+704,2025-06-13,vaginal,6,mixed,Pain while feeding,10
+705,2025-08-04,vaginal,19,breastfeeding,Pain while feeding,3
+706,2025-06-01,c_section,12,mixed,Mood swings,12
+707,2025-08-01,assisted,10,mixed,Mood swings,3
+708,2025-08-20,c_section,14,mixed,Incision pain,1
+709,2025-06-05,vaginal,4,mixed,Pain while feeding,12
+710,2025-06-17,vaginal,13,formula,Incision pain,10
+711,2025-06-12,assisted,4,breastfeeding,Worried about scar healing,11
+712,2025-07-17,c_section,11,formula,Incision pain,6
+713,2025-07-06,vaginal,11,formula,Sleep deprivation,7
+714,2025-07-06,vaginal,12,formula,Worried about scar healing,7
+715,2025-07-23,vaginal,9,breastfeeding,Pain while feeding,5
+716,2025-08-02,c_section,11,mixed,Worried about scar healing,3
+717,2025-06-13,assisted,4,formula,Incision pain,10
+718,2025-07-03,c_section,6,formula,Incision pain,8
+719,2025-08-03,vaginal,10,mixed,Sleep deprivation,3
+720,2025-08-01,c_section,6,formula,Severe fatigue,3
+721,2025-06-02,assisted,4,breastfeeding,Mood swings,12
+722,2025-06-03,assisted,7,breastfeeding,Back pain,12
+723,2025-07-16,vaginal,14,mixed,Incision pain,6
+724,2025-08-04,assisted,18,formula,Incision pain,3
+725,2025-07-06,c_section,12,breastfeeding,Incision pain,7
+726,2025-08-11,vaginal,5,breastfeeding,No family support,2
+727,2025-07-21,c_section,11,breastfeeding,Mood swings,5
+728,2025-08-16,assisted,13,formula,Worried about scar healing,1
+729,2025-05-25,assisted,10,breastfeeding,Sleep deprivation,13
+730,2025-08-02,c_section,13,formula,Mood swings,3
+731,2025-06-13,assisted,14,mixed,Sleep deprivation,10
+732,2025-08-03,assisted,20,breastfeeding,Feeling overwhelmed,3
+733,2025-08-09,assisted,19,breastfeeding,Mood swings,2
+734,2025-06-13,vaginal,12,formula,Back pain,10
+735,2025-08-09,c_section,19,breastfeeding,Feeling overwhelmed,2
+736,2025-07-15,vaginal,10,formula,Sleep deprivation,6
+737,2025-07-15,assisted,16,mixed,Mood swings,6
+738,2025-07-11,vaginal,8,formula,Feeling overwhelmed,6
+739,2025-06-01,vaginal,3,mixed,Pain while feeding,12
+740,2025-05-29,vaginal,20,formula,Sleep deprivation,13
+741,2025-08-16,c_section,15,formula,Pain while feeding,1
+742,2025-07-11,vaginal,7,breastfeeding,Back pain,6
+743,2025-07-30,c_section,16,mixed,Sleep deprivation,4
+744,2025-06-07,vaginal,17,formula,Back pain,11
+745,2025-05-28,assisted,6,formula,Pain while feeding,13
+746,2025-07-20,assisted,15,mixed,Mood swings,5
+747,2025-06-30,c_section,20,breastfeeding,Severe fatigue,8
+748,2025-06-09,vaginal,8,breastfeeding,Pain while feeding,11
+749,2025-08-11,assisted,19,mixed,Pain while feeding,2
+750,2025-07-16,vaginal,18,formula,Feeling overwhelmed,6
+751,2025-07-11,vaginal,9,mixed,Incision pain,6
+752,2025-08-13,vaginal,17,formula,Worried about scar healing,2
+753,2025-08-18,vaginal,5,breastfeeding,Sleep deprivation,1
+754,2025-08-12,vaginal,19,mixed,Low milk supply,2
+755,2025-08-18,c_section,8,formula,Feeling overwhelmed,1
+756,2025-06-26,vaginal,5,formula,Sleep deprivation,9
+757,2025-06-30,assisted,12,mixed,Mood swings,8
+758,2025-05-30,assisted,18,breastfeeding,Feeling overwhelmed,12
+759,2025-06-19,assisted,19,mixed,Low milk supply,10
+760,2025-07-25,assisted,11,mixed,Severe fatigue,4
+761,2025-06-10,assisted,19,formula,Worried about scar healing,11
+762,2025-08-04,c_section,5,mixed,Sleep deprivation,3
+763,2025-08-14,assisted,10,breastfeeding,No family support,2
+764,2025-05-25,c_section,7,formula,Low milk supply,13
+765,2025-07-18,c_section,3,formula,Incision pain,5
+766,2025-06-29,assisted,11,breastfeeding,Low milk supply,8
+767,2025-08-04,vaginal,19,mixed,Severe fatigue,3
+768,2025-08-12,assisted,11,mixed,Severe fatigue,2
+769,2025-06-27,vaginal,17,mixed,Feeling overwhelmed,8
+770,2025-06-14,vaginal,9,breastfeeding,Feeling overwhelmed,10
+771,2025-07-02,vaginal,20,formula,Back pain,8
+772,2025-06-29,c_section,11,formula,No family support,8
+773,2025-07-24,c_section,4,breastfeeding,Severe fatigue,5
+774,2025-07-28,vaginal,12,mixed,Worried about scar healing,4
+775,2025-05-23,assisted,12,formula,No family support,13
+776,2025-07-16,assisted,9,breastfeeding,Worried about scar healing,6
+777,2025-06-02,assisted,9,formula,Low milk supply,12
+778,2025-08-07,vaginal,5,mixed,Worried about scar healing,3
+779,2025-06-10,vaginal,18,mixed,Back pain,11
+780,2025-07-22,vaginal,20,mixed,Pain while feeding,5
+781,2025-06-12,vaginal,14,breastfeeding,Worried about scar healing,11
+782,2025-07-01,assisted,14,formula,Mood swings,8
+783,2025-07-27,c_section,8,mixed,Severe fatigue,4
+784,2025-08-11,c_section,9,breastfeeding,Pain while feeding,2
+785,2025-07-13,assisted,7,formula,Incision pain,6
+786,2025-07-07,vaginal,11,breastfeeding,No family support,7
+787,2025-07-09,vaginal,3,mixed,Back pain,7
+788,2025-07-25,assisted,20,formula,Back pain,4
+789,2025-07-26,assisted,13,breastfeeding,Worried about scar healing,4
+790,2025-07-22,c_section,5,breastfeeding,Mood swings,5
+791,2025-06-19,c_section,13,mixed,Pain while feeding,10
+792,2025-06-30,vaginal,9,breastfeeding,Feeling overwhelmed,8
+793,2025-07-10,c_section,17,mixed,Feeling overwhelmed,7
+794,2025-06-30,assisted,20,breastfeeding,Worried about scar healing,8
+795,2025-06-23,vaginal,4,mixed,Pain while feeding,9
+796,2025-07-11,c_section,5,breastfeeding,Back pain,6
+797,2025-06-28,vaginal,14,breastfeeding,Feeling overwhelmed,8
+798,2025-06-05,vaginal,19,breastfeeding,Low milk supply,12
+799,2025-05-25,vaginal,19,breastfeeding,Low milk supply,13
+800,2025-05-27,c_section,16,breastfeeding,Pain while feeding,13
+801,2025-06-16,vaginal,18,mixed,Severe fatigue,10
+802,2025-06-29,assisted,3,mixed,Sleep deprivation,8
+803,2025-08-11,vaginal,15,mixed,Low milk supply,2
+804,2025-06-28,c_section,18,formula,Mood swings,8
+805,2025-06-24,c_section,9,formula,Severe fatigue,9
+806,2025-05-27,vaginal,13,formula,No family support,13
+807,2025-06-27,vaginal,3,mixed,Worried about scar healing,8
+808,2025-07-07,c_section,9,breastfeeding,Incision pain,7
+809,2025-07-12,c_section,4,mixed,Back pain,6
+810,2025-06-19,assisted,17,mixed,Severe fatigue,10
+811,2025-06-03,vaginal,18,mixed,Back pain,12
+812,2025-06-29,vaginal,6,breastfeeding,Mood swings,8
+813,2025-07-12,vaginal,19,breastfeeding,Sleep deprivation,6
+814,2025-07-06,assisted,13,breastfeeding,Pain while feeding,7
+815,2025-05-31,c_section,10,formula,Mood swings,12
+816,2025-07-05,assisted,15,breastfeeding,Incision pain,7
+817,2025-07-10,c_section,4,mixed,Incision pain,7
+818,2025-06-18,c_section,9,formula,Low milk supply,10
+819,2025-08-03,assisted,15,mixed,Sleep deprivation,3
+820,2025-07-03,c_section,10,mixed,Incision pain,8
+821,2025-07-25,vaginal,15,formula,Feeling overwhelmed,4
+822,2025-07-02,vaginal,13,mixed,Low milk supply,8
+823,2025-07-11,assisted,14,mixed,Worried about scar healing,6
+824,2025-06-07,c_section,5,formula,Sleep deprivation,11
+825,2025-07-08,vaginal,13,breastfeeding,Feeling overwhelmed,7
+826,2025-06-28,assisted,9,formula,Back pain,8
+827,2025-07-17,vaginal,16,mixed,Pain while feeding,6
+828,2025-07-14,assisted,11,formula,Sleep deprivation,6
+829,2025-07-25,vaginal,4,formula,No family support,4
+830,2025-07-18,vaginal,3,mixed,Severe fatigue,5
+831,2025-08-08,vaginal,16,breastfeeding,Low milk supply,2
+832,2025-06-25,c_section,14,breastfeeding,Low milk supply,9
+833,2025-07-02,assisted,15,formula,Worried about scar healing,8
+834,2025-07-24,c_section,3,mixed,Back pain,5
+835,2025-07-29,vaginal,8,formula,Severe fatigue,4
+836,2025-08-06,assisted,3,formula,Severe fatigue,3
+837,2025-06-13,assisted,20,formula,Low milk supply,10
+838,2025-06-22,vaginal,4,breastfeeding,Pain while feeding,9
+839,2025-07-28,c_section,13,formula,Feeling overwhelmed,4
+840,2025-08-19,assisted,17,formula,Feeling overwhelmed,1
+841,2025-06-11,vaginal,10,formula,Low milk supply,11
+842,2025-08-03,vaginal,14,breastfeeding,Feeling overwhelmed,3
+843,2025-07-13,assisted,18,formula,Feeling overwhelmed,6
+844,2025-07-02,c_section,7,formula,Mood swings,8
+845,2025-07-21,assisted,3,formula,Worried about scar healing,5
+846,2025-06-09,c_section,3,breastfeeding,Low milk supply,11
+847,2025-07-14,assisted,20,formula,Incision pain,6
+848,2025-06-14,vaginal,14,formula,Mood swings,10
+849,2025-07-07,assisted,11,breastfeeding,Low milk supply,7
+850,2025-06-23,c_section,11,mixed,Incision pain,9
+851,2025-08-04,c_section,20,breastfeeding,Mood swings,3
+852,2025-07-16,assisted,14,formula,Low milk supply,6
+853,2025-07-03,c_section,6,mixed,Low milk supply,8
+854,2025-08-15,vaginal,13,mixed,Worried about scar healing,1
+855,2025-05-31,vaginal,12,breastfeeding,Incision pain,12
+856,2025-06-05,c_section,11,breastfeeding,Low milk supply,12
+857,2025-06-07,assisted,14,mixed,Incision pain,11
+858,2025-06-01,assisted,15,breastfeeding,Back pain,12
+859,2025-07-11,c_section,6,breastfeeding,Back pain,6
+860,2025-07-31,vaginal,4,breastfeeding,Sleep deprivation,4
+861,2025-06-09,vaginal,12,formula,Pain while feeding,11
+862,2025-08-18,assisted,3,formula,Incision pain,1
+863,2025-06-21,assisted,20,breastfeeding,Sleep deprivation,9
+864,2025-06-15,vaginal,5,formula,Low milk supply,10
+865,2025-08-09,vaginal,6,mixed,Feeling overwhelmed,2
+866,2025-06-06,c_section,17,breastfeeding,Back pain,11
+867,2025-06-20,c_section,6,breastfeeding,Severe fatigue,9
+868,2025-06-12,vaginal,7,mixed,Sleep deprivation,11
+869,2025-07-06,assisted,7,formula,Low milk supply,7
+870,2025-08-09,assisted,13,formula,Back pain,2
+871,2025-07-22,c_section,6,mixed,Severe fatigue,5
+872,2025-07-30,assisted,4,breastfeeding,Low milk supply,4
+873,2025-08-09,assisted,10,mixed,Low milk supply,2
+874,2025-06-04,c_section,10,breastfeeding,Feeling overwhelmed,12
+875,2025-06-07,c_section,11,breastfeeding,Pain while feeding,11
+876,2025-08-14,assisted,17,formula,Back pain,2
+877,2025-06-20,assisted,19,breastfeeding,Sleep deprivation,9
+878,2025-07-15,assisted,17,formula,Mood swings,6
+879,2025-05-24,c_section,20,mixed,Worried about scar healing,13
+880,2025-05-24,assisted,20,breastfeeding,Severe fatigue,13
+881,2025-07-27,c_section,4,mixed,Feeling overwhelmed,4
+882,2025-07-13,c_section,17,formula,Low milk supply,6
+883,2025-07-31,assisted,4,formula,No family support,4
+884,2025-06-28,assisted,14,mixed,Low milk supply,8
+885,2025-06-14,c_section,12,mixed,No family support,10
+886,2025-07-25,assisted,6,breastfeeding,Pain while feeding,4
+887,2025-06-16,vaginal,14,formula,Severe fatigue,10
+888,2025-06-15,vaginal,13,breastfeeding,No family support,10
+889,2025-07-29,c_section,14,mixed,Sleep deprivation,4
+890,2025-06-05,assisted,5,formula,Pain while feeding,12
+891,2025-06-08,c_section,15,formula,Feeling overwhelmed,11
+892,2025-07-20,c_section,20,mixed,Severe fatigue,5
+893,2025-05-29,c_section,15,breastfeeding,Worried about scar healing,13
+894,2025-07-08,vaginal,5,formula,Sleep deprivation,7
+895,2025-07-26,c_section,12,mixed,Worried about scar healing,4
+896,2025-07-25,vaginal,6,formula,Incision pain,4
+897,2025-07-30,assisted,20,mixed,Back pain,4
+898,2025-06-20,vaginal,12,formula,Severe fatigue,9
+899,2025-07-24,assisted,12,breastfeeding,Worried about scar healing,5
+900,2025-05-31,vaginal,18,breastfeeding,Mood swings,12
+901,2025-08-03,vaginal,12,mixed,Pain while feeding,3
+902,2025-08-07,assisted,4,mixed,Incision pain,3
+903,2025-08-16,c_section,20,breastfeeding,Low milk supply,1
+904,2025-06-27,vaginal,12,mixed,Pain while feeding,8
+905,2025-06-06,vaginal,20,breastfeeding,Low milk supply,11
+906,2025-06-27,vaginal,19,breastfeeding,Mood swings,8
+907,2025-07-16,assisted,7,formula,Sleep deprivation,6
+908,2025-07-15,c_section,13,breastfeeding,No family support,6
+909,2025-06-09,assisted,3,breastfeeding,Severe fatigue,11
+910,2025-05-30,assisted,6,formula,Incision pain,12
+911,2025-06-13,c_section,18,formula,Sleep deprivation,10
+912,2025-07-06,vaginal,4,formula,Severe fatigue,7
+913,2025-08-10,c_section,11,formula,Sleep deprivation,2
+914,2025-07-26,c_section,15,breastfeeding,Sleep deprivation,4
+915,2025-06-05,vaginal,20,breastfeeding,No family support,12
+916,2025-07-03,assisted,10,formula,Back pain,8
+917,2025-07-02,vaginal,4,mixed,Severe fatigue,8
+918,2025-08-03,assisted,15,formula,Mood swings,3
+919,2025-08-05,assisted,10,breastfeeding,Low milk supply,3
+920,2025-06-17,c_section,8,mixed,Mood swings,10
+921,2025-08-20,c_section,19,mixed,Worried about scar healing,1
+922,2025-08-10,c_section,9,breastfeeding,Low milk supply,2
+923,2025-05-28,c_section,17,breastfeeding,Pain while feeding,13
+924,2025-06-14,vaginal,10,mixed,Low milk supply,10
+925,2025-08-16,vaginal,6,breastfeeding,Mood swings,1
+926,2025-06-10,c_section,20,breastfeeding,Sleep deprivation,11
+927,2025-06-09,c_section,13,breastfeeding,No family support,11
+928,2025-07-13,c_section,14,breastfeeding,Mood swings,6
+929,2025-08-15,assisted,9,breastfeeding,Low milk supply,1
+930,2025-06-08,c_section,3,formula,Mood swings,11
+931,2025-07-10,c_section,9,mixed,Worried about scar healing,7
+932,2025-07-01,vaginal,4,mixed,Severe fatigue,8
+933,2025-07-07,vaginal,5,mixed,Feeling overwhelmed,7
+934,2025-06-22,c_section,8,mixed,Sleep deprivation,9
+935,2025-06-18,assisted,14,formula,Worried about scar healing,10
+936,2025-06-01,assisted,10,formula,Worried about scar healing,12
+937,2025-08-07,assisted,5,breastfeeding,Sleep deprivation,3
+938,2025-08-11,vaginal,13,formula,Mood swings,2
+939,2025-06-16,vaginal,19,formula,Mood swings,10
+940,2025-06-01,assisted,17,breastfeeding,Back pain,12
+941,2025-08-18,assisted,9,formula,Incision pain,1
+942,2025-05-25,assisted,16,formula,Feeling overwhelmed,13
+943,2025-07-05,c_section,20,breastfeeding,Mood swings,7
+944,2025-07-16,vaginal,9,mixed,Feeling overwhelmed,6
+945,2025-08-18,assisted,4,mixed,Sleep deprivation,1
+946,2025-07-02,vaginal,7,breastfeeding,Back pain,8
+947,2025-07-01,c_section,13,breastfeeding,No family support,8
+948,2025-08-18,c_section,5,formula,Pain while feeding,1
+949,2025-05-30,assisted,5,breastfeeding,Mood swings,12
+950,2025-08-02,assisted,18,mixed,Incision pain,3
+951,2025-08-05,assisted,14,breastfeeding,Low milk supply,3
+952,2025-07-06,vaginal,5,mixed,Back pain,7
+953,2025-07-15,c_section,11,formula,Pain while feeding,6
+954,2025-06-02,assisted,20,mixed,Sleep deprivation,12
+955,2025-07-21,c_section,5,mixed,Low milk supply,5
+956,2025-06-21,assisted,3,mixed,Severe fatigue,9
+957,2025-08-03,vaginal,18,formula,Feeling overwhelmed,3
+958,2025-07-08,vaginal,3,mixed,Sleep deprivation,7
+959,2025-06-15,assisted,9,mixed,Pain while feeding,10
+960,2025-08-02,c_section,18,breastfeeding,No family support,3
+961,2025-06-04,vaginal,7,formula,Low milk supply,12
+962,2025-07-17,vaginal,9,breastfeeding,Back pain,6
+963,2025-06-17,c_section,9,breastfeeding,No family support,10
+964,2025-08-09,assisted,17,mixed,Sleep deprivation,2
+965,2025-07-31,vaginal,10,breastfeeding,Feeling overwhelmed,4
+966,2025-08-02,assisted,15,formula,No family support,3
+967,2025-07-06,assisted,6,formula,Mood swings,7
+968,2025-07-22,vaginal,17,breastfeeding,Incision pain,5
+969,2025-06-29,c_section,3,mixed,Worried about scar healing,8
+970,2025-07-08,vaginal,15,formula,Feeling overwhelmed,7
+971,2025-08-19,assisted,6,breastfeeding,Sleep deprivation,1
+972,2025-08-13,assisted,12,formula,Sleep deprivation,2
+973,2025-05-24,c_section,4,formula,Sleep deprivation,13
+974,2025-08-08,vaginal,6,formula,Pain while feeding,2
+975,2025-07-22,vaginal,4,mixed,Sleep deprivation,5
+976,2025-07-08,assisted,15,mixed,Back pain,7
+977,2025-07-26,assisted,7,mixed,Mood swings,4
+978,2025-06-27,assisted,19,breastfeeding,Worried about scar healing,8
+979,2025-08-09,assisted,17,mixed,Sleep deprivation,2
+980,2025-06-21,vaginal,18,breastfeeding,Incision pain,9
+981,2025-07-05,c_section,3,mixed,Low milk supply,7
+982,2025-06-22,c_section,17,breastfeeding,Worried about scar healing,9
+983,2025-06-14,vaginal,4,formula,Low milk supply,10
+984,2025-08-10,vaginal,16,formula,Severe fatigue,2
+985,2025-05-26,vaginal,5,breastfeeding,Back pain,13
+986,2025-08-03,vaginal,20,breastfeeding,Incision pain,3
+987,2025-05-26,c_section,11,breastfeeding,Pain while feeding,13
+988,2025-07-03,c_section,8,breastfeeding,Back pain,8
+989,2025-07-05,assisted,12,mixed,Worried about scar healing,7
+990,2025-08-13,assisted,17,mixed,Severe fatigue,2
+991,2025-06-09,c_section,17,mixed,Incision pain,11
+992,2025-08-06,c_section,20,formula,Incision pain,3
+993,2025-07-16,vaginal,17,formula,Feeling overwhelmed,6
+994,2025-08-16,vaginal,7,breastfeeding,Sleep deprivation,1
+995,2025-05-27,c_section,13,mixed,Sleep deprivation,13
+996,2025-08-01,assisted,7,breastfeeding,Mood swings,3
+997,2025-06-30,assisted,14,formula,Low milk supply,8
+998,2025-07-27,assisted,6,formula,Low milk supply,4
+999,2025-06-15,assisted,20,mixed,Pain while feeding,10
+1000,2025-07-30,assisted,8,formula,Worried about scar healing,4
+1001,2025-07-12,c_section,20,mixed,Incision pain,6
+1002,2025-08-07,vaginal,19,mixed,Low milk supply,3
+1003,2025-06-12,vaginal,17,formula,No family support,11
+1004,2025-08-01,c_section,12,formula,Severe fatigue,3
+1005,2025-05-30,assisted,11,breastfeeding,Sleep deprivation,12
+1006,2025-05-30,vaginal,14,formula,Mood swings,12
+1007,2025-07-01,assisted,9,formula,Low milk supply,8
+1008,2025-07-25,assisted,12,formula,Mood swings,4
+1009,2025-07-18,c_section,19,formula,Back pain,5
+1010,2025-07-29,assisted,9,breastfeeding,No family support,4
+1011,2025-05-23,vaginal,17,formula,Pain while feeding,13
+1012,2025-07-16,c_section,11,mixed,Back pain,6
+1013,2025-08-05,c_section,9,formula,No family support,3
+1014,2025-07-31,vaginal,7,formula,Incision pain,4
+1015,2025-07-02,vaginal,12,formula,Sleep deprivation,8
+1016,2025-08-16,c_section,6,formula,Mood swings,1
+1017,2025-06-13,c_section,4,mixed,No family support,10
+1018,2025-08-01,vaginal,8,formula,Back pain,3
+1019,2025-07-01,vaginal,6,mixed,Severe fatigue,8
+1020,2025-08-05,vaginal,15,breastfeeding,Worried about scar healing,3
+1021,2025-05-24,vaginal,3,mixed,Low milk supply,13
+1022,2025-06-22,vaginal,12,breastfeeding,Mood swings,9
+1023,2025-07-26,c_section,16,mixed,Low milk supply,4
+1024,2025-07-27,c_section,15,formula,Sleep deprivation,4
+1025,2025-07-29,assisted,12,mixed,Back pain,4
+1026,2025-06-18,vaginal,14,breastfeeding,No family support,10
+1027,2025-07-11,c_section,18,formula,Low milk supply,6
+1028,2025-06-16,assisted,9,breastfeeding,Incision pain,10
+1029,2025-08-16,c_section,7,breastfeeding,Incision pain,1
+1030,2025-05-25,vaginal,5,breastfeeding,Mood swings,13
+1031,2025-07-13,vaginal,12,breastfeeding,Incision pain,6
+1032,2025-08-20,assisted,19,mixed,No family support,1
+1033,2025-06-22,assisted,3,breastfeeding,Pain while feeding,9
+1034,2025-08-14,c_section,8,breastfeeding,Severe fatigue,2
+1035,2025-06-17,assisted,10,formula,Mood swings,10
+1036,2025-06-06,assisted,13,formula,Severe fatigue,11
+1037,2025-08-13,c_section,15,breastfeeding,Worried about scar healing,2
+1038,2025-08-19,c_section,7,formula,Feeling overwhelmed,1
+1039,2025-07-28,vaginal,12,formula,Low milk supply,4
+1040,2025-06-17,c_section,3,formula,No family support,10
+1041,2025-06-19,assisted,20,breastfeeding,No family support,10
+1042,2025-06-23,c_section,13,formula,Low milk supply,9
+1043,2025-08-01,assisted,4,formula,Sleep deprivation,3
+1044,2025-07-25,c_section,16,formula,Low milk supply,4
+1045,2025-07-08,c_section,3,breastfeeding,Mood swings,7
+1046,2025-06-02,assisted,14,breastfeeding,Severe fatigue,12
+1047,2025-08-15,c_section,12,mixed,Low milk supply,1
+1048,2025-06-29,c_section,10,formula,Severe fatigue,8
+1049,2025-06-30,assisted,18,mixed,Worried about scar healing,8
+1050,2025-07-01,c_section,10,breastfeeding,Mood swings,8
+1051,2025-07-26,c_section,5,formula,Back pain,4
+1052,2025-06-16,vaginal,7,mixed,Severe fatigue,10
+1053,2025-07-08,assisted,17,mixed,Worried about scar healing,7
+1054,2025-08-01,assisted,9,formula,No family support,3
+1055,2025-06-10,c_section,3,mixed,Worried about scar healing,11
+1056,2025-08-08,c_section,4,formula,Worried about scar healing,2
+1057,2025-06-20,assisted,18,breastfeeding,Low milk supply,9
+1058,2025-08-12,assisted,8,formula,Severe fatigue,2
+1059,2025-05-28,c_section,8,breastfeeding,Incision pain,13
+1060,2025-05-26,assisted,19,formula,Feeling overwhelmed,13
+1061,2025-08-11,c_section,15,formula,Back pain,2
+1062,2025-08-03,c_section,10,mixed,Feeling overwhelmed,3
+1063,2025-06-06,assisted,4,formula,Mood swings,11
+1064,2025-08-11,vaginal,12,mixed,Incision pain,2
+1065,2025-07-19,assisted,4,formula,Severe fatigue,5
+1066,2025-06-25,assisted,10,formula,Mood swings,9
+1067,2025-08-11,c_section,12,formula,Back pain,2
+1068,2025-06-23,assisted,4,mixed,Sleep deprivation,9
+1069,2025-08-12,vaginal,10,mixed,Severe fatigue,2
+1070,2025-08-13,assisted,4,formula,Sleep deprivation,2
+1071,2025-06-15,c_section,18,breastfeeding,Low milk supply,10
+1072,2025-08-04,c_section,4,mixed,Severe fatigue,3
+1073,2025-08-12,vaginal,10,breastfeeding,Worried about scar healing,2
+1074,2025-07-13,vaginal,4,breastfeeding,Feeling overwhelmed,6
+1075,2025-08-08,assisted,15,mixed,Mood swings,2
+1076,2025-07-14,assisted,13,mixed,Worried about scar healing,6
+1077,2025-06-13,c_section,15,formula,Pain while feeding,10
+1078,2025-08-09,vaginal,18,formula,Severe fatigue,2
+1079,2025-08-15,c_section,19,formula,Low milk supply,1
+1080,2025-06-24,vaginal,18,breastfeeding,Severe fatigue,9
+1081,2025-07-09,vaginal,18,breastfeeding,Incision pain,7
+1082,2025-05-28,vaginal,6,formula,Severe fatigue,13
+1083,2025-07-01,c_section,11,formula,Worried about scar healing,8
+1084,2025-07-06,vaginal,17,mixed,No family support,7
+1085,2025-08-13,c_section,16,breastfeeding,Back pain,2
+1086,2025-07-03,vaginal,7,breastfeeding,No family support,8
+1087,2025-06-10,vaginal,16,mixed,Incision pain,11
+1088,2025-08-05,vaginal,8,mixed,Pain while feeding,3
+1089,2025-07-10,assisted,20,mixed,Worried about scar healing,7
+1090,2025-05-23,assisted,12,breastfeeding,No family support,13
+1091,2025-05-29,vaginal,8,formula,Low milk supply,13
+1092,2025-07-10,vaginal,5,breastfeeding,Back pain,7
+1093,2025-07-27,assisted,17,mixed,Sleep deprivation,4
+1094,2025-08-16,c_section,8,breastfeeding,Low milk supply,1
+1095,2025-05-27,vaginal,9,breastfeeding,Sleep deprivation,13
+1096,2025-06-28,c_section,7,formula,Sleep deprivation,8
+1097,2025-07-29,vaginal,14,breastfeeding,Sleep deprivation,4
+1098,2025-05-26,c_section,7,breastfeeding,Mood swings,13
+1099,2025-07-13,vaginal,20,mixed,Low milk supply,6
+1100,2025-08-03,vaginal,15,breastfeeding,Worried about scar healing,3
+1101,2025-08-20,vaginal,7,mixed,Mood swings,1
+1102,2025-06-15,c_section,11,formula,No family support,10
+1103,2025-06-12,vaginal,17,mixed,Severe fatigue,11
+1104,2025-08-12,assisted,12,breastfeeding,Pain while feeding,2
+1105,2025-07-19,vaginal,4,breastfeeding,Severe fatigue,5
+1106,2025-07-08,c_section,7,breastfeeding,Back pain,7
+1107,2025-06-14,c_section,10,formula,Back pain,10
+1108,2025-06-07,vaginal,5,formula,Worried about scar healing,11
+1109,2025-06-11,assisted,18,formula,Worried about scar healing,11
+1110,2025-07-20,c_section,4,mixed,Severe fatigue,5
+1111,2025-07-26,c_section,3,mixed,Feeling overwhelmed,4
+1112,2025-07-21,vaginal,18,formula,Incision pain,5
+1113,2025-06-14,vaginal,8,formula,Sleep deprivation,10
+1114,2025-07-16,c_section,20,mixed,Low milk supply,6
+1115,2025-08-15,assisted,11,breastfeeding,Back pain,1
+1116,2025-05-27,c_section,16,breastfeeding,Low milk supply,13
+1117,2025-08-04,c_section,3,formula,Worried about scar healing,3
+1118,2025-07-02,vaginal,5,mixed,Severe fatigue,8
+1119,2025-07-23,c_section,12,breastfeeding,Severe fatigue,5
+1120,2025-08-13,assisted,7,breastfeeding,Incision pain,2
+1121,2025-06-20,c_section,5,formula,Incision pain,9
+1122,2025-06-07,vaginal,3,breastfeeding,Pain while feeding,11
+1123,2025-07-12,c_section,14,breastfeeding,Incision pain,6
+1124,2025-08-06,assisted,3,breastfeeding,Mood swings,3
+1125,2025-06-07,c_section,15,formula,Low milk supply,11
+1126,2025-08-07,c_section,5,formula,Mood swings,3
+1127,2025-06-25,c_section,19,breastfeeding,Low milk supply,9
+1128,2025-06-11,c_section,11,mixed,Low milk supply,11
+1129,2025-07-03,vaginal,3,mixed,Severe fatigue,8
+1130,2025-05-24,assisted,10,mixed,Back pain,13
+1131,2025-07-27,assisted,7,formula,Mood swings,4
+1132,2025-06-09,c_section,5,breastfeeding,Incision pain,11
+1133,2025-07-12,c_section,9,mixed,Pain while feeding,6
+1134,2025-05-30,c_section,3,formula,Worried about scar healing,12
+1135,2025-06-25,assisted,19,breastfeeding,Pain while feeding,9
+1136,2025-06-29,c_section,9,mixed,Incision pain,8
+1137,2025-07-16,c_section,15,breastfeeding,Mood swings,6
+1138,2025-08-01,assisted,19,mixed,Worried about scar healing,3
+1139,2025-08-15,assisted,9,breastfeeding,Sleep deprivation,1
+1140,2025-08-10,c_section,15,mixed,Severe fatigue,2
+1141,2025-06-11,assisted,14,breastfeeding,Back pain,11
+1142,2025-05-29,vaginal,18,breastfeeding,Mood swings,13
+1143,2025-06-21,c_section,11,mixed,Low milk supply,9
+1144,2025-06-02,vaginal,9,mixed,Mood swings,12
+1145,2025-07-04,vaginal,13,mixed,Low milk supply,7
+1146,2025-06-01,vaginal,8,formula,Incision pain,12
+1147,2025-07-18,vaginal,14,breastfeeding,Severe fatigue,5
+1148,2025-07-28,vaginal,15,mixed,Pain while feeding,4
+1149,2025-06-02,assisted,7,mixed,Feeling overwhelmed,12
+1150,2025-08-13,assisted,4,formula,Severe fatigue,2
+1151,2025-08-05,c_section,12,mixed,No family support,3
+1152,2025-07-14,c_section,10,breastfeeding,Low milk supply,6
+1153,2025-08-02,c_section,4,formula,Feeling overwhelmed,3
+1154,2025-06-18,assisted,3,mixed,Severe fatigue,10
+1155,2025-07-22,assisted,12,breastfeeding,Worried about scar healing,5
+1156,2025-08-01,vaginal,10,mixed,Severe fatigue,3
+1157,2025-06-21,vaginal,19,breastfeeding,Incision pain,9
+1158,2025-05-28,assisted,7,mixed,Incision pain,13
+1159,2025-08-14,c_section,11,breastfeeding,Incision pain,2
+1160,2025-05-24,assisted,17,formula,Mood swings,13
+1161,2025-07-27,assisted,10,formula,Sleep deprivation,4
+1162,2025-06-25,assisted,5,breastfeeding,Mood swings,9
+1163,2025-06-20,assisted,5,mixed,No family support,9
+1164,2025-07-02,vaginal,11,mixed,Pain while feeding,8
+1165,2025-05-24,vaginal,16,breastfeeding,Low milk supply,13
+1166,2025-05-31,assisted,20,breastfeeding,Low milk supply,12
+1167,2025-06-02,vaginal,8,breastfeeding,Sleep deprivation,12
+1168,2025-06-26,c_section,11,mixed,Pain while feeding,9
+1169,2025-07-07,assisted,16,breastfeeding,Back pain,7
+1170,2025-07-13,c_section,11,breastfeeding,No family support,6
+1171,2025-07-24,c_section,7,mixed,No family support,5
+1172,2025-06-01,assisted,17,formula,Sleep deprivation,12
+1173,2025-08-18,assisted,4,mixed,Sleep deprivation,1
+1174,2025-08-06,assisted,11,formula,No family support,3
+1175,2025-05-27,c_section,9,breastfeeding,Pain while feeding,13
+1176,2025-07-17,vaginal,14,mixed,Back pain,6
+1177,2025-06-06,assisted,10,formula,Worried about scar healing,11
+1178,2025-08-11,vaginal,13,mixed,Sleep deprivation,2
+1179,2025-07-19,vaginal,11,breastfeeding,Sleep deprivation,5
+1180,2025-08-11,vaginal,3,formula,Incision pain,2
+1181,2025-06-21,assisted,7,mixed,Feeling overwhelmed,9
+1182,2025-07-20,assisted,5,mixed,Back pain,5
+1183,2025-06-01,assisted,4,mixed,Incision pain,12
+1184,2025-08-02,vaginal,19,breastfeeding,Incision pain,3
+1185,2025-06-05,c_section,17,formula,Sleep deprivation,12
+1186,2025-08-17,assisted,19,formula,Severe fatigue,1
+1187,2025-06-07,c_section,19,breastfeeding,Mood swings,11
+1188,2025-06-01,assisted,10,breastfeeding,Incision pain,12
+1189,2025-06-20,vaginal,19,formula,Sleep deprivation,9
+1190,2025-07-15,assisted,3,breastfeeding,No family support,6
+1191,2025-08-12,assisted,10,breastfeeding,Back pain,2
+1192,2025-08-10,c_section,5,breastfeeding,No family support,2
+1193,2025-07-22,c_section,5,mixed,Pain while feeding,5
+1194,2025-08-20,vaginal,18,mixed,Mood swings,1
+1195,2025-08-07,assisted,17,mixed,Sleep deprivation,3
+1196,2025-06-12,c_section,12,mixed,Incision pain,11
+1197,2025-07-09,vaginal,15,mixed,Back pain,7
+1198,2025-05-24,vaginal,14,formula,No family support,13
+1199,2025-08-06,vaginal,8,breastfeeding,Severe fatigue,3
+1200,2025-06-29,assisted,14,mixed,Low milk supply,8
+1201,2025-08-09,assisted,14,formula,Severe fatigue,2
+1202,2025-06-26,c_section,17,mixed,Pain while feeding,9
+1203,2025-08-04,vaginal,18,mixed,Worried about scar healing,3
+1204,2025-06-26,vaginal,20,breastfeeding,No family support,9
+1205,2025-07-24,assisted,9,breastfeeding,Sleep deprivation,5
+1206,2025-07-16,vaginal,8,mixed,Feeling overwhelmed,6
+1207,2025-07-10,vaginal,20,mixed,Mood swings,7
+1208,2025-06-08,vaginal,13,formula,Low milk supply,11
+1209,2025-08-17,vaginal,18,breastfeeding,Severe fatigue,1
+1210,2025-06-23,c_section,3,mixed,Mood swings,9
+1211,2025-06-14,c_section,5,mixed,Worried about scar healing,10
+1212,2025-07-27,c_section,20,formula,Pain while feeding,4
+1213,2025-08-07,assisted,9,formula,Back pain,3
+1214,2025-05-26,assisted,16,mixed,Feeling overwhelmed,13
+1215,2025-06-21,assisted,14,mixed,Pain while feeding,9
+1216,2025-08-11,c_section,16,formula,Worried about scar healing,2
+1217,2025-07-02,c_section,16,formula,Severe fatigue,8
+1218,2025-06-28,c_section,9,mixed,Severe fatigue,8
+1219,2025-07-24,c_section,7,breastfeeding,Sleep deprivation,5
+1220,2025-05-26,vaginal,3,formula,Severe fatigue,13
+1221,2025-07-26,vaginal,20,breastfeeding,Feeling overwhelmed,4
+1222,2025-07-15,c_section,19,formula,No family support,6
+1223,2025-06-11,assisted,15,mixed,Worried about scar healing,11
+1224,2025-08-04,vaginal,18,breastfeeding,Worried about scar healing,3
+1225,2025-07-11,assisted,4,mixed,Severe fatigue,6
+1226,2025-05-24,c_section,18,formula,Low milk supply,13
+1227,2025-05-26,assisted,19,breastfeeding,Mood swings,13
+1228,2025-05-31,vaginal,8,formula,No family support,12
+1229,2025-08-10,vaginal,19,formula,Back pain,2
+1230,2025-06-22,c_section,13,formula,Sleep deprivation,9
+1231,2025-07-30,assisted,19,breastfeeding,Severe fatigue,4
+1232,2025-08-17,assisted,7,mixed,Sleep deprivation,1
+1233,2025-07-03,assisted,20,breastfeeding,Pain while feeding,8
+1234,2025-06-16,c_section,6,formula,Pain while feeding,10
+1235,2025-07-08,vaginal,16,mixed,Incision pain,7
+1236,2025-06-27,assisted,10,formula,Pain while feeding,8
+1237,2025-06-28,assisted,8,mixed,Mood swings,8
+1238,2025-08-10,vaginal,14,breastfeeding,Incision pain,2
+1239,2025-06-20,assisted,15,mixed,Worried about scar healing,9
+1240,2025-07-28,c_section,13,mixed,Worried about scar healing,4
+1241,2025-07-31,assisted,6,formula,Back pain,4
+1242,2025-08-17,c_section,16,mixed,No family support,1
+1243,2025-06-01,assisted,10,formula,Sleep deprivation,12
+1244,2025-07-21,assisted,4,mixed,Worried about scar healing,5
+1245,2025-06-18,c_section,7,formula,No family support,10
+1246,2025-05-26,vaginal,3,mixed,Pain while feeding,13
+1247,2025-06-23,assisted,17,formula,Sleep deprivation,9
+1248,2025-06-03,assisted,13,formula,Pain while feeding,12
+1249,2025-07-23,c_section,5,formula,Pain while feeding,5
+1250,2025-07-25,c_section,17,formula,Sleep deprivation,4
+1251,2025-08-14,vaginal,4,formula,Low milk supply,2
+1252,2025-06-05,vaginal,3,mixed,Incision pain,12
+1253,2025-07-06,vaginal,10,breastfeeding,Sleep deprivation,7
+1254,2025-06-22,vaginal,6,breastfeeding,Low milk supply,9
+1255,2025-07-19,assisted,7,formula,Back pain,5
+1256,2025-08-03,c_section,18,mixed,Incision pain,3
+1257,2025-06-30,c_section,4,mixed,Worried about scar healing,8
+1258,2025-08-02,vaginal,20,breastfeeding,Sleep deprivation,3
+1259,2025-07-12,vaginal,10,mixed,Low milk supply,6
+1260,2025-07-24,c_section,5,formula,Worried about scar healing,5
+1261,2025-08-17,c_section,16,mixed,Incision pain,1
+1262,2025-08-02,assisted,5,mixed,Low milk supply,3
+1263,2025-07-19,c_section,13,formula,Back pain,5
+1264,2025-07-29,vaginal,3,breastfeeding,Low milk supply,4
+1265,2025-07-17,vaginal,7,mixed,Incision pain,6
+1266,2025-06-02,vaginal,20,mixed,Mood swings,12
+1267,2025-06-22,assisted,19,breastfeeding,Worried about scar healing,9
+1268,2025-07-10,vaginal,9,mixed,No family support,7
+1269,2025-07-03,c_section,18,breastfeeding,Feeling overwhelmed,8
+1270,2025-08-17,assisted,19,formula,Low milk supply,1
+1271,2025-08-01,c_section,15,formula,No family support,3
+1272,2025-06-29,assisted,11,mixed,Pain while feeding,8
+1273,2025-06-27,assisted,7,mixed,Severe fatigue,8
+1274,2025-07-25,c_section,4,formula,Pain while feeding,4
+1275,2025-06-02,assisted,4,breastfeeding,Worried about scar healing,12
+1276,2025-08-12,assisted,14,formula,Back pain,2
+1277,2025-08-12,c_section,10,mixed,Low milk supply,2
+1278,2025-06-17,vaginal,3,mixed,Pain while feeding,10
+1279,2025-06-06,vaginal,10,mixed,Mood swings,11
+1280,2025-07-06,assisted,4,formula,Worried about scar healing,7
+1281,2025-08-13,assisted,15,breastfeeding,Incision pain,2
+1282,2025-08-04,c_section,9,formula,Feeling overwhelmed,3
+1283,2025-05-30,assisted,10,formula,Worried about scar healing,12
+1284,2025-05-28,vaginal,11,breastfeeding,Worried about scar healing,13
+1285,2025-06-30,vaginal,20,formula,Low milk supply,8
+1286,2025-08-19,assisted,5,breastfeeding,Back pain,1
+1287,2025-05-24,assisted,12,breastfeeding,Back pain,13
+1288,2025-05-23,vaginal,5,formula,Worried about scar healing,13
+1289,2025-07-02,assisted,17,formula,Back pain,8
+1290,2025-08-10,c_section,17,breastfeeding,No family support,2
+1291,2025-07-10,c_section,7,formula,Incision pain,7
+1292,2025-06-16,assisted,17,mixed,Mood swings,10
+1293,2025-06-01,c_section,11,formula,Pain while feeding,12
+1294,2025-07-25,assisted,13,breastfeeding,Low milk supply,4
+1295,2025-07-19,c_section,12,mixed,Feeling overwhelmed,5
+1296,2025-07-28,c_section,13,formula,Back pain,4
+1297,2025-08-02,c_section,16,formula,Pain while feeding,3
+1298,2025-06-02,vaginal,18,breastfeeding,Incision pain,12
+1299,2025-06-19,c_section,17,mixed,Worried about scar healing,10
+1300,2025-06-24,c_section,17,breastfeeding,Feeling overwhelmed,9
+1301,2025-06-18,assisted,6,mixed,Sleep deprivation,10
+1302,2025-06-15,assisted,17,breastfeeding,Pain while feeding,10
+1303,2025-05-24,assisted,18,formula,Sleep deprivation,13
+1304,2025-06-09,c_section,3,mixed,Pain while feeding,11
+1305,2025-07-06,assisted,16,mixed,Severe fatigue,7
+1306,2025-07-11,assisted,17,formula,Back pain,6
+1307,2025-07-15,assisted,15,mixed,Severe fatigue,6
+1308,2025-07-06,c_section,4,formula,Sleep deprivation,7
+1309,2025-07-22,vaginal,15,breastfeeding,No family support,5
+1310,2025-08-08,assisted,6,formula,Sleep deprivation,2
+1311,2025-08-12,assisted,8,mixed,Pain while feeding,2
+1312,2025-06-21,c_section,9,breastfeeding,Incision pain,9
+1313,2025-06-25,c_section,8,mixed,No family support,9
+1314,2025-08-04,assisted,17,breastfeeding,Severe fatigue,3
+1315,2025-07-26,c_section,12,formula,Mood swings,4
+1316,2025-08-18,vaginal,11,breastfeeding,Back pain,1
+1317,2025-07-24,vaginal,11,mixed,Low milk supply,5
+1318,2025-06-08,vaginal,7,mixed,Feeling overwhelmed,11
+1319,2025-06-24,vaginal,18,breastfeeding,Back pain,9
+1320,2025-07-10,assisted,15,formula,Sleep deprivation,7
+1321,2025-06-13,vaginal,16,formula,Incision pain,10
+1322,2025-06-16,vaginal,12,formula,Worried about scar healing,10
+1323,2025-06-21,assisted,9,formula,Incision pain,9
+1324,2025-07-26,vaginal,9,breastfeeding,Incision pain,4
+1325,2025-06-21,vaginal,11,formula,No family support,9
+1326,2025-05-30,assisted,10,breastfeeding,Feeling overwhelmed,12
+1327,2025-06-28,c_section,7,formula,Feeling overwhelmed,8
+1328,2025-08-13,assisted,3,formula,No family support,2
+1329,2025-07-05,assisted,17,breastfeeding,Feeling overwhelmed,7
+1330,2025-07-30,c_section,15,formula,Severe fatigue,4
+1331,2025-07-13,vaginal,4,breastfeeding,Mood swings,6
+1332,2025-08-02,vaginal,20,mixed,Worried about scar healing,3
+1333,2025-05-26,assisted,16,mixed,Low milk supply,13
+1334,2025-07-15,c_section,18,formula,Low milk supply,6
+1335,2025-05-25,assisted,11,formula,Worried about scar healing,13
+1336,2025-05-24,assisted,5,formula,Worried about scar healing,13
+1337,2025-06-07,assisted,18,breastfeeding,No family support,11
+1338,2025-06-13,vaginal,19,mixed,Sleep deprivation,10
+1339,2025-07-20,vaginal,15,formula,Incision pain,5
+1340,2025-05-31,c_section,5,breastfeeding,Worried about scar healing,12
+1341,2025-07-17,vaginal,12,breastfeeding,Incision pain,6
+1342,2025-08-14,c_section,11,formula,Severe fatigue,2
+1343,2025-07-01,vaginal,12,breastfeeding,Low milk supply,8
+1344,2025-07-13,assisted,20,mixed,Low milk supply,6
+1345,2025-08-15,assisted,18,formula,Pain while feeding,1
+1346,2025-08-08,c_section,12,formula,Feeling overwhelmed,2
+1347,2025-07-25,c_section,3,formula,Pain while feeding,4
+1348,2025-08-15,vaginal,3,breastfeeding,Sleep deprivation,1
+1349,2025-08-14,c_section,15,mixed,Mood swings,2
+1350,2025-06-05,c_section,16,formula,Severe fatigue,12
+1351,2025-06-02,c_section,12,formula,Sleep deprivation,12
+1352,2025-07-15,c_section,8,mixed,Mood swings,6
+1353,2025-07-19,c_section,18,formula,Worried about scar healing,5
+1354,2025-07-19,c_section,17,mixed,Back pain,5
+1355,2025-07-11,assisted,20,formula,Low milk supply,6
+1356,2025-07-03,c_section,13,mixed,Sleep deprivation,8
+1357,2025-08-15,c_section,5,mixed,No family support,1
+1358,2025-06-17,assisted,12,breastfeeding,Sleep deprivation,10
+1359,2025-07-31,assisted,20,mixed,No family support,4
+1360,2025-07-26,c_section,12,formula,Back pain,4
+1361,2025-08-20,c_section,4,formula,Severe fatigue,1
+1362,2025-06-10,vaginal,17,breastfeeding,No family support,11
+1363,2025-06-27,assisted,14,formula,Sleep deprivation,8
+1364,2025-08-17,c_section,7,formula,Pain while feeding,1
+1365,2025-05-27,c_section,18,breastfeeding,Feeling overwhelmed,13
+1366,2025-06-08,c_section,4,formula,Sleep deprivation,11
+1367,2025-07-25,assisted,14,mixed,Incision pain,4
+1368,2025-07-26,assisted,5,formula,Mood swings,4
+1369,2025-06-10,assisted,8,mixed,Feeling overwhelmed,11
+1370,2025-07-03,c_section,12,mixed,Worried about scar healing,8
+1371,2025-08-02,vaginal,13,breastfeeding,Worried about scar healing,3
+1372,2025-08-09,assisted,12,mixed,Sleep deprivation,2
+1373,2025-06-15,vaginal,3,breastfeeding,Severe fatigue,10
+1374,2025-08-19,assisted,15,breastfeeding,Severe fatigue,1
+1375,2025-07-07,assisted,19,mixed,No family support,7
+1376,2025-06-25,c_section,3,formula,Incision pain,9
+1377,2025-07-20,assisted,4,formula,Incision pain,5
+1378,2025-08-01,c_section,11,mixed,Sleep deprivation,3
+1379,2025-06-03,c_section,17,breastfeeding,Severe fatigue,12
+1380,2025-07-02,assisted,14,mixed,No family support,8
+1381,2025-07-24,vaginal,13,mixed,Worried about scar healing,5
+1382,2025-06-25,assisted,19,mixed,Feeling overwhelmed,9
+1383,2025-08-12,c_section,17,formula,Pain while feeding,2
+1384,2025-07-15,c_section,16,formula,Incision pain,6
+1385,2025-07-20,c_section,6,mixed,Incision pain,5
+1386,2025-08-06,vaginal,11,mixed,Incision pain,3
+1387,2025-07-03,assisted,7,breastfeeding,Low milk supply,8
+1388,2025-06-27,assisted,19,mixed,Pain while feeding,8
+1389,2025-07-07,c_section,16,breastfeeding,Low milk supply,7
+1390,2025-07-10,c_section,3,formula,Sleep deprivation,7
+1391,2025-08-07,vaginal,19,breastfeeding,Severe fatigue,3
+1392,2025-07-09,assisted,11,formula,Low milk supply,7
+1393,2025-07-24,c_section,15,mixed,Sleep deprivation,5
+1394,2025-08-01,vaginal,12,mixed,Incision pain,3
+1395,2025-05-31,assisted,9,breastfeeding,Mood swings,12
+1396,2025-08-10,vaginal,11,breastfeeding,Low milk supply,2
+1397,2025-08-09,assisted,9,breastfeeding,Feeling overwhelmed,2
+1398,2025-06-20,c_section,9,mixed,Sleep deprivation,9
+1399,2025-07-15,c_section,5,mixed,Sleep deprivation,6
+1400,2025-07-15,c_section,16,mixed,Incision pain,6
+1401,2025-08-17,assisted,16,breastfeeding,Back pain,1
+1402,2025-07-19,c_section,12,formula,Low milk supply,5
+1403,2025-07-12,assisted,16,breastfeeding,Pain while feeding,6
+1404,2025-07-19,assisted,7,mixed,No family support,5
+1405,2025-06-05,c_section,16,mixed,Worried about scar healing,12
+1406,2025-06-29,assisted,19,mixed,Incision pain,8
+1407,2025-06-07,c_section,12,breastfeeding,Mood swings,11
+1408,2025-06-17,assisted,9,breastfeeding,Back pain,10
+1409,2025-07-29,c_section,10,formula,Pain while feeding,4
+1410,2025-06-07,assisted,5,breastfeeding,No family support,11
+1411,2025-08-14,assisted,19,mixed,Mood swings,2
+1412,2025-07-31,vaginal,16,formula,Mood swings,4
+1413,2025-06-14,vaginal,17,formula,Mood swings,10
+1414,2025-07-08,c_section,19,breastfeeding,No family support,7
+1415,2025-08-06,vaginal,19,mixed,Sleep deprivation,3
+1416,2025-07-04,vaginal,5,breastfeeding,Mood swings,7
+1417,2025-07-15,assisted,13,mixed,Mood swings,6
+1418,2025-08-16,c_section,11,breastfeeding,Sleep deprivation,1
+1419,2025-06-28,assisted,15,formula,Back pain,8
+1420,2025-05-23,c_section,10,formula,Mood swings,13
+1421,2025-07-14,assisted,8,mixed,No family support,6
+1422,2025-06-29,assisted,19,formula,Mood swings,8
+1423,2025-07-07,vaginal,14,mixed,No family support,7
+1424,2025-06-07,c_section,4,formula,Severe fatigue,11
+1425,2025-07-10,vaginal,11,formula,Pain while feeding,7
+1426,2025-08-10,c_section,17,mixed,Sleep deprivation,2
+1427,2025-08-17,vaginal,8,breastfeeding,Feeling overwhelmed,1
+1428,2025-05-23,assisted,14,formula,Incision pain,13
+1429,2025-06-08,vaginal,5,breastfeeding,Sleep deprivation,11
+1430,2025-06-11,c_section,10,breastfeeding,Sleep deprivation,11
+1431,2025-07-02,vaginal,20,formula,Incision pain,8
+1432,2025-06-14,assisted,15,formula,Low milk supply,10
+1433,2025-06-23,vaginal,7,mixed,Low milk supply,9
+1434,2025-07-30,c_section,6,formula,Incision pain,4
+1435,2025-08-13,assisted,19,formula,Pain while feeding,2
+1436,2025-07-08,vaginal,16,formula,Feeling overwhelmed,7
+1437,2025-08-19,vaginal,20,breastfeeding,Pain while feeding,1
+1438,2025-07-10,vaginal,3,formula,Feeling overwhelmed,7
+1439,2025-06-12,c_section,17,mixed,Worried about scar healing,11
+1440,2025-07-21,vaginal,6,formula,Incision pain,5
+1441,2025-06-17,assisted,17,mixed,Incision pain,10
+1442,2025-05-23,c_section,14,formula,Feeling overwhelmed,13
+1443,2025-07-16,c_section,19,formula,Feeling overwhelmed,6
+1444,2025-06-11,assisted,8,formula,Incision pain,11
+1445,2025-06-08,assisted,4,breastfeeding,Low milk supply,11
+1446,2025-05-24,c_section,17,mixed,Low milk supply,13
+1447,2025-06-11,vaginal,18,mixed,Feeling overwhelmed,11
+1448,2025-07-18,c_section,8,formula,Sleep deprivation,5
+1449,2025-06-16,vaginal,5,mixed,Low milk supply,10
+1450,2025-07-03,assisted,16,formula,Low milk supply,8
+1451,2025-08-04,c_section,10,breastfeeding,Severe fatigue,3
+1452,2025-06-06,vaginal,5,mixed,Feeling overwhelmed,11
+1453,2025-06-04,assisted,17,formula,Worried about scar healing,12
+1454,2025-06-25,c_section,17,mixed,Low milk supply,9
+1455,2025-06-09,c_section,4,breastfeeding,Feeling overwhelmed,11
+1456,2025-08-18,assisted,12,breastfeeding,Incision pain,1
+1457,2025-06-03,assisted,10,formula,Back pain,12
+1458,2025-07-10,vaginal,17,formula,Sleep deprivation,7
+1459,2025-06-23,assisted,18,formula,Feeling overwhelmed,9
+1460,2025-06-28,vaginal,13,breastfeeding,Sleep deprivation,8
+1461,2025-06-18,c_section,4,formula,Worried about scar healing,10
+1462,2025-05-30,c_section,8,formula,Low milk supply,12
+1463,2025-06-14,c_section,15,breastfeeding,Low milk supply,10
+1464,2025-08-01,vaginal,11,breastfeeding,Pain while feeding,3
+1465,2025-06-04,c_section,8,breastfeeding,Low milk supply,12
+1466,2025-07-17,assisted,6,breastfeeding,Pain while feeding,6
+1467,2025-06-06,assisted,3,formula,Worried about scar healing,11
+1468,2025-08-05,assisted,11,breastfeeding,Mood swings,3
+1469,2025-07-14,vaginal,3,mixed,Pain while feeding,6
+1470,2025-08-05,vaginal,19,formula,Mood swings,3
+1471,2025-08-20,assisted,10,breastfeeding,Incision pain,1
+1472,2025-08-06,c_section,11,formula,Mood swings,3
+1473,2025-05-31,assisted,12,breastfeeding,Incision pain,12
+1474,2025-06-24,vaginal,11,breastfeeding,Mood swings,9
+1475,2025-07-11,vaginal,12,mixed,Incision pain,6
+1476,2025-05-30,vaginal,5,mixed,No family support,12
+1477,2025-05-31,vaginal,11,breastfeeding,Low milk supply,12
+1478,2025-06-21,c_section,5,breastfeeding,Back pain,9
+1479,2025-08-20,c_section,11,mixed,Back pain,1
+1480,2025-06-13,c_section,10,formula,Back pain,10
+1481,2025-07-23,vaginal,3,breastfeeding,No family support,5
+1482,2025-06-20,vaginal,7,breastfeeding,Low milk supply,9
+1483,2025-07-11,assisted,16,breastfeeding,Sleep deprivation,6
+1484,2025-07-17,vaginal,15,mixed,Severe fatigue,6
+1485,2025-06-21,c_section,17,breastfeeding,Worried about scar healing,9
+1486,2025-05-23,vaginal,9,formula,Worried about scar healing,13
+1487,2025-06-21,vaginal,13,formula,Sleep deprivation,9
+1488,2025-07-09,c_section,15,mixed,No family support,7
+1489,2025-07-01,assisted,19,mixed,Incision pain,8
+1490,2025-06-09,c_section,19,formula,Mood swings,11
+1491,2025-08-02,vaginal,5,mixed,No family support,3
+1492,2025-06-12,c_section,8,formula,Low milk supply,11
+1493,2025-06-25,assisted,11,formula,Feeling overwhelmed,9
+1494,2025-05-27,c_section,8,mixed,Feeling overwhelmed,13
+1495,2025-07-22,c_section,11,mixed,Incision pain,5
+1496,2025-06-20,vaginal,20,breastfeeding,Worried about scar healing,9
+1497,2025-06-05,assisted,8,mixed,Back pain,12
+1498,2025-06-30,c_section,12,breastfeeding,Worried about scar healing,8
+1499,2025-07-06,c_section,6,formula,No family support,7
+1500,2025-06-01,assisted,3,breastfeeding,No family support,12
+1501,2025-05-24,c_section,4,mixed,Low milk supply,13
+1502,2025-05-29,assisted,4,mixed,Back pain,13
+1503,2025-07-03,c_section,11,breastfeeding,Severe fatigue,8
+1504,2025-06-11,c_section,13,breastfeeding,Sleep deprivation,11
+1505,2025-06-01,vaginal,19,formula,Severe fatigue,12
+1506,2025-05-29,assisted,4,breastfeeding,Worried about scar healing,13
+1507,2025-07-31,vaginal,12,breastfeeding,Low milk supply,4
+1508,2025-06-25,c_section,19,mixed,Worried about scar healing,9
+1509,2025-07-01,vaginal,4,formula,No family support,8
+1510,2025-07-05,assisted,3,breastfeeding,Sleep deprivation,7
+1511,2025-07-31,c_section,17,mixed,Sleep deprivation,4
+1512,2025-06-08,vaginal,17,formula,No family support,11
+1513,2025-07-05,assisted,7,mixed,Pain while feeding,7
+1514,2025-05-29,c_section,3,formula,Worried about scar healing,13
+1515,2025-08-15,vaginal,15,mixed,Worried about scar healing,1
+1516,2025-07-28,c_section,6,breastfeeding,Back pain,4
+1517,2025-06-11,c_section,20,formula,No family support,11
+1518,2025-06-19,c_section,13,breastfeeding,Incision pain,10
+1519,2025-06-10,vaginal,10,formula,Back pain,11
+1520,2025-07-24,assisted,6,mixed,Mood swings,5
+1521,2025-08-06,vaginal,10,formula,Severe fatigue,3
+1522,2025-07-08,vaginal,6,breastfeeding,No family support,7
+1523,2025-08-12,vaginal,15,mixed,Severe fatigue,2
+1524,2025-08-10,vaginal,12,mixed,Severe fatigue,2
+1525,2025-05-25,c_section,9,formula,Back pain,13
+1526,2025-08-13,c_section,5,formula,Back pain,2
+1527,2025-08-17,assisted,9,breastfeeding,Sleep deprivation,1
+1528,2025-08-09,assisted,19,mixed,Severe fatigue,2
+1529,2025-06-01,vaginal,7,formula,Feeling overwhelmed,12
+1530,2025-06-17,c_section,10,mixed,Sleep deprivation,10
+1531,2025-07-18,assisted,16,formula,Severe fatigue,5
+1532,2025-07-29,c_section,9,formula,Back pain,4
+1533,2025-08-01,c_section,17,breastfeeding,Severe fatigue,3
+1534,2025-08-15,vaginal,16,formula,Worried about scar healing,1
+1535,2025-07-24,c_section,20,breastfeeding,Incision pain,5
+1536,2025-07-30,assisted,8,breastfeeding,Sleep deprivation,4
+1537,2025-06-06,c_section,7,mixed,Mood swings,11
+1538,2025-08-09,c_section,11,breastfeeding,Severe fatigue,2
+1539,2025-08-15,assisted,13,mixed,No family support,1
+1540,2025-06-09,c_section,3,mixed,Pain while feeding,11
+1541,2025-05-27,vaginal,20,mixed,Sleep deprivation,13
+1542,2025-05-24,vaginal,5,breastfeeding,Low milk supply,13
+1543,2025-07-11,vaginal,4,formula,Sleep deprivation,6
+1544,2025-06-28,assisted,5,mixed,Back pain,8
+1545,2025-06-23,vaginal,5,breastfeeding,Feeling overwhelmed,9
+1546,2025-05-29,assisted,7,formula,Severe fatigue,13
+1547,2025-06-27,c_section,7,breastfeeding,Mood swings,8
+1548,2025-06-13,c_section,12,formula,Feeling overwhelmed,10
+1549,2025-07-21,c_section,17,breastfeeding,Severe fatigue,5
+1550,2025-06-09,assisted,9,breastfeeding,Back pain,11
+1551,2025-05-30,assisted,14,breastfeeding,Feeling overwhelmed,12
+1552,2025-08-17,vaginal,12,mixed,Incision pain,1
+1553,2025-06-19,assisted,20,formula,Severe fatigue,10
+1554,2025-07-09,c_section,10,breastfeeding,Incision pain,7
+1555,2025-06-26,assisted,7,formula,Mood swings,9
+1556,2025-07-30,assisted,9,formula,Worried about scar healing,4
+1557,2025-07-16,c_section,11,breastfeeding,Mood swings,6
+1558,2025-08-19,c_section,10,formula,Low milk supply,1
+1559,2025-07-05,assisted,9,formula,Pain while feeding,7
+1560,2025-06-26,vaginal,7,breastfeeding,Sleep deprivation,9
+1561,2025-08-06,c_section,17,breastfeeding,Low milk supply,3
+1562,2025-07-31,vaginal,16,mixed,No family support,4
+1563,2025-07-05,assisted,11,mixed,Worried about scar healing,7
+1564,2025-07-18,assisted,4,mixed,Sleep deprivation,5
+1565,2025-06-18,assisted,19,mixed,Incision pain,10
+1566,2025-06-21,vaginal,4,breastfeeding,Incision pain,9
+1567,2025-06-27,assisted,5,formula,No family support,8
+1568,2025-05-25,assisted,13,mixed,Worried about scar healing,13
+1569,2025-08-15,assisted,3,mixed,Severe fatigue,1
+1570,2025-07-17,assisted,4,formula,Feeling overwhelmed,6
+1571,2025-06-02,vaginal,20,mixed,Mood swings,12
+1572,2025-07-07,vaginal,12,mixed,Low milk supply,7
+1573,2025-07-30,c_section,8,formula,Pain while feeding,4
+1574,2025-06-27,c_section,20,breastfeeding,Mood swings,8
+1575,2025-08-02,vaginal,11,formula,Incision pain,3
+1576,2025-06-13,c_section,20,breastfeeding,Pain while feeding,10
+1577,2025-06-26,vaginal,10,formula,Incision pain,9
+1578,2025-07-20,c_section,15,mixed,Feeling overwhelmed,5
+1579,2025-07-26,c_section,19,formula,No family support,4
+1580,2025-05-25,assisted,19,mixed,Sleep deprivation,13
+1581,2025-07-12,vaginal,9,breastfeeding,Incision pain,6
+1582,2025-08-18,c_section,17,mixed,Low milk supply,1
+1583,2025-08-02,vaginal,19,mixed,No family support,3
+1584,2025-08-16,vaginal,14,formula,Pain while feeding,1
+1585,2025-06-28,assisted,16,formula,Pain while feeding,8
+1586,2025-06-13,assisted,19,formula,Worried about scar healing,10
+1587,2025-08-20,assisted,9,breastfeeding,Incision pain,1
+1588,2025-07-13,c_section,15,breastfeeding,Pain while feeding,6
+1589,2025-06-01,vaginal,11,mixed,Pain while feeding,12
+1590,2025-06-22,c_section,15,formula,Back pain,9
+1591,2025-07-08,c_section,13,formula,Back pain,7
+1592,2025-08-07,vaginal,10,formula,Pain while feeding,3
+1593,2025-07-03,c_section,20,mixed,Worried about scar healing,8
+1594,2025-08-06,assisted,16,breastfeeding,Mood swings,3
+1595,2025-05-31,assisted,6,formula,Mood swings,12
+1596,2025-07-06,assisted,5,breastfeeding,Pain while feeding,7
+1597,2025-07-16,c_section,12,breastfeeding,Mood swings,6
+1598,2025-08-20,vaginal,12,breastfeeding,Incision pain,1
+1599,2025-08-16,c_section,19,mixed,Pain while feeding,1
+1600,2025-07-05,vaginal,10,mixed,Pain while feeding,7
+1601,2025-08-07,c_section,12,formula,Mood swings,3
+1602,2025-08-16,vaginal,13,mixed,Sleep deprivation,1
+1603,2025-07-26,c_section,12,formula,Sleep deprivation,4
+1604,2025-06-12,vaginal,19,breastfeeding,Feeling overwhelmed,11
+1605,2025-08-04,assisted,17,breastfeeding,Back pain,3
+1606,2025-07-21,c_section,16,mixed,Mood swings,5
+1607,2025-08-06,c_section,6,mixed,Feeling overwhelmed,3
+1608,2025-08-18,vaginal,15,breastfeeding,Low milk supply,1
+1609,2025-06-09,assisted,20,mixed,Low milk supply,11
+1610,2025-07-07,assisted,17,breastfeeding,Mood swings,7
+1611,2025-07-10,c_section,8,mixed,Severe fatigue,7
+1612,2025-06-12,c_section,10,mixed,Feeling overwhelmed,11
+1613,2025-07-13,vaginal,11,formula,Sleep deprivation,6
+1614,2025-08-08,vaginal,19,formula,Worried about scar healing,2
+1615,2025-07-24,vaginal,12,breastfeeding,Incision pain,5
+1616,2025-06-09,vaginal,15,breastfeeding,Worried about scar healing,11
+1617,2025-06-17,assisted,15,formula,No family support,10
+1618,2025-07-29,assisted,13,breastfeeding,Incision pain,4
+1619,2025-06-03,vaginal,4,mixed,Sleep deprivation,12
+1620,2025-06-17,vaginal,20,breastfeeding,Severe fatigue,10
+1621,2025-08-05,c_section,19,formula,Sleep deprivation,3
+1622,2025-07-19,assisted,9,formula,Worried about scar healing,5
+1623,2025-07-23,c_section,16,formula,Low milk supply,5
+1624,2025-06-13,assisted,16,breastfeeding,Low milk supply,10
+1625,2025-06-20,assisted,11,mixed,Sleep deprivation,9
+1626,2025-05-27,c_section,19,mixed,Feeling overwhelmed,13
+1627,2025-05-24,c_section,20,formula,Back pain,13
+1628,2025-06-16,c_section,16,breastfeeding,Incision pain,10
+1629,2025-06-08,c_section,6,mixed,Severe fatigue,11
+1630,2025-07-03,vaginal,6,formula,Feeling overwhelmed,8
+1631,2025-08-10,vaginal,7,mixed,Incision pain,2
+1632,2025-05-25,vaginal,16,mixed,Feeling overwhelmed,13
+1633,2025-06-14,c_section,20,formula,Severe fatigue,10
+1634,2025-05-27,assisted,14,mixed,Sleep deprivation,13
+1635,2025-06-15,c_section,10,formula,Severe fatigue,10
+1636,2025-07-15,assisted,7,formula,Low milk supply,6
+1637,2025-06-10,c_section,9,mixed,Incision pain,11
+1638,2025-06-11,c_section,13,mixed,Worried about scar healing,11
+1639,2025-05-27,assisted,9,mixed,Worried about scar healing,13
+1640,2025-07-14,c_section,16,breastfeeding,No family support,6
+1641,2025-07-31,assisted,12,formula,Sleep deprivation,4
+1642,2025-06-05,c_section,10,formula,Feeling overwhelmed,12
+1643,2025-06-07,assisted,11,breastfeeding,Pain while feeding,11
+1644,2025-08-19,vaginal,9,breastfeeding,Worried about scar healing,1
+1645,2025-08-07,c_section,20,mixed,No family support,3
+1646,2025-06-23,assisted,13,formula,Pain while feeding,9
+1647,2025-08-12,assisted,13,breastfeeding,Low milk supply,2
+1648,2025-06-18,vaginal,15,formula,Incision pain,10
+1649,2025-06-27,vaginal,7,formula,Worried about scar healing,8
+1650,2025-08-17,vaginal,4,mixed,No family support,1
+1651,2025-08-17,c_section,6,mixed,Worried about scar healing,1
+1652,2025-07-19,vaginal,7,breastfeeding,Sleep deprivation,5
+1653,2025-08-12,c_section,10,breastfeeding,Feeling overwhelmed,2
+1654,2025-06-02,vaginal,14,formula,Low milk supply,12
+1655,2025-07-17,vaginal,15,mixed,Low milk supply,6
+1656,2025-07-19,vaginal,20,breastfeeding,Worried about scar healing,5
+1657,2025-07-12,assisted,5,formula,Back pain,6
+1658,2025-07-14,vaginal,13,breastfeeding,Back pain,6
+1659,2025-08-09,vaginal,3,mixed,Mood swings,2
+1660,2025-07-07,c_section,7,breastfeeding,Mood swings,7
+1661,2025-07-25,assisted,15,mixed,Back pain,4
+1662,2025-06-12,vaginal,5,formula,Incision pain,11
+1663,2025-06-24,c_section,10,formula,No family support,9
+1664,2025-07-06,assisted,11,formula,Pain while feeding,7
+1665,2025-08-12,c_section,8,breastfeeding,Low milk supply,2
+1666,2025-06-22,assisted,16,breastfeeding,Worried about scar healing,9
+1667,2025-07-12,vaginal,20,breastfeeding,Incision pain,6
+1668,2025-08-18,vaginal,5,mixed,Incision pain,1
+1669,2025-07-09,assisted,11,breastfeeding,Incision pain,7
+1670,2025-08-07,c_section,11,formula,Worried about scar healing,3
+1671,2025-07-22,vaginal,8,formula,Severe fatigue,5
+1672,2025-07-31,vaginal,17,formula,Pain while feeding,4
+1673,2025-07-25,c_section,20,formula,Mood swings,4
+1674,2025-07-20,assisted,12,formula,Incision pain,5
+1675,2025-07-22,vaginal,6,formula,Feeling overwhelmed,5
+1676,2025-06-22,vaginal,6,mixed,Mood swings,9
+1677,2025-06-17,assisted,15,mixed,Low milk supply,10
+1678,2025-06-30,assisted,14,mixed,No family support,8
+1679,2025-06-26,c_section,12,breastfeeding,No family support,9
+1680,2025-07-05,c_section,16,formula,Low milk supply,7
+1681,2025-06-17,assisted,15,mixed,Incision pain,10
+1682,2025-07-19,vaginal,11,mixed,Mood swings,5
+1683,2025-08-02,vaginal,13,breastfeeding,Mood swings,3
+1684,2025-08-11,vaginal,15,formula,Pain while feeding,2
+1685,2025-06-16,vaginal,5,mixed,Severe fatigue,10
+1686,2025-06-25,c_section,11,formula,No family support,9
+1687,2025-06-27,c_section,12,formula,Mood swings,8
+1688,2025-07-25,vaginal,7,breastfeeding,No family support,4
+1689,2025-07-03,c_section,16,formula,Back pain,8
+1690,2025-08-17,assisted,19,breastfeeding,Incision pain,1
+1691,2025-06-30,vaginal,6,formula,Sleep deprivation,8
+1692,2025-08-09,vaginal,3,mixed,Worried about scar healing,2
+1693,2025-06-27,c_section,16,breastfeeding,Low milk supply,8
+1694,2025-06-18,vaginal,19,mixed,Low milk supply,10
+1695,2025-06-17,vaginal,5,formula,Worried about scar healing,10
+1696,2025-07-30,assisted,6,formula,Worried about scar healing,4
+1697,2025-05-26,assisted,6,formula,Sleep deprivation,13
+1698,2025-08-12,c_section,8,formula,Pain while feeding,2
+1699,2025-06-23,vaginal,9,formula,Sleep deprivation,9
+1700,2025-05-31,assisted,8,breastfeeding,Back pain,12
+1701,2025-08-19,assisted,7,formula,Severe fatigue,1
+1702,2025-07-31,c_section,10,breastfeeding,Low milk supply,4
+1703,2025-08-19,c_section,10,breastfeeding,Worried about scar healing,1
+1704,2025-06-20,vaginal,12,mixed,Severe fatigue,9
+1705,2025-08-03,vaginal,12,mixed,Back pain,3
+1706,2025-07-14,c_section,7,mixed,Pain while feeding,6
+1707,2025-07-04,vaginal,12,mixed,Feeling overwhelmed,7
+1708,2025-06-06,c_section,15,breastfeeding,No family support,11
+1709,2025-06-11,vaginal,19,breastfeeding,Pain while feeding,11
+1710,2025-07-15,vaginal,19,mixed,Worried about scar healing,6
+1711,2025-08-17,c_section,12,formula,Sleep deprivation,1
+1712,2025-07-30,vaginal,9,breastfeeding,Worried about scar healing,4
+1713,2025-06-24,assisted,5,formula,Back pain,9
+1714,2025-07-27,c_section,4,mixed,Feeling overwhelmed,4
+1715,2025-08-16,assisted,10,breastfeeding,Pain while feeding,1
+1716,2025-08-15,assisted,13,mixed,Back pain,1
+1717,2025-07-04,assisted,3,mixed,No family support,7
+1718,2025-07-02,vaginal,7,formula,Back pain,8
+1719,2025-07-12,vaginal,9,mixed,Mood swings,6
+1720,2025-06-28,assisted,7,mixed,No family support,8
+1721,2025-06-30,assisted,5,formula,Back pain,8
+1722,2025-08-04,vaginal,15,formula,Feeling overwhelmed,3
+1723,2025-06-15,vaginal,6,breastfeeding,Worried about scar healing,10
+1724,2025-05-23,assisted,20,formula,Mood swings,13
+1725,2025-07-16,vaginal,16,formula,Severe fatigue,6
+1726,2025-07-03,vaginal,16,mixed,Worried about scar healing,8
+1727,2025-08-07,vaginal,18,breastfeeding,Worried about scar healing,3
+1728,2025-06-10,assisted,18,mixed,Pain while feeding,11
+1729,2025-05-27,vaginal,14,mixed,Feeling overwhelmed,13
+1730,2025-05-28,c_section,16,mixed,Feeling overwhelmed,13
+1731,2025-08-06,assisted,8,formula,No family support,3
+1732,2025-07-02,assisted,10,breastfeeding,Incision pain,8
+1733,2025-05-28,c_section,6,breastfeeding,Back pain,13
+1734,2025-05-29,c_section,18,mixed,Incision pain,13
+1735,2025-06-12,vaginal,19,mixed,Back pain,11
+1736,2025-08-10,c_section,17,breastfeeding,Sleep deprivation,2
+1737,2025-08-20,assisted,13,mixed,Pain while feeding,1
+1738,2025-06-24,c_section,4,formula,Feeling overwhelmed,9
+1739,2025-06-17,assisted,5,mixed,No family support,10
+1740,2025-08-12,c_section,13,breastfeeding,Worried about scar healing,2
+1741,2025-08-19,c_section,13,breastfeeding,Worried about scar healing,1
+1742,2025-06-18,vaginal,12,formula,Mood swings,10
+1743,2025-07-21,c_section,7,breastfeeding,No family support,5
+1744,2025-07-12,assisted,3,breastfeeding,Severe fatigue,6
+1745,2025-06-28,c_section,3,breastfeeding,No family support,8
+1746,2025-06-07,vaginal,19,formula,Back pain,11
+1747,2025-06-09,assisted,19,formula,Feeling overwhelmed,11
+1748,2025-06-23,assisted,4,formula,Sleep deprivation,9
+1749,2025-06-17,c_section,6,formula,Low milk supply,10
+1750,2025-08-05,vaginal,4,formula,Back pain,3
+1751,2025-06-09,assisted,13,breastfeeding,Mood swings,11
+1752,2025-08-13,c_section,13,formula,Worried about scar healing,2
+1753,2025-06-01,c_section,5,mixed,Severe fatigue,12
+1754,2025-07-26,vaginal,13,mixed,Pain while feeding,4
+1755,2025-06-25,assisted,17,breastfeeding,No family support,9
+1756,2025-06-25,c_section,20,mixed,Low milk supply,9
+1757,2025-07-16,vaginal,5,formula,Worried about scar healing,6
+1758,2025-07-25,vaginal,11,breastfeeding,No family support,4
+1759,2025-08-12,vaginal,13,mixed,Severe fatigue,2
+1760,2025-06-07,vaginal,15,breastfeeding,No family support,11
+1761,2025-06-02,vaginal,7,breastfeeding,Back pain,12
+1762,2025-07-18,c_section,9,mixed,Mood swings,5
+1763,2025-06-20,c_section,10,mixed,Feeling overwhelmed,9
+1764,2025-06-26,vaginal,17,breastfeeding,Mood swings,9
+1765,2025-05-26,assisted,9,breastfeeding,Severe fatigue,13
+1766,2025-08-06,vaginal,12,mixed,Pain while feeding,3
+1767,2025-07-12,c_section,8,breastfeeding,Severe fatigue,6
+1768,2025-08-09,assisted,4,breastfeeding,Low milk supply,2
+1769,2025-07-11,vaginal,10,breastfeeding,Sleep deprivation,6
+1770,2025-06-22,vaginal,13,formula,Worried about scar healing,9
+1771,2025-07-22,assisted,20,mixed,Mood swings,5
+1772,2025-06-12,vaginal,7,breastfeeding,Mood swings,11
+1773,2025-06-01,c_section,8,breastfeeding,Pain while feeding,12
+1774,2025-08-11,vaginal,17,formula,Low milk supply,2
+1775,2025-06-03,vaginal,18,mixed,Pain while feeding,12
+1776,2025-08-18,c_section,8,formula,Sleep deprivation,1
+1777,2025-07-24,vaginal,9,mixed,Worried about scar healing,5
+1778,2025-07-27,c_section,19,mixed,Low milk supply,4
+1779,2025-07-24,c_section,16,breastfeeding,No family support,5
+1780,2025-06-05,c_section,11,breastfeeding,Incision pain,12
+1781,2025-08-10,assisted,17,mixed,Feeling overwhelmed,2
+1782,2025-07-13,assisted,3,breastfeeding,Severe fatigue,6
+1783,2025-06-09,vaginal,12,formula,Feeling overwhelmed,11
+1784,2025-07-10,c_section,15,mixed,Worried about scar healing,7
+1785,2025-07-27,assisted,3,breastfeeding,Severe fatigue,4
+1786,2025-05-28,vaginal,20,formula,No family support,13
+1787,2025-05-28,vaginal,19,breastfeeding,Worried about scar healing,13
+1788,2025-05-29,vaginal,17,formula,No family support,13
+1789,2025-06-19,c_section,8,breastfeeding,Incision pain,10
+1790,2025-06-18,c_section,6,breastfeeding,Worried about scar healing,10
+1791,2025-07-04,vaginal,7,breastfeeding,Back pain,7
+1792,2025-08-13,assisted,7,mixed,Worried about scar healing,2
+1793,2025-06-07,c_section,3,mixed,Low milk supply,11
+1794,2025-06-26,assisted,15,formula,Incision pain,9
+1795,2025-08-04,c_section,13,formula,Mood swings,3
+1796,2025-07-28,vaginal,3,formula,Incision pain,4
+1797,2025-06-15,c_section,12,mixed,Sleep deprivation,10
+1798,2025-07-30,assisted,11,mixed,Severe fatigue,4
+1799,2025-07-16,vaginal,3,formula,Incision pain,6
+1800,2025-06-12,assisted,5,breastfeeding,No family support,11
+1801,2025-06-05,vaginal,10,formula,Low milk supply,12
+1802,2025-08-19,c_section,13,formula,Back pain,1
+1803,2025-07-20,vaginal,18,formula,Feeling overwhelmed,5
+1804,2025-07-07,c_section,7,mixed,Severe fatigue,7
+1805,2025-07-17,c_section,5,formula,Pain while feeding,6
+1806,2025-08-15,c_section,19,mixed,Sleep deprivation,1
+1807,2025-06-26,vaginal,10,breastfeeding,No family support,9
+1808,2025-06-26,assisted,17,mixed,Mood swings,9
+1809,2025-06-27,assisted,14,breastfeeding,Incision pain,8
+1810,2025-05-26,vaginal,10,mixed,No family support,13
+1811,2025-06-13,assisted,16,breastfeeding,Low milk supply,10
+1812,2025-07-26,assisted,20,mixed,Low milk supply,4
+1813,2025-06-30,c_section,8,mixed,Worried about scar healing,8
+1814,2025-06-02,assisted,20,formula,Mood swings,12
+1815,2025-07-11,vaginal,12,breastfeeding,Feeling overwhelmed,6
+1816,2025-07-31,c_section,12,breastfeeding,Mood swings,4
+1817,2025-06-17,c_section,16,formula,Mood swings,10
+1818,2025-05-25,vaginal,18,formula,Worried about scar healing,13
+1819,2025-08-18,c_section,9,formula,Low milk supply,1
+1820,2025-06-29,c_section,8,breastfeeding,Severe fatigue,8
+1821,2025-06-25,assisted,5,mixed,Feeling overwhelmed,9
+1822,2025-05-24,vaginal,8,breastfeeding,Sleep deprivation,13
+1823,2025-07-13,assisted,7,formula,Low milk supply,6
+1824,2025-06-13,c_section,20,formula,Pain while feeding,10
+1825,2025-07-30,vaginal,17,breastfeeding,Mood swings,4
+1826,2025-08-04,assisted,14,formula,Incision pain,3
+1827,2025-08-14,c_section,7,formula,Pain while feeding,2
+1828,2025-06-22,vaginal,15,breastfeeding,Pain while feeding,9
+1829,2025-06-18,c_section,16,mixed,Severe fatigue,10
+1830,2025-07-18,c_section,14,formula,Back pain,5
+1831,2025-07-19,assisted,16,mixed,Pain while feeding,5
+1832,2025-08-19,assisted,13,breastfeeding,Incision pain,1
+1833,2025-07-04,c_section,20,mixed,Mood swings,7
+1834,2025-06-27,vaginal,5,mixed,Pain while feeding,8
+1835,2025-07-31,c_section,5,breastfeeding,Mood swings,4
+1836,2025-06-17,assisted,15,mixed,Sleep deprivation,10
+1837,2025-06-20,c_section,6,mixed,Low milk supply,9
+1838,2025-08-07,vaginal,4,mixed,Worried about scar healing,3
+1839,2025-07-07,assisted,10,breastfeeding,Incision pain,7
+1840,2025-08-14,c_section,8,formula,Worried about scar healing,2
+1841,2025-05-26,c_section,16,formula,Low milk supply,13
+1842,2025-05-31,c_section,9,formula,Back pain,12
+1843,2025-07-25,assisted,15,mixed,Sleep deprivation,4
+1844,2025-06-09,vaginal,4,mixed,No family support,11
+1845,2025-06-17,vaginal,16,formula,Pain while feeding,10
+1846,2025-08-18,vaginal,5,breastfeeding,Sleep deprivation,1
+1847,2025-06-14,assisted,6,mixed,Incision pain,10
+1848,2025-06-19,vaginal,15,formula,Incision pain,10
+1849,2025-06-08,vaginal,13,formula,Feeling overwhelmed,11
+1850,2025-07-22,assisted,20,formula,Feeling overwhelmed,5
+1851,2025-06-03,vaginal,8,formula,Incision pain,12
+1852,2025-08-11,vaginal,16,breastfeeding,Sleep deprivation,2
+1853,2025-05-28,vaginal,13,breastfeeding,No family support,13
+1854,2025-05-26,vaginal,8,breastfeeding,Mood swings,13
+1855,2025-05-27,assisted,17,formula,Pain while feeding,13
+1856,2025-06-29,assisted,4,formula,Pain while feeding,8
+1857,2025-06-05,vaginal,17,formula,Pain while feeding,12
+1858,2025-05-24,vaginal,9,mixed,Mood swings,13
+1859,2025-08-08,vaginal,5,formula,Mood swings,2
+1860,2025-07-24,assisted,13,breastfeeding,Severe fatigue,5
+1861,2025-06-18,vaginal,10,breastfeeding,Low milk supply,10
+1862,2025-06-21,vaginal,4,formula,Sleep deprivation,9
+1863,2025-08-03,vaginal,19,formula,Feeling overwhelmed,3
+1864,2025-08-11,vaginal,14,formula,Severe fatigue,2
+1865,2025-08-04,vaginal,15,formula,Incision pain,3
+1866,2025-08-15,assisted,5,breastfeeding,Low milk supply,1
+1867,2025-08-19,assisted,4,formula,Feeling overwhelmed,1
+1868,2025-06-24,c_section,5,mixed,Severe fatigue,9
+1869,2025-06-24,vaginal,7,formula,No family support,9
+1870,2025-07-27,c_section,12,breastfeeding,Severe fatigue,4
+1871,2025-06-16,assisted,4,formula,Severe fatigue,10
+1872,2025-06-16,vaginal,14,breastfeeding,Worried about scar healing,10
+1873,2025-06-28,assisted,4,breastfeeding,Pain while feeding,8
+1874,2025-08-15,c_section,3,formula,Severe fatigue,1
+1875,2025-07-02,vaginal,13,breastfeeding,Feeling overwhelmed,8
+1876,2025-08-10,vaginal,10,breastfeeding,Severe fatigue,2
+1877,2025-07-02,c_section,12,breastfeeding,Back pain,8
+1878,2025-05-24,assisted,14,breastfeeding,Sleep deprivation,13
+1879,2025-08-02,vaginal,3,mixed,No family support,3
+1880,2025-05-27,assisted,5,mixed,Pain while feeding,13
+1881,2025-05-31,c_section,6,mixed,Low milk supply,12
+1882,2025-07-08,assisted,5,formula,Incision pain,7
+1883,2025-06-24,c_section,5,mixed,Mood swings,9
+1884,2025-07-12,assisted,10,formula,Back pain,6
+1885,2025-05-29,assisted,10,mixed,No family support,13
+1886,2025-07-25,c_section,11,formula,Pain while feeding,4
+1887,2025-06-30,vaginal,20,formula,Worried about scar healing,8
+1888,2025-05-30,c_section,8,breastfeeding,Back pain,12
+1889,2025-08-18,vaginal,14,mixed,Pain while feeding,1
+1890,2025-08-04,assisted,9,mixed,Sleep deprivation,3
+1891,2025-07-16,c_section,14,mixed,Severe fatigue,6
+1892,2025-05-25,vaginal,19,breastfeeding,Back pain,13
+1893,2025-08-18,c_section,19,formula,Back pain,1
+1894,2025-08-10,vaginal,8,breastfeeding,Pain while feeding,2
+1895,2025-06-21,vaginal,9,formula,Incision pain,9
+1896,2025-06-22,vaginal,14,breastfeeding,Pain while feeding,9
+1897,2025-06-07,vaginal,11,mixed,Low milk supply,11
+1898,2025-06-28,c_section,5,mixed,Low milk supply,8
+1899,2025-08-17,vaginal,11,breastfeeding,Sleep deprivation,1
+1900,2025-06-09,c_section,9,formula,Worried about scar healing,11
+1901,2025-07-11,assisted,20,breastfeeding,No family support,6
+1902,2025-08-11,c_section,14,mixed,Worried about scar healing,2
+1903,2025-06-22,vaginal,16,mixed,Low milk supply,9
+1904,2025-05-27,vaginal,5,mixed,Feeling overwhelmed,13
+1905,2025-08-19,c_section,16,breastfeeding,Severe fatigue,1
+1906,2025-08-05,assisted,20,breastfeeding,Feeling overwhelmed,3
+1907,2025-07-02,c_section,13,breastfeeding,Pain while feeding,8
+1908,2025-06-13,vaginal,11,formula,Severe fatigue,10
+1909,2025-06-29,assisted,11,breastfeeding,Back pain,8
+1910,2025-07-07,assisted,20,breastfeeding,Low milk supply,7
+1911,2025-06-05,vaginal,17,breastfeeding,Mood swings,12
+1912,2025-07-30,vaginal,15,formula,Sleep deprivation,4
+1913,2025-07-26,c_section,4,formula,Low milk supply,4
+1914,2025-06-17,vaginal,4,formula,Back pain,10
+1915,2025-06-05,vaginal,12,breastfeeding,Worried about scar healing,12
+1916,2025-07-23,vaginal,17,formula,Mood swings,5
+1917,2025-05-30,vaginal,18,formula,Sleep deprivation,12
+1918,2025-08-15,vaginal,4,mixed,No family support,1
+1919,2025-07-26,c_section,12,mixed,Pain while feeding,4
+1920,2025-07-06,assisted,14,breastfeeding,Severe fatigue,7
+1921,2025-08-13,c_section,5,breastfeeding,Low milk supply,2
+1922,2025-06-24,assisted,8,breastfeeding,Low milk supply,9
+1923,2025-08-12,assisted,13,mixed,Worried about scar healing,2
+1924,2025-06-11,assisted,20,formula,Feeling overwhelmed,11
+1925,2025-08-16,assisted,11,formula,Sleep deprivation,1
+1926,2025-07-08,c_section,8,breastfeeding,Feeling overwhelmed,7
+1927,2025-06-29,assisted,15,mixed,Pain while feeding,8
+1928,2025-07-30,c_section,16,breastfeeding,Feeling overwhelmed,4
+1929,2025-06-06,vaginal,19,mixed,Low milk supply,11
+1930,2025-06-27,c_section,7,formula,Back pain,8
+1931,2025-06-15,vaginal,13,formula,Severe fatigue,10
+1932,2025-06-10,assisted,16,mixed,Pain while feeding,11
+1933,2025-07-27,c_section,19,mixed,Pain while feeding,4
+1934,2025-08-05,c_section,4,formula,Severe fatigue,3
+1935,2025-06-25,assisted,16,breastfeeding,Severe fatigue,9
+1936,2025-07-10,assisted,11,formula,Incision pain,7
+1937,2025-07-28,assisted,3,formula,Back pain,4
+1938,2025-06-02,c_section,11,breastfeeding,No family support,12
+1939,2025-08-13,assisted,6,breastfeeding,Sleep deprivation,2
+1940,2025-07-07,c_section,16,formula,Sleep deprivation,7
+1941,2025-07-05,c_section,16,mixed,Back pain,7
+1942,2025-07-06,vaginal,5,breastfeeding,No family support,7
+1943,2025-08-07,vaginal,17,breastfeeding,Incision pain,3
+1944,2025-08-10,vaginal,12,breastfeeding,Feeling overwhelmed,2
+1945,2025-08-04,c_section,20,formula,Worried about scar healing,3
+1946,2025-07-15,assisted,15,mixed,Back pain,6
+1947,2025-05-25,assisted,3,breastfeeding,Low milk supply,13
+1948,2025-07-22,vaginal,14,formula,Severe fatigue,5
+1949,2025-08-18,c_section,10,mixed,Pain while feeding,1
+1950,2025-08-08,vaginal,5,mixed,Worried about scar healing,2
+1951,2025-07-29,c_section,17,mixed,Pain while feeding,4
+1952,2025-07-04,assisted,4,breastfeeding,Worried about scar healing,7
+1953,2025-07-29,assisted,17,formula,Worried about scar healing,4
+1954,2025-07-23,vaginal,19,breastfeeding,Incision pain,5
+1955,2025-05-24,vaginal,17,formula,Back pain,13
+1956,2025-08-16,vaginal,15,breastfeeding,Sleep deprivation,1
+1957,2025-06-25,assisted,14,breastfeeding,Pain while feeding,9
+1958,2025-08-10,c_section,9,breastfeeding,Mood swings,2
+1959,2025-07-15,c_section,20,mixed,Pain while feeding,6
+1960,2025-05-30,vaginal,4,mixed,Incision pain,12
+1961,2025-07-21,c_section,8,mixed,Feeling overwhelmed,5
+1962,2025-05-27,vaginal,8,mixed,Sleep deprivation,13
+1963,2025-07-18,vaginal,4,mixed,No family support,5
+1964,2025-06-12,c_section,5,formula,Severe fatigue,11
+1965,2025-08-13,vaginal,5,breastfeeding,Worried about scar healing,2
+1966,2025-07-21,vaginal,10,mixed,Mood swings,5
+1967,2025-06-06,assisted,14,formula,Severe fatigue,11
+1968,2025-08-05,vaginal,3,formula,No family support,3
+1969,2025-06-15,vaginal,18,breastfeeding,Sleep deprivation,10
+1970,2025-05-27,assisted,13,formula,Back pain,13
+1971,2025-07-10,vaginal,15,formula,Pain while feeding,7
+1972,2025-07-20,assisted,14,mixed,Feeling overwhelmed,5
+1973,2025-06-11,c_section,17,mixed,Sleep deprivation,11
+1974,2025-08-11,vaginal,10,mixed,Incision pain,2
+1975,2025-06-05,vaginal,12,formula,Sleep deprivation,12
+1976,2025-06-19,c_section,17,mixed,Low milk supply,10
+1977,2025-05-26,vaginal,17,mixed,Sleep deprivation,13
+1978,2025-06-27,vaginal,5,formula,Worried about scar healing,8
+1979,2025-05-29,assisted,5,mixed,Low milk supply,13
+1980,2025-08-20,assisted,10,mixed,Back pain,1
+1981,2025-07-03,c_section,8,mixed,Pain while feeding,8
+1982,2025-08-08,vaginal,13,mixed,Low milk supply,2
+1983,2025-07-04,c_section,11,mixed,Feeling overwhelmed,7
+1984,2025-06-26,vaginal,13,breastfeeding,No family support,9
+1985,2025-06-15,c_section,16,mixed,No family support,10
+1986,2025-05-29,c_section,18,formula,Incision pain,13
+1987,2025-08-07,assisted,10,formula,Sleep deprivation,3
+1988,2025-07-25,vaginal,5,formula,Low milk supply,4
+1989,2025-05-26,assisted,20,mixed,Back pain,13
+1990,2025-06-30,c_section,9,formula,Mood swings,8
+1991,2025-07-03,vaginal,12,formula,Back pain,8
+1992,2025-07-22,c_section,10,formula,Pain while feeding,5
+1993,2025-05-29,c_section,7,formula,Low milk supply,13
+1994,2025-08-17,assisted,7,mixed,Sleep deprivation,1
+1995,2025-06-27,c_section,17,formula,Pain while feeding,8
+1996,2025-07-10,c_section,4,mixed,No family support,7
+1997,2025-08-16,assisted,12,formula,Low milk supply,1
+1998,2025-08-14,c_section,12,formula,Back pain,2
+1999,2025-08-12,vaginal,18,formula,Back pain,2
+2000,2025-05-23,assisted,19,breastfeeding,Back pain,13
+2001,2025-08-02,assisted,19,mixed,Incision pain,3
+2002,2025-06-19,vaginal,6,mixed,Worried about scar healing,10
+2003,2025-05-28,vaginal,17,breastfeeding,Severe fatigue,13
+2004,2025-06-25,assisted,11,mixed,Sleep deprivation,9
+2005,2025-06-04,c_section,18,breastfeeding,Incision pain,12
+2006,2025-07-12,c_section,9,mixed,Sleep deprivation,6
+2007,2025-06-07,c_section,16,mixed,Incision pain,11
+2008,2025-06-27,assisted,3,breastfeeding,Feeling overwhelmed,8
+2009,2025-07-24,assisted,10,mixed,Mood swings,5
+2010,2025-07-30,assisted,14,formula,Sleep deprivation,4
+2011,2025-07-26,vaginal,19,mixed,Mood swings,4
+2012,2025-06-19,vaginal,19,breastfeeding,Sleep deprivation,10
+2013,2025-07-02,c_section,10,formula,Back pain,8
+2014,2025-07-09,vaginal,16,formula,Mood swings,7
+2015,2025-07-03,vaginal,5,mixed,Back pain,8
+2016,2025-07-24,vaginal,5,mixed,Feeling overwhelmed,5
+2017,2025-08-19,assisted,5,formula,Pain while feeding,1
+2018,2025-07-10,c_section,5,formula,Worried about scar healing,7
+2019,2025-07-29,c_section,17,formula,Worried about scar healing,4
+2020,2025-06-14,assisted,7,breastfeeding,No family support,10
+2021,2025-06-27,vaginal,10,breastfeeding,Pain while feeding,8
+2022,2025-05-23,assisted,14,formula,Severe fatigue,13
+2023,2025-06-01,vaginal,7,mixed,Low milk supply,12
+2024,2025-08-03,c_section,19,formula,Mood swings,3
+2025,2025-07-09,vaginal,20,breastfeeding,Low milk supply,7
+2026,2025-07-17,assisted,4,formula,Mood swings,6
+2027,2025-07-02,assisted,5,mixed,Incision pain,8
+2028,2025-07-05,assisted,17,mixed,No family support,7
+2029,2025-07-27,c_section,7,formula,Low milk supply,4
+2030,2025-05-31,c_section,3,breastfeeding,Severe fatigue,12
+2031,2025-07-05,assisted,20,mixed,Sleep deprivation,7
+2032,2025-07-06,assisted,15,breastfeeding,Pain while feeding,7
+2033,2025-07-20,assisted,10,mixed,Low milk supply,5
+2034,2025-06-20,c_section,18,formula,Incision pain,9
+2035,2025-06-12,assisted,11,mixed,Pain while feeding,11
+2036,2025-07-15,c_section,11,breastfeeding,Worried about scar healing,6
+2037,2025-06-29,vaginal,8,breastfeeding,Feeling overwhelmed,8
+2038,2025-07-25,c_section,14,breastfeeding,Back pain,4
+2039,2025-07-11,c_section,3,mixed,Back pain,6
+2040,2025-05-27,vaginal,5,breastfeeding,Back pain,13
+2041,2025-07-22,c_section,14,breastfeeding,Worried about scar healing,5
+2042,2025-08-17,assisted,8,formula,No family support,1
+2043,2025-06-21,assisted,18,formula,Severe fatigue,9
+2044,2025-07-21,c_section,3,breastfeeding,Incision pain,5
+2045,2025-07-16,vaginal,14,breastfeeding,No family support,6
+2046,2025-06-22,vaginal,10,breastfeeding,Back pain,9
+2047,2025-08-07,c_section,18,breastfeeding,Severe fatigue,3
+2048,2025-06-21,c_section,17,formula,Feeling overwhelmed,9
+2049,2025-07-05,assisted,5,mixed,No family support,7
+2050,2025-07-03,assisted,20,formula,Worried about scar healing,8
+2051,2025-08-06,assisted,19,breastfeeding,No family support,3
+2052,2025-06-13,c_section,9,formula,Back pain,10
+2053,2025-07-30,c_section,13,formula,Feeling overwhelmed,4
+2054,2025-07-17,assisted,14,formula,No family support,6
+2055,2025-07-08,vaginal,5,breastfeeding,Pain while feeding,7
+2056,2025-06-25,assisted,5,formula,Low milk supply,9
+2057,2025-07-01,c_section,3,mixed,Feeling overwhelmed,8
+2058,2025-07-15,vaginal,11,mixed,Sleep deprivation,6
+2059,2025-06-01,vaginal,12,formula,Back pain,12
+2060,2025-08-12,c_section,15,formula,Mood swings,2
+2061,2025-07-08,c_section,12,formula,No family support,7
+2062,2025-07-11,vaginal,3,formula,Mood swings,6
+2063,2025-06-26,assisted,20,formula,Back pain,9
+2064,2025-06-12,c_section,14,breastfeeding,Feeling overwhelmed,11
+2065,2025-08-19,c_section,9,formula,Incision pain,1
+2066,2025-06-11,vaginal,9,formula,Sleep deprivation,11
+2067,2025-06-30,c_section,11,mixed,Mood swings,8
+2068,2025-06-11,c_section,20,formula,Feeling overwhelmed,11
+2069,2025-08-02,assisted,20,mixed,Sleep deprivation,3
+2070,2025-06-22,vaginal,15,breastfeeding,Incision pain,9
+2071,2025-08-04,c_section,17,mixed,Back pain,3
+2072,2025-08-16,assisted,19,mixed,Sleep deprivation,1
+2073,2025-07-28,c_section,18,breastfeeding,Severe fatigue,4
+2074,2025-07-16,c_section,18,formula,Low milk supply,6
+2075,2025-07-08,assisted,16,breastfeeding,Sleep deprivation,7
+2076,2025-06-26,vaginal,9,breastfeeding,Feeling overwhelmed,9
+2077,2025-08-15,assisted,5,mixed,Severe fatigue,1
+2078,2025-06-05,assisted,18,mixed,Incision pain,12
+2079,2025-06-01,vaginal,8,formula,Worried about scar healing,12
+2080,2025-08-02,c_section,6,breastfeeding,Pain while feeding,3
+2081,2025-08-07,vaginal,20,mixed,Pain while feeding,3
+2082,2025-08-17,c_section,14,breastfeeding,Sleep deprivation,1
+2083,2025-06-18,c_section,12,mixed,Sleep deprivation,10
+2084,2025-08-10,assisted,4,breastfeeding,Sleep deprivation,2
+2085,2025-06-26,c_section,18,mixed,No family support,9
+2086,2025-06-12,vaginal,4,formula,Incision pain,11
+2087,2025-06-10,c_section,11,formula,Worried about scar healing,11
+2088,2025-08-11,vaginal,9,breastfeeding,Incision pain,2
+2089,2025-06-20,assisted,9,formula,No family support,9
+2090,2025-06-02,assisted,9,breastfeeding,Sleep deprivation,12
+2091,2025-08-13,c_section,16,mixed,Worried about scar healing,2
+2092,2025-06-16,assisted,13,breastfeeding,Severe fatigue,10
+2093,2025-08-09,c_section,14,formula,Sleep deprivation,2
+2094,2025-06-25,vaginal,18,formula,Back pain,9
+2095,2025-06-24,vaginal,5,formula,Severe fatigue,9
+2096,2025-05-28,vaginal,15,formula,Mood swings,13
+2097,2025-06-05,vaginal,4,breastfeeding,Pain while feeding,12
+2098,2025-07-14,c_section,14,breastfeeding,Sleep deprivation,6
+2099,2025-06-01,vaginal,9,mixed,Low milk supply,12
+2100,2025-08-19,vaginal,19,mixed,Mood swings,1
+2101,2025-06-21,c_section,14,formula,Low milk supply,9
+2102,2025-06-08,assisted,9,formula,Incision pain,11
+2103,2025-06-15,c_section,4,breastfeeding,Low milk supply,10
+2104,2025-07-08,vaginal,8,formula,Pain while feeding,7
+2105,2025-07-04,vaginal,12,formula,Worried about scar healing,7
+2106,2025-07-27,assisted,18,formula,Mood swings,4
+2107,2025-07-27,vaginal,20,mixed,Incision pain,4
+2108,2025-08-16,c_section,3,mixed,Low milk supply,1
+2109,2025-06-09,vaginal,14,mixed,Severe fatigue,11
+2110,2025-08-18,c_section,7,formula,No family support,1
+2111,2025-06-18,assisted,14,breastfeeding,Low milk supply,10
+2112,2025-08-04,c_section,12,mixed,No family support,3
+2113,2025-07-11,vaginal,14,mixed,Incision pain,6
+2114,2025-07-03,c_section,16,formula,Low milk supply,8
+2115,2025-06-09,vaginal,11,formula,Pain while feeding,11
+2116,2025-08-07,c_section,16,mixed,Worried about scar healing,3
+2117,2025-07-24,c_section,13,formula,Feeling overwhelmed,5
+2118,2025-07-18,c_section,6,mixed,Severe fatigue,5
+2119,2025-06-13,c_section,14,formula,Pain while feeding,10
+2120,2025-07-01,c_section,17,mixed,Pain while feeding,8
+2121,2025-06-23,c_section,4,formula,Incision pain,9
+2122,2025-07-20,c_section,4,mixed,Back pain,5
+2123,2025-08-13,vaginal,16,breastfeeding,Pain while feeding,2
+2124,2025-07-19,c_section,9,breastfeeding,Low milk supply,5
+2125,2025-05-27,assisted,3,breastfeeding,Incision pain,13
+2126,2025-07-26,vaginal,6,mixed,No family support,4
+2127,2025-08-11,vaginal,11,formula,Pain while feeding,2
+2128,2025-08-03,c_section,15,mixed,Pain while feeding,3
+2129,2025-07-23,c_section,15,breastfeeding,Back pain,5
+2130,2025-07-21,assisted,14,formula,Back pain,5
+2131,2025-06-08,assisted,17,mixed,No family support,11
+2132,2025-05-24,c_section,10,formula,Severe fatigue,13
+2133,2025-07-06,c_section,8,formula,Incision pain,7
+2134,2025-08-17,c_section,17,breastfeeding,Low milk supply,1
+2135,2025-07-11,c_section,9,formula,Back pain,6
+2136,2025-07-24,assisted,18,mixed,Back pain,5
+2137,2025-06-02,vaginal,20,formula,Pain while feeding,12
+2138,2025-08-16,c_section,7,breastfeeding,Low milk supply,1
+2139,2025-07-12,c_section,14,mixed,Feeling overwhelmed,6
+2140,2025-06-18,c_section,17,breastfeeding,Back pain,10
+2141,2025-07-12,assisted,4,formula,Incision pain,6
+2142,2025-08-20,c_section,18,formula,Sleep deprivation,1
+2143,2025-07-28,assisted,8,breastfeeding,Worried about scar healing,4
+2144,2025-05-24,vaginal,4,breastfeeding,Sleep deprivation,13
+2145,2025-07-28,assisted,3,breastfeeding,Pain while feeding,4
+2146,2025-07-07,vaginal,19,formula,Severe fatigue,7
+2147,2025-08-12,c_section,5,mixed,No family support,2
+2148,2025-06-03,assisted,12,mixed,Low milk supply,12
+2149,2025-07-04,vaginal,7,formula,Feeling overwhelmed,7
+2150,2025-06-17,vaginal,20,formula,Severe fatigue,10
+2151,2025-07-06,assisted,13,breastfeeding,No family support,7
+2152,2025-08-08,assisted,16,formula,Mood swings,2
+2153,2025-08-16,c_section,16,formula,Pain while feeding,1
+2154,2025-07-01,vaginal,12,formula,Severe fatigue,8
+2155,2025-06-08,vaginal,10,breastfeeding,Worried about scar healing,11
+2156,2025-08-09,vaginal,18,mixed,Severe fatigue,2
+2157,2025-06-08,c_section,20,mixed,Pain while feeding,11
+2158,2025-08-16,vaginal,17,mixed,Feeling overwhelmed,1
+2159,2025-08-14,c_section,4,formula,Worried about scar healing,2
+2160,2025-07-27,vaginal,4,breastfeeding,Severe fatigue,4
+2161,2025-07-18,vaginal,7,mixed,Feeling overwhelmed,5
+2162,2025-06-04,assisted,7,mixed,Worried about scar healing,12
+2163,2025-06-04,c_section,7,breastfeeding,Sleep deprivation,12
+2164,2025-06-30,assisted,20,mixed,Mood swings,8
+2165,2025-06-06,vaginal,6,breastfeeding,Severe fatigue,11
+2166,2025-07-21,assisted,14,mixed,Low milk supply,5
+2167,2025-07-09,assisted,13,mixed,Mood swings,7
+2168,2025-06-26,assisted,8,breastfeeding,Worried about scar healing,9
+2169,2025-08-02,assisted,3,mixed,Worried about scar healing,3
+2170,2025-06-07,c_section,18,mixed,Pain while feeding,11
+2171,2025-06-15,assisted,6,formula,Severe fatigue,10
+2172,2025-06-21,vaginal,8,breastfeeding,Sleep deprivation,9
+2173,2025-07-11,c_section,6,breastfeeding,Back pain,6
+2174,2025-05-30,c_section,9,breastfeeding,Feeling overwhelmed,12
+2175,2025-07-09,vaginal,19,formula,Incision pain,7
+2176,2025-06-18,vaginal,4,formula,Pain while feeding,10
+2177,2025-07-28,assisted,18,formula,Low milk supply,4
+2178,2025-06-18,assisted,16,formula,Severe fatigue,10
+2179,2025-06-15,assisted,14,mixed,Sleep deprivation,10
+2180,2025-05-26,vaginal,9,formula,Sleep deprivation,13
+2181,2025-05-25,c_section,3,formula,Mood swings,13
+2182,2025-06-11,vaginal,7,breastfeeding,Low milk supply,11
+2183,2025-08-01,assisted,14,breastfeeding,No family support,3
+2184,2025-07-30,c_section,7,breastfeeding,Mood swings,4
+2185,2025-06-25,vaginal,15,mixed,Mood swings,9
+2186,2025-07-11,assisted,6,formula,Incision pain,6
+2187,2025-06-21,c_section,14,formula,Feeling overwhelmed,9
+2188,2025-07-26,vaginal,18,mixed,No family support,4
+2189,2025-06-23,assisted,5,breastfeeding,Worried about scar healing,9
+2190,2025-07-15,c_section,4,formula,Mood swings,6
+2191,2025-06-07,assisted,5,formula,Incision pain,11
+2192,2025-05-28,assisted,8,mixed,No family support,13
+2193,2025-07-09,c_section,17,breastfeeding,Low milk supply,7
+2194,2025-07-10,c_section,13,formula,Feeling overwhelmed,7
+2195,2025-06-07,vaginal,5,formula,Sleep deprivation,11
+2196,2025-05-26,vaginal,18,formula,Sleep deprivation,13
+2197,2025-08-04,c_section,15,breastfeeding,Pain while feeding,3
+2198,2025-07-14,vaginal,13,breastfeeding,Sleep deprivation,6
+2199,2025-07-24,c_section,14,mixed,Severe fatigue,5
+2200,2025-07-02,c_section,7,mixed,Incision pain,8
+2201,2025-08-03,assisted,19,formula,Feeling overwhelmed,3
+2202,2025-07-24,vaginal,18,breastfeeding,Incision pain,5
+2203,2025-08-10,vaginal,15,breastfeeding,No family support,2
+2204,2025-06-29,assisted,18,mixed,Sleep deprivation,8
+2205,2025-06-03,assisted,3,formula,Back pain,12
+2206,2025-06-16,vaginal,18,mixed,Worried about scar healing,10
+2207,2025-06-05,assisted,20,formula,No family support,12
+2208,2025-08-04,vaginal,15,mixed,Worried about scar healing,3
+2209,2025-07-29,assisted,11,formula,No family support,4
+2210,2025-08-01,c_section,10,mixed,Feeling overwhelmed,3
+2211,2025-07-31,assisted,17,formula,Incision pain,4
+2212,2025-08-07,assisted,19,formula,Severe fatigue,3
+2213,2025-06-06,c_section,8,formula,Worried about scar healing,11
+2214,2025-07-05,c_section,5,breastfeeding,Sleep deprivation,7
+2215,2025-06-30,assisted,15,formula,Worried about scar healing,8
+2216,2025-08-04,assisted,17,formula,Feeling overwhelmed,3
+2217,2025-06-06,c_section,4,mixed,Pain while feeding,11
+2218,2025-06-30,vaginal,12,formula,No family support,8
+2219,2025-08-14,assisted,18,mixed,Severe fatigue,2
+2220,2025-06-21,c_section,15,breastfeeding,Sleep deprivation,9
+2221,2025-08-11,assisted,7,breastfeeding,Sleep deprivation,2
+2222,2025-08-19,vaginal,13,mixed,Worried about scar healing,1
+2223,2025-06-26,vaginal,5,mixed,Back pain,9
+2224,2025-06-27,assisted,7,formula,Sleep deprivation,8
+2225,2025-06-26,vaginal,13,mixed,Worried about scar healing,9
+2226,2025-06-02,vaginal,20,mixed,Severe fatigue,12
+2227,2025-07-16,assisted,12,formula,Sleep deprivation,6
+2228,2025-08-09,assisted,8,formula,Mood swings,2
+2229,2025-06-22,assisted,10,breastfeeding,Severe fatigue,9
+2230,2025-08-18,c_section,14,breastfeeding,Back pain,1
+2231,2025-06-27,vaginal,18,breastfeeding,Severe fatigue,8
+2232,2025-06-06,assisted,16,mixed,Severe fatigue,11
+2233,2025-05-27,vaginal,3,breastfeeding,Incision pain,13
+2234,2025-07-14,vaginal,20,mixed,Pain while feeding,6
+2235,2025-05-28,c_section,5,formula,Incision pain,13
+2236,2025-07-13,c_section,15,mixed,Pain while feeding,6
+2237,2025-06-11,assisted,6,breastfeeding,No family support,11
+2238,2025-07-15,c_section,7,formula,Incision pain,6
+2239,2025-08-09,vaginal,14,formula,Severe fatigue,2
+2240,2025-07-05,c_section,7,breastfeeding,Pain while feeding,7
+2241,2025-07-01,c_section,19,mixed,No family support,8
+2242,2025-06-28,assisted,19,breastfeeding,Pain while feeding,8
+2243,2025-08-02,c_section,15,breastfeeding,Worried about scar healing,3
+2244,2025-06-06,assisted,4,mixed,Worried about scar healing,11
+2245,2025-08-10,vaginal,13,mixed,Pain while feeding,2
+2246,2025-06-07,assisted,9,mixed,Worried about scar healing,11
+2247,2025-07-09,c_section,9,mixed,Mood swings,7
+2248,2025-05-30,c_section,8,breastfeeding,Worried about scar healing,12
+2249,2025-06-20,c_section,8,breastfeeding,Sleep deprivation,9
+2250,2025-08-14,vaginal,16,mixed,Low milk supply,2
+2251,2025-07-31,c_section,17,breastfeeding,Feeling overwhelmed,4
+2252,2025-07-02,c_section,12,mixed,No family support,8
+2253,2025-06-14,vaginal,18,breastfeeding,Severe fatigue,10
+2254,2025-06-01,c_section,15,breastfeeding,Pain while feeding,12
+2255,2025-08-12,vaginal,8,mixed,Back pain,2
+2256,2025-06-25,c_section,10,mixed,Mood swings,9
+2257,2025-07-31,vaginal,14,mixed,Back pain,4
+2258,2025-08-13,c_section,19,breastfeeding,No family support,2
+2259,2025-08-11,assisted,17,formula,Low milk supply,2
+2260,2025-07-01,vaginal,9,formula,Low milk supply,8
+2261,2025-08-01,vaginal,17,formula,Feeling overwhelmed,3
+2262,2025-05-28,vaginal,4,mixed,Worried about scar healing,13
+2263,2025-06-22,assisted,20,formula,Worried about scar healing,9
+2264,2025-08-20,c_section,13,mixed,Sleep deprivation,1
+2265,2025-06-16,assisted,8,breastfeeding,Low milk supply,10
+2266,2025-06-28,assisted,4,breastfeeding,Severe fatigue,8
+2267,2025-06-27,c_section,4,breastfeeding,Mood swings,8
+2268,2025-08-15,vaginal,7,formula,Incision pain,1
+2269,2025-06-15,vaginal,13,formula,Back pain,10
+2270,2025-06-22,assisted,17,breastfeeding,Mood swings,9
+2271,2025-07-23,c_section,7,mixed,Back pain,5
+2272,2025-06-11,vaginal,15,breastfeeding,Low milk supply,11
+2273,2025-08-14,c_section,16,mixed,Back pain,2
+2274,2025-07-03,c_section,14,formula,Feeling overwhelmed,8
+2275,2025-05-24,assisted,19,formula,Severe fatigue,13
+2276,2025-07-28,assisted,8,mixed,Sleep deprivation,4
+2277,2025-08-20,assisted,10,breastfeeding,Sleep deprivation,1
+2278,2025-08-20,assisted,17,formula,Sleep deprivation,1
+2279,2025-05-29,vaginal,15,formula,Worried about scar healing,13
+2280,2025-06-14,c_section,9,mixed,Pain while feeding,10
+2281,2025-08-16,assisted,11,mixed,Back pain,1
+2282,2025-05-24,c_section,16,breastfeeding,Pain while feeding,13
+2283,2025-07-01,vaginal,20,breastfeeding,Incision pain,8
+2284,2025-06-09,assisted,4,mixed,Sleep deprivation,11
+2285,2025-07-19,assisted,18,breastfeeding,Mood swings,5
+2286,2025-07-09,c_section,4,formula,Sleep deprivation,7
+2287,2025-08-07,c_section,12,formula,Sleep deprivation,3
+2288,2025-06-08,assisted,10,formula,Severe fatigue,11
+2289,2025-06-04,assisted,11,formula,Incision pain,12
+2290,2025-05-26,vaginal,4,breastfeeding,Feeling overwhelmed,13
+2291,2025-05-30,assisted,12,mixed,No family support,12
+2292,2025-07-20,assisted,14,mixed,Worried about scar healing,5
+2293,2025-06-09,vaginal,14,mixed,Mood swings,11
+2294,2025-06-14,c_section,5,mixed,Severe fatigue,10
+2295,2025-07-09,assisted,12,breastfeeding,Feeling overwhelmed,7
+2296,2025-06-09,assisted,20,formula,Worried about scar healing,11
+2297,2025-06-13,c_section,13,breastfeeding,Pain while feeding,10
+2298,2025-07-25,assisted,16,mixed,Sleep deprivation,4
+2299,2025-07-07,assisted,8,breastfeeding,Feeling overwhelmed,7
+2300,2025-08-10,c_section,19,mixed,Mood swings,2
+2301,2025-08-02,c_section,16,breastfeeding,Incision pain,3
+2302,2025-07-02,vaginal,19,mixed,Severe fatigue,8
+2303,2025-08-17,assisted,14,formula,Pain while feeding,1
+2304,2025-05-26,vaginal,18,mixed,Low milk supply,13
+2305,2025-05-27,vaginal,12,formula,Severe fatigue,13
+2306,2025-07-02,vaginal,7,mixed,Pain while feeding,8
+2307,2025-08-17,assisted,20,breastfeeding,Low milk supply,1
+2308,2025-06-27,assisted,12,mixed,Incision pain,8
+2309,2025-06-14,vaginal,5,formula,No family support,10
+2310,2025-06-15,assisted,12,mixed,Back pain,10
+2311,2025-07-19,vaginal,8,breastfeeding,Feeling overwhelmed,5
+2312,2025-07-24,vaginal,13,formula,Low milk supply,5
+2313,2025-08-07,vaginal,17,mixed,Back pain,3
+2314,2025-07-12,c_section,11,breastfeeding,No family support,6
+2315,2025-07-11,assisted,10,breastfeeding,Mood swings,6
+2316,2025-06-07,c_section,4,mixed,Low milk supply,11
+2317,2025-08-09,vaginal,11,breastfeeding,Feeling overwhelmed,2
+2318,2025-07-23,c_section,6,formula,No family support,5
+2319,2025-07-30,c_section,17,mixed,Sleep deprivation,4
+2320,2025-05-27,c_section,15,breastfeeding,Sleep deprivation,13
+2321,2025-07-30,c_section,10,formula,Mood swings,4
+2322,2025-06-17,c_section,6,breastfeeding,Pain while feeding,10
+2323,2025-07-27,c_section,8,formula,Pain while feeding,4
+2324,2025-08-13,c_section,20,formula,Feeling overwhelmed,2
+2325,2025-06-02,assisted,4,breastfeeding,Sleep deprivation,12
+2326,2025-06-29,vaginal,3,breastfeeding,Feeling overwhelmed,8
+2327,2025-07-19,c_section,12,mixed,Worried about scar healing,5
+2328,2025-07-12,assisted,16,mixed,Severe fatigue,6
+2329,2025-08-06,assisted,10,breastfeeding,Pain while feeding,3
+2330,2025-07-24,vaginal,7,formula,Low milk supply,5
+2331,2025-07-11,vaginal,20,breastfeeding,Low milk supply,6
+2332,2025-08-09,c_section,19,breastfeeding,Mood swings,2
+2333,2025-06-17,assisted,16,breastfeeding,Pain while feeding,10
+2334,2025-08-06,assisted,3,formula,Incision pain,3
+2335,2025-07-20,assisted,18,formula,Low milk supply,5
+2336,2025-06-26,c_section,11,mixed,Incision pain,9
+2337,2025-08-20,vaginal,17,breastfeeding,Feeling overwhelmed,1
+2338,2025-08-16,vaginal,20,formula,Back pain,1
+2339,2025-06-16,vaginal,17,formula,Mood swings,10
+2340,2025-07-16,vaginal,16,mixed,Mood swings,6
+2341,2025-07-12,assisted,4,breastfeeding,Incision pain,6
+2342,2025-06-12,vaginal,18,formula,Severe fatigue,11
+2343,2025-06-10,vaginal,3,breastfeeding,Back pain,11
+2344,2025-07-23,c_section,11,breastfeeding,Back pain,5
+2345,2025-06-27,assisted,9,breastfeeding,Low milk supply,8
+2346,2025-06-27,vaginal,20,breastfeeding,Feeling overwhelmed,8
+2347,2025-06-22,assisted,14,breastfeeding,Feeling overwhelmed,9
+2348,2025-07-07,c_section,17,breastfeeding,Pain while feeding,7
+2349,2025-06-26,vaginal,6,breastfeeding,Mood swings,9
+2350,2025-06-02,c_section,15,mixed,Worried about scar healing,12
+2351,2025-07-04,vaginal,19,mixed,Back pain,7
+2352,2025-06-20,vaginal,7,breastfeeding,Mood swings,9
+2353,2025-07-13,assisted,4,mixed,Worried about scar healing,6
+2354,2025-06-12,vaginal,12,mixed,Low milk supply,11
+2355,2025-05-29,assisted,4,formula,Mood swings,13
+2356,2025-06-19,c_section,17,mixed,No family support,10
+2357,2025-07-22,vaginal,20,formula,Sleep deprivation,5
+2358,2025-05-25,c_section,16,formula,Pain while feeding,13
+2359,2025-07-24,vaginal,13,mixed,Pain while feeding,5
+2360,2025-06-23,vaginal,7,mixed,Sleep deprivation,9
+2361,2025-07-18,vaginal,16,breastfeeding,Mood swings,5
+2362,2025-06-10,assisted,6,formula,No family support,11
+2363,2025-07-13,assisted,10,breastfeeding,Pain while feeding,6
+2364,2025-06-07,vaginal,12,mixed,Back pain,11
+2365,2025-07-15,c_section,16,formula,Sleep deprivation,6
+2366,2025-07-29,c_section,11,mixed,Incision pain,4
+2367,2025-07-02,vaginal,5,mixed,Pain while feeding,8
+2368,2025-07-08,vaginal,12,mixed,Severe fatigue,7
+2369,2025-06-05,assisted,15,breastfeeding,Feeling overwhelmed,12
+2370,2025-06-01,assisted,19,formula,Mood swings,12
+2371,2025-06-02,vaginal,11,breastfeeding,Severe fatigue,12
+2372,2025-07-09,assisted,19,breastfeeding,Mood swings,7
+2373,2025-07-01,assisted,9,mixed,Worried about scar healing,8
+2374,2025-07-29,c_section,4,formula,Pain while feeding,4
+2375,2025-05-28,assisted,8,mixed,Mood swings,13
+2376,2025-05-23,assisted,7,mixed,Low milk supply,13
+2377,2025-07-07,vaginal,19,formula,Worried about scar healing,7
+2378,2025-08-17,c_section,20,breastfeeding,Back pain,1
+2379,2025-06-26,assisted,19,breastfeeding,Low milk supply,9
+2380,2025-06-05,assisted,19,breastfeeding,Back pain,12
+2381,2025-06-28,assisted,16,formula,Mood swings,8
+2382,2025-06-27,assisted,19,mixed,Incision pain,8
+2383,2025-06-13,assisted,6,breastfeeding,Severe fatigue,10
+2384,2025-08-18,assisted,12,mixed,Incision pain,1
+2385,2025-06-14,c_section,7,breastfeeding,Pain while feeding,10
+2386,2025-07-02,assisted,20,mixed,Pain while feeding,8
+2387,2025-06-22,assisted,4,mixed,Sleep deprivation,9
+2388,2025-08-16,c_section,5,mixed,Worried about scar healing,1
+2389,2025-06-21,c_section,11,breastfeeding,No family support,9
+2390,2025-07-16,c_section,12,formula,Sleep deprivation,6
+2391,2025-06-06,vaginal,12,mixed,Sleep deprivation,11
+2392,2025-08-05,c_section,20,breastfeeding,Incision pain,3
+2393,2025-07-24,vaginal,18,formula,No family support,5
+2394,2025-07-13,vaginal,7,mixed,Incision pain,6
+2395,2025-06-01,assisted,20,breastfeeding,Worried about scar healing,12
+2396,2025-07-13,assisted,13,formula,Incision pain,6
+2397,2025-07-11,assisted,20,formula,Mood swings,6
+2398,2025-07-27,c_section,14,formula,Sleep deprivation,4
+2399,2025-08-14,vaginal,14,breastfeeding,Worried about scar healing,2
+2400,2025-08-03,vaginal,9,formula,Mood swings,3
+2401,2025-06-24,c_section,5,breastfeeding,No family support,9
+2402,2025-06-12,c_section,3,mixed,Severe fatigue,11
+2403,2025-05-26,vaginal,20,formula,Incision pain,13
+2404,2025-06-22,c_section,13,formula,Worried about scar healing,9
+2405,2025-06-15,vaginal,4,formula,Sleep deprivation,10
+2406,2025-06-12,vaginal,3,breastfeeding,Mood swings,11
+2407,2025-07-30,assisted,10,mixed,Back pain,4
+2408,2025-08-10,assisted,13,formula,Sleep deprivation,2
+2409,2025-08-05,assisted,6,breastfeeding,No family support,3
+2410,2025-05-31,c_section,20,formula,No family support,12
+2411,2025-07-11,vaginal,18,formula,Mood swings,6
+2412,2025-05-28,assisted,3,breastfeeding,Sleep deprivation,13
+2413,2025-08-11,c_section,8,breastfeeding,Feeling overwhelmed,2
+2414,2025-08-05,assisted,16,formula,Low milk supply,3
+2415,2025-06-25,vaginal,9,mixed,Mood swings,9
+2416,2025-07-25,c_section,13,breastfeeding,Sleep deprivation,4
+2417,2025-06-03,vaginal,14,mixed,Pain while feeding,12
+2418,2025-07-08,c_section,11,formula,Low milk supply,7
+2419,2025-06-01,c_section,18,mixed,Feeling overwhelmed,12
+2420,2025-07-31,c_section,10,formula,Severe fatigue,4
+2421,2025-08-07,assisted,19,mixed,Pain while feeding,3
+2422,2025-05-31,c_section,4,mixed,Mood swings,12
+2423,2025-07-17,vaginal,8,mixed,Low milk supply,6
+2424,2025-06-04,c_section,16,mixed,Pain while feeding,12
+2425,2025-07-31,vaginal,15,mixed,Worried about scar healing,4
+2426,2025-08-12,vaginal,13,breastfeeding,Mood swings,2
+2427,2025-06-13,c_section,9,mixed,Mood swings,10
+2428,2025-06-18,assisted,6,mixed,Back pain,10
+2429,2025-07-12,vaginal,12,mixed,Incision pain,6
+2430,2025-06-01,assisted,11,breastfeeding,Feeling overwhelmed,12
+2431,2025-07-10,vaginal,6,breastfeeding,Severe fatigue,7
+2432,2025-07-23,assisted,9,mixed,Severe fatigue,5
+2433,2025-06-28,assisted,18,mixed,Mood swings,8
+2434,2025-08-18,c_section,6,formula,Back pain,1
+2435,2025-06-09,c_section,4,breastfeeding,Incision pain,11
+2436,2025-06-25,vaginal,18,breastfeeding,Incision pain,9
+2437,2025-07-28,vaginal,17,breastfeeding,No family support,4
+2438,2025-06-27,assisted,11,breastfeeding,Pain while feeding,8
+2439,2025-06-20,vaginal,15,breastfeeding,Low milk supply,9
+2440,2025-07-27,assisted,18,breastfeeding,Back pain,4
+2441,2025-07-20,vaginal,14,formula,Feeling overwhelmed,5
+2442,2025-07-04,assisted,9,breastfeeding,Back pain,7
+2443,2025-07-10,c_section,18,formula,Pain while feeding,7
+2444,2025-06-02,c_section,14,formula,Sleep deprivation,12
+2445,2025-07-29,c_section,14,mixed,Low milk supply,4
+2446,2025-07-15,c_section,17,breastfeeding,Incision pain,6
+2447,2025-06-08,assisted,13,breastfeeding,Mood swings,11
+2448,2025-08-11,assisted,9,breastfeeding,Pain while feeding,2
+2449,2025-08-18,assisted,20,breastfeeding,Sleep deprivation,1
+2450,2025-08-16,assisted,4,formula,Low milk supply,1
+2451,2025-07-08,c_section,8,breastfeeding,Back pain,7
+2452,2025-06-30,c_section,19,breastfeeding,No family support,8
+2453,2025-08-11,vaginal,14,mixed,Pain while feeding,2
+2454,2025-07-22,vaginal,13,breastfeeding,No family support,5
+2455,2025-07-08,vaginal,3,formula,Feeling overwhelmed,7
+2456,2025-06-24,vaginal,5,mixed,Low milk supply,9
+2457,2025-06-20,vaginal,15,breastfeeding,Pain while feeding,9
+2458,2025-06-21,c_section,10,formula,Worried about scar healing,9
+2459,2025-07-15,c_section,12,formula,Sleep deprivation,6
+2460,2025-08-12,assisted,18,formula,Feeling overwhelmed,2
+2461,2025-07-26,assisted,7,breastfeeding,No family support,4
+2462,2025-07-23,c_section,8,mixed,Pain while feeding,5
+2463,2025-06-24,assisted,10,formula,Severe fatigue,9
+2464,2025-06-08,c_section,17,mixed,Mood swings,11
+2465,2025-08-04,vaginal,7,formula,Severe fatigue,3
+2466,2025-08-10,assisted,8,formula,Back pain,2
+2467,2025-06-30,c_section,19,mixed,Feeling overwhelmed,8
+2468,2025-07-24,vaginal,17,mixed,Mood swings,5
+2469,2025-08-11,assisted,9,breastfeeding,Severe fatigue,2
+2470,2025-06-12,assisted,5,breastfeeding,Mood swings,11
+2471,2025-07-25,c_section,16,breastfeeding,Sleep deprivation,4
+2472,2025-07-06,assisted,3,mixed,Sleep deprivation,7
+2473,2025-06-21,assisted,14,breastfeeding,Pain while feeding,9
+2474,2025-07-05,c_section,15,formula,Mood swings,7
+2475,2025-08-01,vaginal,6,formula,No family support,3
+2476,2025-08-15,vaginal,11,formula,Incision pain,1
+2477,2025-06-23,vaginal,10,mixed,Back pain,9
+2478,2025-07-28,assisted,14,mixed,Severe fatigue,4
+2479,2025-05-24,vaginal,15,breastfeeding,Back pain,13
+2480,2025-05-31,assisted,10,mixed,Worried about scar healing,12
+2481,2025-08-14,assisted,7,mixed,Severe fatigue,2
+2482,2025-06-06,c_section,15,mixed,Low milk supply,11
+2483,2025-06-16,assisted,8,breastfeeding,Worried about scar healing,10
+2484,2025-07-04,assisted,16,formula,Sleep deprivation,7
+2485,2025-07-18,assisted,19,formula,Low milk supply,5
+2486,2025-07-21,c_section,8,formula,Sleep deprivation,5
+2487,2025-05-30,c_section,4,mixed,Incision pain,12
+2488,2025-07-02,vaginal,3,formula,Worried about scar healing,8
+2489,2025-08-03,c_section,5,breastfeeding,No family support,3
+2490,2025-07-27,c_section,4,formula,Back pain,4
+2491,2025-06-11,c_section,5,breastfeeding,Back pain,11
+2492,2025-08-11,assisted,13,formula,Incision pain,2
+2493,2025-06-22,assisted,6,breastfeeding,Mood swings,9
+2494,2025-06-22,assisted,10,breastfeeding,Mood swings,9
+2495,2025-07-14,vaginal,5,breastfeeding,Pain while feeding,6
+2496,2025-07-04,vaginal,3,mixed,Incision pain,7
+2497,2025-06-25,assisted,14,mixed,Sleep deprivation,9
+2498,2025-06-18,c_section,4,breastfeeding,Incision pain,10
+2499,2025-08-05,vaginal,7,breastfeeding,Pain while feeding,3
+2500,2025-07-20,assisted,3,formula,No family support,5
+2501,2025-05-28,vaginal,15,mixed,Worried about scar healing,13
+2502,2025-05-28,vaginal,11,mixed,Severe fatigue,13
+2503,2025-06-09,vaginal,14,mixed,Feeling overwhelmed,11
+2504,2025-07-07,assisted,9,formula,Mood swings,7
+2505,2025-05-29,vaginal,19,mixed,Low milk supply,13
+2506,2025-07-19,vaginal,15,breastfeeding,Low milk supply,5
+2507,2025-06-14,assisted,12,breastfeeding,Feeling overwhelmed,10
+2508,2025-05-24,assisted,9,formula,Low milk supply,13
+2509,2025-07-26,assisted,4,formula,Incision pain,4
+2510,2025-07-08,assisted,14,mixed,Low milk supply,7
+2511,2025-07-21,c_section,15,formula,Pain while feeding,5
+2512,2025-07-05,vaginal,16,mixed,No family support,7
+2513,2025-07-26,assisted,3,formula,Feeling overwhelmed,4
+2514,2025-06-24,assisted,11,mixed,Severe fatigue,9
+2515,2025-06-08,assisted,7,breastfeeding,Pain while feeding,11
+2516,2025-07-10,c_section,12,mixed,Worried about scar healing,7
+2517,2025-08-12,c_section,17,breastfeeding,Worried about scar healing,2
+2518,2025-06-23,assisted,3,breastfeeding,Worried about scar healing,9
+2519,2025-08-09,vaginal,14,mixed,Feeling overwhelmed,2
+2520,2025-07-11,c_section,11,breastfeeding,Pain while feeding,6
+2521,2025-07-06,assisted,6,formula,No family support,7
+2522,2025-08-15,c_section,20,formula,Mood swings,1
+2523,2025-08-07,vaginal,9,formula,Pain while feeding,3
+2524,2025-08-18,assisted,20,breastfeeding,Severe fatigue,1
+2525,2025-07-10,assisted,4,breastfeeding,Low milk supply,7
+2526,2025-05-31,vaginal,13,formula,Sleep deprivation,12
+2527,2025-05-23,c_section,14,formula,No family support,13
+2528,2025-07-06,vaginal,7,formula,Pain while feeding,7
+2529,2025-08-20,assisted,6,formula,Mood swings,1
+2530,2025-06-21,assisted,13,mixed,No family support,9
+2531,2025-06-15,vaginal,18,mixed,Feeling overwhelmed,10
+2532,2025-07-16,vaginal,12,mixed,Worried about scar healing,6
+2533,2025-08-14,c_section,11,mixed,Incision pain,2
+2534,2025-05-26,c_section,9,breastfeeding,Pain while feeding,13
+2535,2025-07-13,vaginal,13,mixed,Feeling overwhelmed,6
+2536,2025-06-04,assisted,5,mixed,Pain while feeding,12
+2537,2025-08-15,vaginal,19,formula,Feeling overwhelmed,1
+2538,2025-06-15,c_section,3,formula,Back pain,10
+2539,2025-06-28,vaginal,14,formula,Sleep deprivation,8
+2540,2025-06-06,vaginal,20,breastfeeding,Severe fatigue,11
+2541,2025-08-11,vaginal,18,formula,Mood swings,2
+2542,2025-07-23,vaginal,19,formula,Feeling overwhelmed,5
+2543,2025-05-30,vaginal,18,mixed,Mood swings,12
+2544,2025-08-11,assisted,7,breastfeeding,Incision pain,2
+2545,2025-07-23,c_section,18,mixed,Low milk supply,5
+2546,2025-06-12,c_section,10,breastfeeding,Feeling overwhelmed,11
+2547,2025-07-22,assisted,8,breastfeeding,Feeling overwhelmed,5
+2548,2025-08-05,c_section,5,mixed,Low milk supply,3
+2549,2025-08-12,c_section,20,mixed,Incision pain,2
+2550,2025-07-09,c_section,6,mixed,Sleep deprivation,7
+2551,2025-07-04,c_section,10,formula,Feeling overwhelmed,7
+2552,2025-08-12,c_section,14,formula,Severe fatigue,2
+2553,2025-08-04,assisted,17,breastfeeding,Incision pain,3
+2554,2025-07-12,assisted,7,mixed,Feeling overwhelmed,6
+2555,2025-06-01,vaginal,9,breastfeeding,Severe fatigue,12
+2556,2025-06-09,assisted,4,formula,Severe fatigue,11
+2557,2025-06-11,c_section,12,mixed,Severe fatigue,11
+2558,2025-06-05,vaginal,11,breastfeeding,Pain while feeding,12
+2559,2025-08-05,vaginal,8,breastfeeding,Low milk supply,3
+2560,2025-07-05,vaginal,7,mixed,Worried about scar healing,7
+2561,2025-07-12,assisted,15,mixed,Severe fatigue,6
+2562,2025-05-26,c_section,17,mixed,Feeling overwhelmed,13
+2563,2025-07-20,c_section,17,formula,Feeling overwhelmed,5
+2564,2025-08-18,vaginal,14,breastfeeding,Feeling overwhelmed,1
+2565,2025-08-06,assisted,10,mixed,Low milk supply,3
+2566,2025-07-22,c_section,10,breastfeeding,Low milk supply,5
+2567,2025-07-19,c_section,15,breastfeeding,Incision pain,5
+2568,2025-06-24,c_section,7,breastfeeding,Worried about scar healing,9
+2569,2025-07-31,vaginal,8,formula,Mood swings,4
+2570,2025-07-16,assisted,13,breastfeeding,Low milk supply,6
+2571,2025-05-30,c_section,8,mixed,Low milk supply,12
+2572,2025-06-18,c_section,8,formula,Sleep deprivation,10
+2573,2025-06-04,c_section,11,mixed,Mood swings,12
+2574,2025-05-28,vaginal,3,formula,Pain while feeding,13
+2575,2025-08-19,c_section,11,mixed,Back pain,1
+2576,2025-07-18,vaginal,19,mixed,Pain while feeding,5
+2577,2025-06-15,assisted,13,breastfeeding,Low milk supply,10
+2578,2025-07-19,vaginal,18,breastfeeding,Worried about scar healing,5
+2579,2025-06-12,assisted,9,mixed,Severe fatigue,11
+2580,2025-08-09,assisted,6,breastfeeding,Feeling overwhelmed,2
+2581,2025-07-23,assisted,17,formula,Worried about scar healing,5
+2582,2025-06-09,c_section,19,formula,No family support,11
+2583,2025-06-28,c_section,15,formula,Low milk supply,8
+2584,2025-07-21,vaginal,13,formula,Sleep deprivation,5
+2585,2025-07-26,c_section,19,mixed,Worried about scar healing,4
+2586,2025-07-21,vaginal,14,mixed,Feeling overwhelmed,5
+2587,2025-08-14,c_section,11,formula,Incision pain,2
+2588,2025-08-19,vaginal,11,breastfeeding,Back pain,1
+2589,2025-08-18,c_section,6,mixed,Feeling overwhelmed,1
+2590,2025-06-11,c_section,6,mixed,Feeling overwhelmed,11
+2591,2025-07-10,vaginal,9,breastfeeding,Worried about scar healing,7
+2592,2025-08-13,c_section,8,formula,Mood swings,2
+2593,2025-06-30,vaginal,3,formula,Worried about scar healing,8
+2594,2025-05-27,assisted,17,mixed,Severe fatigue,13
+2595,2025-06-18,assisted,11,mixed,Worried about scar healing,10
+2596,2025-05-28,vaginal,18,mixed,Mood swings,13
+2597,2025-08-13,assisted,12,mixed,Low milk supply,2
+2598,2025-08-19,vaginal,9,mixed,Back pain,1
+2599,2025-08-20,assisted,11,formula,Low milk supply,1
+2600,2025-06-09,assisted,15,breastfeeding,Back pain,11
+2601,2025-07-20,c_section,4,mixed,Feeling overwhelmed,5
+2602,2025-07-03,c_section,13,breastfeeding,Worried about scar healing,8
+2603,2025-08-20,assisted,8,breastfeeding,Worried about scar healing,1
+2604,2025-07-19,assisted,5,breastfeeding,Mood swings,5
+2605,2025-07-06,assisted,4,breastfeeding,Back pain,7
+2606,2025-06-18,c_section,7,breastfeeding,Severe fatigue,10
+2607,2025-07-11,c_section,10,mixed,Severe fatigue,6
+2608,2025-06-08,c_section,18,mixed,Incision pain,11
+2609,2025-07-30,vaginal,18,breastfeeding,Worried about scar healing,4
+2610,2025-07-16,assisted,19,mixed,No family support,6
+2611,2025-08-19,vaginal,4,formula,Back pain,1
+2612,2025-05-26,c_section,5,mixed,Mood swings,13
+2613,2025-07-05,vaginal,11,formula,Incision pain,7
+2614,2025-05-23,assisted,12,formula,Mood swings,13
+2615,2025-06-12,c_section,5,mixed,Mood swings,11
+2616,2025-07-14,vaginal,8,mixed,Mood swings,6
+2617,2025-05-24,vaginal,20,breastfeeding,Sleep deprivation,13
+2618,2025-08-13,vaginal,14,formula,Worried about scar healing,2
+2619,2025-06-15,c_section,3,mixed,Feeling overwhelmed,10
+2620,2025-07-18,assisted,7,mixed,Worried about scar healing,5
+2621,2025-07-17,assisted,6,mixed,Feeling overwhelmed,6
+2622,2025-06-04,vaginal,19,mixed,No family support,12
+2623,2025-06-16,vaginal,7,breastfeeding,Mood swings,10
+2624,2025-06-11,c_section,16,mixed,Feeling overwhelmed,11
+2625,2025-06-12,c_section,13,breastfeeding,Worried about scar healing,11
+2626,2025-08-09,vaginal,8,breastfeeding,Pain while feeding,2
+2627,2025-06-01,c_section,17,formula,Severe fatigue,12
+2628,2025-07-17,vaginal,16,formula,Severe fatigue,6
+2629,2025-07-19,vaginal,7,mixed,Feeling overwhelmed,5
+2630,2025-08-18,assisted,20,mixed,Pain while feeding,1
+2631,2025-06-23,c_section,5,mixed,Severe fatigue,9
+2632,2025-08-07,c_section,16,breastfeeding,Severe fatigue,3
+2633,2025-08-05,c_section,20,breastfeeding,No family support,3
+2634,2025-07-15,vaginal,13,formula,Incision pain,6
+2635,2025-07-29,c_section,11,breastfeeding,Mood swings,4
+2636,2025-06-05,assisted,13,formula,Sleep deprivation,12
+2637,2025-06-27,vaginal,4,breastfeeding,Feeling overwhelmed,8
+2638,2025-07-13,vaginal,3,mixed,Worried about scar healing,6
+2639,2025-08-09,c_section,17,mixed,No family support,2
+2640,2025-07-13,vaginal,11,mixed,Low milk supply,6
+2641,2025-08-05,c_section,8,formula,Back pain,3
+2642,2025-07-05,assisted,7,breastfeeding,Severe fatigue,7
+2643,2025-05-28,vaginal,19,formula,Feeling overwhelmed,13
+2644,2025-05-28,vaginal,18,formula,Worried about scar healing,13
+2645,2025-08-04,c_section,14,breastfeeding,No family support,3
+2646,2025-05-26,c_section,3,breastfeeding,Feeling overwhelmed,13
+2647,2025-06-29,vaginal,6,mixed,No family support,8
+2648,2025-08-15,c_section,18,breastfeeding,Worried about scar healing,1
+2649,2025-06-17,c_section,17,mixed,Worried about scar healing,10
+2650,2025-07-14,c_section,6,mixed,Sleep deprivation,6
+2651,2025-07-27,assisted,5,formula,Feeling overwhelmed,4
+2652,2025-07-22,c_section,5,formula,Feeling overwhelmed,5
+2653,2025-08-20,vaginal,6,formula,No family support,1
+2654,2025-07-09,c_section,17,breastfeeding,Low milk supply,7
+2655,2025-08-14,vaginal,6,breastfeeding,Sleep deprivation,2
+2656,2025-07-21,assisted,14,breastfeeding,Back pain,5
+2657,2025-05-27,assisted,16,breastfeeding,Mood swings,13
+2658,2025-07-20,vaginal,17,breastfeeding,Low milk supply,5
+2659,2025-08-05,assisted,16,mixed,Sleep deprivation,3
+2660,2025-08-02,c_section,3,formula,Mood swings,3
+2661,2025-08-07,assisted,7,mixed,Severe fatigue,3
+2662,2025-05-30,assisted,15,formula,Back pain,12
+2663,2025-06-09,vaginal,5,breastfeeding,Incision pain,11
+2664,2025-07-05,vaginal,8,breastfeeding,Incision pain,7
+2665,2025-07-28,assisted,5,mixed,Pain while feeding,4
+2666,2025-08-02,vaginal,19,formula,Severe fatigue,3
+2667,2025-06-07,vaginal,16,mixed,Mood swings,11
+2668,2025-06-29,vaginal,13,mixed,Worried about scar healing,8
+2669,2025-06-23,vaginal,16,breastfeeding,Low milk supply,9
+2670,2025-07-27,vaginal,15,breastfeeding,No family support,4
+2671,2025-07-05,assisted,11,formula,Back pain,7
+2672,2025-07-06,c_section,3,formula,Feeling overwhelmed,7
+2673,2025-07-12,assisted,15,formula,Pain while feeding,6
+2674,2025-08-11,vaginal,11,breastfeeding,Worried about scar healing,2
+2675,2025-06-14,vaginal,15,mixed,Severe fatigue,10
+2676,2025-06-20,vaginal,11,formula,Severe fatigue,9
+2677,2025-07-25,vaginal,16,formula,Sleep deprivation,4
+2678,2025-07-30,c_section,5,mixed,Low milk supply,4
+2679,2025-05-31,vaginal,9,mixed,Back pain,12
+2680,2025-05-29,assisted,16,formula,Sleep deprivation,13
+2681,2025-06-07,c_section,4,formula,Back pain,11
+2682,2025-06-27,c_section,7,formula,Worried about scar healing,8
+2683,2025-05-27,c_section,8,breastfeeding,Back pain,13
+2684,2025-06-28,c_section,7,breastfeeding,Mood swings,8
+2685,2025-07-30,vaginal,8,formula,Pain while feeding,4
+2686,2025-07-31,vaginal,18,formula,Feeling overwhelmed,4
+2687,2025-06-02,c_section,3,breastfeeding,Low milk supply,12
+2688,2025-07-13,c_section,6,formula,Worried about scar healing,6
+2689,2025-06-19,c_section,11,formula,Incision pain,10
+2690,2025-06-27,assisted,17,mixed,Low milk supply,8
+2691,2025-06-06,assisted,16,breastfeeding,Pain while feeding,11
+2692,2025-08-17,assisted,20,mixed,Incision pain,1
+2693,2025-08-03,assisted,6,breastfeeding,No family support,3
+2694,2025-08-15,vaginal,16,formula,Sleep deprivation,1
+2695,2025-07-21,c_section,11,breastfeeding,Sleep deprivation,5
+2696,2025-06-30,vaginal,7,mixed,Back pain,8
+2697,2025-08-07,assisted,19,mixed,Feeling overwhelmed,3
+2698,2025-08-14,assisted,12,mixed,Sleep deprivation,2
+2699,2025-07-04,c_section,7,formula,No family support,7
+2700,2025-07-05,c_section,18,formula,Low milk supply,7
+2701,2025-08-03,c_section,20,breastfeeding,Back pain,3
+2702,2025-08-15,c_section,6,breastfeeding,Severe fatigue,1
+2703,2025-06-06,vaginal,20,formula,Feeling overwhelmed,11
+2704,2025-06-20,vaginal,8,formula,Back pain,9
+2705,2025-06-27,c_section,6,breastfeeding,Severe fatigue,8
+2706,2025-06-06,assisted,20,mixed,Worried about scar healing,11
+2707,2025-07-31,vaginal,7,formula,Worried about scar healing,4
+2708,2025-06-23,vaginal,9,breastfeeding,Back pain,9
+2709,2025-07-12,assisted,8,formula,Severe fatigue,6
+2710,2025-06-03,c_section,4,formula,Pain while feeding,12
+2711,2025-06-12,c_section,9,breastfeeding,Back pain,11
+2712,2025-08-20,assisted,7,formula,Pain while feeding,1
+2713,2025-07-06,vaginal,8,breastfeeding,Feeling overwhelmed,7
+2714,2025-08-10,c_section,14,mixed,Feeling overwhelmed,2
+2715,2025-07-31,c_section,9,formula,Severe fatigue,4
+2716,2025-07-26,assisted,9,mixed,Mood swings,4
+2717,2025-06-09,assisted,13,formula,Feeling overwhelmed,11
+2718,2025-07-22,assisted,7,mixed,Severe fatigue,5
+2719,2025-06-24,c_section,6,mixed,Low milk supply,9
+2720,2025-07-28,vaginal,4,breastfeeding,Back pain,4
+2721,2025-07-24,vaginal,14,breastfeeding,Incision pain,5
+2722,2025-07-09,c_section,7,mixed,No family support,7
+2723,2025-07-09,assisted,12,mixed,Feeling overwhelmed,7
+2724,2025-05-25,c_section,3,mixed,Feeling overwhelmed,13
+2725,2025-06-29,c_section,16,formula,Mood swings,8
+2726,2025-06-29,assisted,16,formula,Severe fatigue,8
+2727,2025-08-18,vaginal,10,breastfeeding,Feeling overwhelmed,1
+2728,2025-06-23,assisted,3,mixed,Pain while feeding,9
+2729,2025-06-24,assisted,6,breastfeeding,Low milk supply,9
+2730,2025-06-23,vaginal,4,formula,Severe fatigue,9
+2731,2025-07-18,c_section,10,mixed,Incision pain,5
+2732,2025-06-02,vaginal,20,breastfeeding,Sleep deprivation,12
+2733,2025-07-29,vaginal,6,formula,Low milk supply,4
+2734,2025-07-24,assisted,6,breastfeeding,Incision pain,5
+2735,2025-07-23,vaginal,14,formula,Worried about scar healing,5
+2736,2025-07-16,vaginal,8,mixed,Worried about scar healing,6
+2737,2025-07-23,assisted,7,formula,Feeling overwhelmed,5
+2738,2025-05-30,vaginal,8,mixed,Worried about scar healing,12
+2739,2025-06-30,c_section,4,formula,Mood swings,8
+2740,2025-07-28,assisted,15,breastfeeding,Back pain,4
+2741,2025-06-28,c_section,10,breastfeeding,Pain while feeding,8
+2742,2025-05-25,c_section,10,mixed,Worried about scar healing,13
+2743,2025-07-20,assisted,10,breastfeeding,Mood swings,5
+2744,2025-06-13,vaginal,5,formula,Low milk supply,10
+2745,2025-06-27,vaginal,4,formula,Severe fatigue,8
+2746,2025-06-15,assisted,10,mixed,Sleep deprivation,10
+2747,2025-07-18,assisted,3,breastfeeding,Pain while feeding,5
+2748,2025-08-12,assisted,9,mixed,Pain while feeding,2
+2749,2025-08-04,vaginal,18,breastfeeding,Incision pain,3
+2750,2025-08-09,c_section,12,mixed,No family support,2
+2751,2025-06-15,c_section,7,breastfeeding,Mood swings,10
+2752,2025-06-15,assisted,9,formula,Pain while feeding,10
+2753,2025-07-03,assisted,20,mixed,No family support,8
+2754,2025-07-20,c_section,20,formula,Mood swings,5
+2755,2025-07-16,assisted,17,mixed,Sleep deprivation,6
+2756,2025-06-27,assisted,11,breastfeeding,Mood swings,8
+2757,2025-05-26,vaginal,5,formula,Incision pain,13
+2758,2025-05-30,assisted,7,mixed,Feeling overwhelmed,12
+2759,2025-08-10,assisted,19,formula,Back pain,2
+2760,2025-08-01,vaginal,14,formula,Back pain,3
+2761,2025-07-23,c_section,3,mixed,Back pain,5
+2762,2025-08-05,vaginal,8,mixed,No family support,3
+2763,2025-06-02,c_section,7,formula,Pain while feeding,12
+2764,2025-07-05,c_section,11,breastfeeding,Mood swings,7
+2765,2025-06-18,assisted,4,formula,No family support,10
+2766,2025-07-19,vaginal,8,mixed,Severe fatigue,5
+2767,2025-08-10,assisted,19,mixed,Back pain,2
+2768,2025-06-16,assisted,13,formula,Feeling overwhelmed,10
+2769,2025-05-30,assisted,14,mixed,Low milk supply,12
+2770,2025-05-30,c_section,19,breastfeeding,Low milk supply,12
+2771,2025-06-13,vaginal,14,mixed,Incision pain,10
+2772,2025-08-09,assisted,12,mixed,Incision pain,2
+2773,2025-05-30,c_section,12,breastfeeding,Mood swings,12
+2774,2025-05-24,assisted,16,breastfeeding,Feeling overwhelmed,13
+2775,2025-05-30,assisted,6,breastfeeding,Sleep deprivation,12
+2776,2025-06-20,vaginal,11,mixed,Sleep deprivation,9
+2777,2025-07-19,c_section,10,mixed,Severe fatigue,5
+2778,2025-07-08,assisted,16,breastfeeding,Worried about scar healing,7
+2779,2025-06-28,assisted,16,breastfeeding,Back pain,8
+2780,2025-06-23,c_section,6,mixed,Feeling overwhelmed,9
+2781,2025-08-19,assisted,9,breastfeeding,Pain while feeding,1
+2782,2025-05-26,vaginal,20,breastfeeding,Low milk supply,13
+2783,2025-07-03,assisted,16,mixed,Back pain,8
+2784,2025-07-24,vaginal,17,breastfeeding,Feeling overwhelmed,5
+2785,2025-06-14,assisted,10,breastfeeding,Incision pain,10
+2786,2025-06-11,c_section,6,formula,Severe fatigue,11
+2787,2025-07-15,assisted,15,breastfeeding,Worried about scar healing,6
+2788,2025-08-09,c_section,4,formula,Severe fatigue,2
+2789,2025-08-02,vaginal,9,formula,Low milk supply,3
+2790,2025-07-24,vaginal,5,formula,Sleep deprivation,5
+2791,2025-07-31,c_section,10,mixed,Back pain,4
+2792,2025-06-27,assisted,3,breastfeeding,Pain while feeding,8
+2793,2025-06-10,c_section,15,mixed,Incision pain,11
+2794,2025-07-31,c_section,4,formula,Severe fatigue,4
+2795,2025-07-05,vaginal,6,breastfeeding,Low milk supply,7
+2796,2025-08-05,vaginal,18,breastfeeding,Severe fatigue,3
+2797,2025-06-30,assisted,9,formula,Low milk supply,8
+2798,2025-08-07,c_section,19,formula,Worried about scar healing,3
+2799,2025-07-26,c_section,8,breastfeeding,Pain while feeding,4
+2800,2025-08-16,assisted,7,formula,Pain while feeding,1
+2801,2025-07-17,assisted,15,formula,Low milk supply,6
+2802,2025-07-30,c_section,18,mixed,Worried about scar healing,4
+2803,2025-07-14,assisted,12,breastfeeding,Low milk supply,6
+2804,2025-06-21,assisted,15,mixed,Feeling overwhelmed,9
+2805,2025-06-01,c_section,11,mixed,No family support,12
+2806,2025-07-28,vaginal,7,mixed,Pain while feeding,4
+2807,2025-06-06,assisted,16,formula,Low milk supply,11
+2808,2025-07-29,vaginal,18,breastfeeding,Low milk supply,4
+2809,2025-07-29,vaginal,3,mixed,Pain while feeding,4
+2810,2025-08-20,vaginal,15,mixed,Feeling overwhelmed,1
+2811,2025-05-26,vaginal,20,mixed,Severe fatigue,13
+2812,2025-06-08,vaginal,20,mixed,Worried about scar healing,11
+2813,2025-05-26,vaginal,19,formula,Pain while feeding,13
+2814,2025-08-07,assisted,13,mixed,Feeling overwhelmed,3
+2815,2025-06-26,vaginal,17,formula,Back pain,9
+2816,2025-07-07,vaginal,20,breastfeeding,Low milk supply,7
+2817,2025-08-01,assisted,10,mixed,Low milk supply,3
+2818,2025-06-24,assisted,11,formula,Incision pain,9
+2819,2025-06-12,c_section,3,breastfeeding,Low milk supply,11
+2820,2025-06-10,c_section,4,breastfeeding,Incision pain,11
+2821,2025-07-26,vaginal,13,mixed,Sleep deprivation,4
+2822,2025-07-21,vaginal,8,formula,Sleep deprivation,5
+2823,2025-08-17,assisted,11,breastfeeding,Mood swings,1
+2824,2025-05-26,vaginal,4,formula,Worried about scar healing,13
+2825,2025-08-01,assisted,15,mixed,Severe fatigue,3
+2826,2025-08-06,assisted,9,formula,Severe fatigue,3
+2827,2025-08-13,c_section,4,breastfeeding,Pain while feeding,2
+2828,2025-08-20,assisted,11,mixed,Incision pain,1
+2829,2025-06-10,assisted,16,breastfeeding,Back pain,11
+2830,2025-07-10,assisted,15,breastfeeding,Back pain,7
+2831,2025-08-20,vaginal,17,mixed,Back pain,1
+2832,2025-08-11,vaginal,16,formula,Mood swings,2
+2833,2025-07-01,vaginal,16,mixed,Severe fatigue,8
+2834,2025-07-12,vaginal,12,breastfeeding,Incision pain,6
+2835,2025-07-29,c_section,15,mixed,Severe fatigue,4
+2836,2025-07-31,c_section,4,formula,Feeling overwhelmed,4
+2837,2025-06-29,c_section,8,breastfeeding,Sleep deprivation,8
+2838,2025-07-21,c_section,8,mixed,Incision pain,5
+2839,2025-06-22,vaginal,15,mixed,Worried about scar healing,9
+2840,2025-08-18,c_section,12,mixed,Sleep deprivation,1
+2841,2025-08-04,vaginal,18,breastfeeding,Sleep deprivation,3
+2842,2025-07-29,c_section,3,mixed,Feeling overwhelmed,4
+2843,2025-06-18,vaginal,11,formula,Low milk supply,10
+2844,2025-06-04,vaginal,20,formula,Pain while feeding,12
+2845,2025-07-26,c_section,14,formula,Back pain,4
+2846,2025-06-20,assisted,19,formula,Back pain,9
+2847,2025-08-17,c_section,10,formula,Low milk supply,1
+2848,2025-05-30,assisted,3,formula,Back pain,12
+2849,2025-06-16,assisted,15,breastfeeding,Pain while feeding,10
+2850,2025-06-08,vaginal,7,formula,No family support,11
+2851,2025-07-10,c_section,5,mixed,Sleep deprivation,7
+2852,2025-08-19,c_section,10,formula,Severe fatigue,1
+2853,2025-06-21,c_section,6,formula,Sleep deprivation,9
+2854,2025-07-11,assisted,13,breastfeeding,Mood swings,6
+2855,2025-07-14,vaginal,19,mixed,Back pain,6
+2856,2025-08-01,c_section,10,breastfeeding,Pain while feeding,3
+2857,2025-06-01,assisted,11,breastfeeding,Low milk supply,12
+2858,2025-07-18,assisted,6,mixed,Low milk supply,5
+2859,2025-08-09,assisted,11,breastfeeding,Incision pain,2
+2860,2025-07-12,c_section,19,mixed,Sleep deprivation,6
+2861,2025-06-25,c_section,17,breastfeeding,Mood swings,9
+2862,2025-07-21,vaginal,17,mixed,No family support,5
+2863,2025-06-11,vaginal,11,formula,Sleep deprivation,11
+2864,2025-07-20,c_section,5,mixed,Back pain,5
+2865,2025-07-31,c_section,6,formula,Sleep deprivation,4
+2866,2025-07-03,vaginal,20,mixed,Feeling overwhelmed,8
+2867,2025-06-17,assisted,12,formula,Pain while feeding,10
+2868,2025-05-23,c_section,6,mixed,Incision pain,13
+2869,2025-08-04,assisted,20,mixed,Incision pain,3
+2870,2025-08-05,c_section,13,breastfeeding,Worried about scar healing,3
+2871,2025-07-09,assisted,3,mixed,Pain while feeding,7
+2872,2025-06-10,vaginal,17,formula,No family support,11
+2873,2025-07-10,assisted,3,breastfeeding,Feeling overwhelmed,7
+2874,2025-08-08,c_section,18,formula,Sleep deprivation,2
+2875,2025-08-19,assisted,8,breastfeeding,Back pain,1
+2876,2025-07-30,assisted,5,mixed,Back pain,4
+2877,2025-07-24,vaginal,10,breastfeeding,No family support,5
+2878,2025-07-19,vaginal,11,breastfeeding,Feeling overwhelmed,5
+2879,2025-05-25,c_section,12,formula,Feeling overwhelmed,13
+2880,2025-06-17,vaginal,8,formula,Pain while feeding,10
+2881,2025-07-10,assisted,7,formula,Back pain,7
+2882,2025-05-24,vaginal,7,breastfeeding,Pain while feeding,13
+2883,2025-06-27,vaginal,5,mixed,Back pain,8
+2884,2025-06-07,c_section,20,formula,Incision pain,11
+2885,2025-07-12,vaginal,5,breastfeeding,Worried about scar healing,6
+2886,2025-06-22,c_section,5,breastfeeding,Sleep deprivation,9
+2887,2025-08-17,vaginal,6,breastfeeding,Feeling overwhelmed,1
+2888,2025-07-07,assisted,19,formula,Feeling overwhelmed,7
+2889,2025-08-06,c_section,9,mixed,Low milk supply,3
+2890,2025-06-22,vaginal,9,breastfeeding,Sleep deprivation,9
+2891,2025-06-26,c_section,9,breastfeeding,Severe fatigue,9
+2892,2025-06-27,c_section,10,breastfeeding,No family support,8
+2893,2025-08-10,vaginal,19,formula,Worried about scar healing,2
+2894,2025-07-22,assisted,9,formula,Worried about scar healing,5
+2895,2025-06-16,vaginal,7,mixed,Back pain,10
+2896,2025-06-08,assisted,14,mixed,Severe fatigue,11
+2897,2025-08-18,c_section,13,breastfeeding,Back pain,1
+2898,2025-08-03,assisted,19,formula,Mood swings,3
+2899,2025-07-08,assisted,14,breastfeeding,Sleep deprivation,7
+2900,2025-07-29,c_section,8,formula,Feeling overwhelmed,4
+2901,2025-07-29,vaginal,10,formula,Back pain,4
+2902,2025-06-06,assisted,10,mixed,Mood swings,11
+2903,2025-07-06,c_section,14,formula,Low milk supply,7
+2904,2025-07-18,c_section,19,mixed,Incision pain,5
+2905,2025-06-19,assisted,6,formula,Sleep deprivation,10
+2906,2025-08-04,c_section,15,mixed,Pain while feeding,3
+2907,2025-07-09,vaginal,18,mixed,Pain while feeding,7
+2908,2025-05-24,c_section,16,breastfeeding,Pain while feeding,13
+2909,2025-05-27,assisted,19,formula,Back pain,13
+2910,2025-05-23,assisted,15,mixed,Feeling overwhelmed,13
+2911,2025-08-03,vaginal,9,breastfeeding,Sleep deprivation,3
+2912,2025-07-20,vaginal,19,breastfeeding,Pain while feeding,5
+2913,2025-08-18,assisted,3,mixed,Mood swings,1
+2914,2025-06-20,c_section,13,breastfeeding,Low milk supply,9
+2915,2025-06-18,vaginal,5,breastfeeding,No family support,10
+2916,2025-07-04,c_section,20,mixed,Low milk supply,7
+2917,2025-06-05,vaginal,19,mixed,Severe fatigue,12
+2918,2025-08-17,c_section,13,breastfeeding,Mood swings,1
+2919,2025-07-05,assisted,4,formula,Pain while feeding,7
+2920,2025-06-08,c_section,20,formula,Sleep deprivation,11
+2921,2025-06-07,vaginal,20,mixed,Pain while feeding,11
+2922,2025-06-06,vaginal,20,breastfeeding,Incision pain,11
+2923,2025-05-28,assisted,18,formula,Severe fatigue,13
+2924,2025-07-15,c_section,16,formula,Back pain,6
+2925,2025-07-14,vaginal,4,breastfeeding,Low milk supply,6
+2926,2025-05-23,c_section,8,breastfeeding,Pain while feeding,13
+2927,2025-06-12,assisted,4,formula,Back pain,11
+2928,2025-06-04,vaginal,7,mixed,Sleep deprivation,12
+2929,2025-05-26,vaginal,10,mixed,Sleep deprivation,13
+2930,2025-07-02,vaginal,14,breastfeeding,Sleep deprivation,8
+2931,2025-06-22,assisted,20,mixed,Pain while feeding,9
+2932,2025-06-01,c_section,10,breastfeeding,Low milk supply,12
+2933,2025-08-18,vaginal,7,breastfeeding,Feeling overwhelmed,1
+2934,2025-07-15,assisted,20,formula,Mood swings,6
+2935,2025-08-02,c_section,8,formula,Back pain,3
+2936,2025-07-30,vaginal,15,mixed,Pain while feeding,4
+2937,2025-06-09,vaginal,3,formula,Low milk supply,11
+2938,2025-07-01,vaginal,5,mixed,Pain while feeding,8
+2939,2025-06-15,c_section,20,breastfeeding,Feeling overwhelmed,10
+2940,2025-05-23,assisted,17,formula,Pain while feeding,13
+2941,2025-07-26,assisted,6,mixed,Worried about scar healing,4
+2942,2025-07-16,assisted,10,formula,Back pain,6
+2943,2025-05-26,vaginal,3,mixed,Incision pain,13
+2944,2025-08-11,c_section,16,formula,Worried about scar healing,2
+2945,2025-06-23,c_section,5,formula,Worried about scar healing,9
+2946,2025-06-17,vaginal,8,mixed,Severe fatigue,10
+2947,2025-07-20,c_section,15,breastfeeding,Low milk supply,5
+2948,2025-06-13,vaginal,7,mixed,Worried about scar healing,10
+2949,2025-05-29,vaginal,20,formula,Mood swings,13
+2950,2025-06-03,c_section,3,mixed,Back pain,12
+2951,2025-06-14,vaginal,18,mixed,Severe fatigue,10
+2952,2025-06-24,c_section,16,formula,Incision pain,9
+2953,2025-07-05,vaginal,12,formula,Severe fatigue,7
+2954,2025-07-16,vaginal,4,formula,Severe fatigue,6
+2955,2025-07-09,vaginal,17,mixed,Sleep deprivation,7
+2956,2025-07-26,c_section,20,breastfeeding,Mood swings,4
+2957,2025-08-09,c_section,10,mixed,Feeling overwhelmed,2
+2958,2025-07-08,assisted,9,formula,Worried about scar healing,7
+2959,2025-06-25,c_section,11,mixed,Back pain,9
+2960,2025-07-31,vaginal,5,breastfeeding,Sleep deprivation,4
+2961,2025-08-03,vaginal,5,breastfeeding,Low milk supply,3
+2962,2025-08-07,c_section,18,mixed,Incision pain,3
+2963,2025-05-27,vaginal,18,mixed,Mood swings,13
+2964,2025-06-03,vaginal,4,formula,Pain while feeding,12
+2965,2025-07-11,vaginal,15,breastfeeding,Severe fatigue,6
+2966,2025-07-09,vaginal,13,formula,Pain while feeding,7
+2967,2025-08-20,assisted,18,formula,Mood swings,1
+2968,2025-08-02,c_section,18,breastfeeding,Worried about scar healing,3
+2969,2025-07-26,vaginal,15,breastfeeding,Sleep deprivation,4
+2970,2025-06-22,assisted,12,breastfeeding,Worried about scar healing,9
+2971,2025-06-09,vaginal,8,mixed,No family support,11
+2972,2025-08-11,vaginal,4,formula,Sleep deprivation,2
+2973,2025-07-03,assisted,8,mixed,Severe fatigue,8
+2974,2025-06-09,assisted,6,breastfeeding,Feeling overwhelmed,11
+2975,2025-07-05,vaginal,6,mixed,Feeling overwhelmed,7
+2976,2025-07-06,vaginal,3,mixed,Back pain,7
+2977,2025-08-11,assisted,7,breastfeeding,Worried about scar healing,2
+2978,2025-07-29,assisted,3,breastfeeding,Low milk supply,4
+2979,2025-06-30,assisted,10,mixed,Low milk supply,8
+2980,2025-06-22,vaginal,17,breastfeeding,Low milk supply,9
+2981,2025-08-12,assisted,13,formula,Sleep deprivation,2
+2982,2025-07-14,vaginal,13,breastfeeding,Sleep deprivation,6
+2983,2025-05-27,assisted,7,formula,Feeling overwhelmed,13
+2984,2025-08-08,assisted,12,formula,Feeling overwhelmed,2
+2985,2025-08-11,assisted,4,breastfeeding,Back pain,2
+2986,2025-07-25,vaginal,13,mixed,Pain while feeding,4
+2987,2025-06-19,assisted,8,mixed,Worried about scar healing,10
+2988,2025-06-14,vaginal,7,formula,Low milk supply,10
+2989,2025-07-15,vaginal,8,breastfeeding,Back pain,6
+2990,2025-07-31,assisted,4,breastfeeding,Feeling overwhelmed,4
+2991,2025-06-08,assisted,14,formula,Mood swings,11
+2992,2025-08-08,vaginal,8,breastfeeding,Worried about scar healing,2
+2993,2025-06-15,vaginal,19,formula,Worried about scar healing,10
+2994,2025-06-15,assisted,6,formula,Severe fatigue,10
+2995,2025-08-20,assisted,12,breastfeeding,Pain while feeding,1
+2996,2025-07-13,vaginal,17,breastfeeding,No family support,6
+2997,2025-05-26,assisted,10,formula,Back pain,13
+2998,2025-07-30,c_section,3,formula,Low milk supply,4
+2999,2025-07-12,assisted,7,mixed,Incision pain,6
+3000,2025-08-17,assisted,3,breastfeeding,Severe fatigue,1

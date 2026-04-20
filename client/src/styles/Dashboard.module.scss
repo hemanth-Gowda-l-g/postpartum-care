@@ -1,0 +1,373 @@
+// Variables (adjust colors and values as needed)
+$primary-color: #6C63FF;
+$secondary-color: #FF6584;
+$text-color: #2D3748;
+$light-text: #718096;
+$background-light: #F7FAFC;
+$white: #FFFFFF;
+$card-background: $white;
+$shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+$border-radius: 4px;
+$spacing: 1.5rem;
+
+// Styles for the new horizontal navigation bar dashboard layout
+.dashboardContainer {
+  background-color: #f3f0ff; // Soft pastel background
+  min-height: 100vh;
+  font-family: 'Arial', sans-serif; // Consistent font family
+  position: relative; /* Needed for z-index */
+  z-index: 1; /* Ensure content is above the background/overlay */
+  padding-top: 70px; /* Adjust padding for fixed header */
+}
+
+.background {
+  position: fixed; /* Fixed background */
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 140%;
+  background-image: url('../assets/illustrations/dashboard.png'); /* Corrected image path extension */
+  background-size: cover;
+  background-position: center;
+  z-index: 0; /* Send to back */
+  filter: brightness(90%); /* Slightly dim the background */
+}
+
+.overlay {
+  position: fixed; /* Fixed overlay */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white overlay */
+  z-index: 0; /* Behind content, above background */
+}
+
+.dashboardHeader {
+  background-color: $white;
+  padding: 1rem $spacing;
+  box-shadow: $shadow;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #4A2C6D; // Color from image
+
+  .heartIcon {
+    color: $secondary-color; // Pink color from image
+    margin-right: 0.5rem;
+  }
+
+  span {
+    color: #4A2C6D; // Apply the purple color to the text
+  }
+}
+
+.mainNav {
+  display: flex;
+  align-items: center;
+  
+  .navLink {
+    margin: 0 1rem; /* Space between links */
+    color: $text-color;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    padding: 8px 12px; /* Padding to create the box effect */
+    border: 1px solid #ddd; /* Subtle border */
+    border-radius: 20px; /* More rounded corners for a button look */
+    background-color: $white; /* White background */
+
+    &:hover {
+      color: $primary-color;
+      border-color: $primary-color; /* Change border color on hover */
+      background-color: #f0f0f0; /* Light background on hover */
+    }
+    
+    // Style for the active 'Chat' link as seen in the image
+    &.active {
+        background-color: #F0EBFF; // Light purple background from image
+        color: #4A2C6D; // Dark purple text color from image
+        font-weight: 600;
+        border-color: #4A2C6D; /* Match border color to active text */
+    }
+  }
+}
+
+.userAvatar {
+  width: 40px;
+  height: 40px;
+  background-color: #6A4C93; // Purple background from image
+  color: $white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1.1rem; // Adjust font size
+}
+
+.dashboardContent {
+  padding: $spacing;
+  /* margin-top is moved to dashboardContainer */
+  /* Add additional styling for layout within the content area if needed (e.g., grid/flexbox for widgets) */
+
+  h1 {
+    color: #e26aa0; /* Pink-purple tone similar to reference */
+    margin: 0 0 12px 0;
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  p {
+    color: #6b7280; /* Muted gray */
+    text-align: center;
+  }
+
+  /* Styles for the image/illustration placeholder */
+  .dashboardImageContainer {
+    width: 100%;
+    margin: 20px 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Remove max-width to allow full width */
+  }
+  .dashboardImage {
+    width: 100%;
+    height: 260px; /* Slightly taller for better aspect ratio, adjust as needed */
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+    display: block;
+  }
+
+  /* Hero card with photo placed in the same section */
+  .heroCard {
+    display: grid;
+    grid-template-columns: 1fr auto; /* text then image */
+    align-items: center;
+    gap: 28px;
+    background: #F3EEFF; /* soft purple banner */
+    border: 1px solid #E6E1FF;
+    border-radius: 16px;
+    padding: 36px 32px;
+    box-shadow: 0 10px 24px rgba(76, 29, 149, 0.08);
+    margin: 28px auto; /* center horizontally */
+    max-width: 1100px;  /* wide banner */
+    position: relative;
+    z-index: 2; /* keep above following sections */
+  }
+
+  /* Left text block (kicker + title) */
+  .heroLeftText {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .heroPhotoWrap {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    /* Dotted ring similar to reference */
+    background:
+      radial-gradient(circle at center, #ffffff 35%, transparent 36%),
+      radial-gradient(#c6c3ff 2px, transparent 2px) 0 0/10px 10px,
+      radial-gradient(#c6c3ff 2px, transparent 2px) 5px 5px/10px 10px,
+      #f4f3ff;
+    position: relative;
+    box-shadow: inset 0 0 0 2px #edeaff;
+    justify-self: end; /* push image to the right */
+  }
+
+  .heroPhoto {
+    width: 128px;
+    height: 128px;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+  }
+
+  .heroText {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    text-align: left;
+  }
+
+  .heroKicker {
+    letter-spacing: 1.6px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #9aa1b2;
+    text-transform: uppercase;
+  }
+
+  .heroTitle {
+    font-size: 34px;
+    font-weight: 800;
+    color: #2d2a45;
+    text-shadow: 0 1px 0 #fff;
+  }
+
+  /* Right side preview card */
+  .heroPreview {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    border: 1px solid #F1F0F7;
+    padding: 18px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .previewInner {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 14px;
+    align-items: center;
+  }
+
+  .previewLogo { /* wrapper to keep spacing consistent */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px; /* keep fixed area for logo circle */
+  }
+
+  .previewText {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .previewKicker {
+    font-size: 10px;
+    letter-spacing: 1.2px;
+    font-weight: 700;
+    color: #8b91a5;
+    text-transform: uppercase;
+  }
+
+  .previewTitle {
+    font-size: 20px;
+    font-weight: 800;
+    color: #2d2a45;
+  }
+
+  /* Styles for feature cards */
+  .featureCards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px; /* Space between cards */
+    margin-top: 30px;
+
+    .featureCardLink {
+       text-decoration: none; /* Remove underline from links */
+    }
+
+    .featureCard {
+      background-color: #e1f5fe; /* Light blue background for cards */
+      border: 1px solid #b3e5fc; /* Matching light blue border */
+      border-radius: 8px;
+      padding: 20px;
+      text-align: center;
+      transition: transform 0.2s ease-in-out; /* Subtle hover effect */
+
+      &:hover {
+        transform: translateY(-5px); /* Lift card on hover */
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhance shadow on hover */
+      }
+
+      h3 {
+        color: #0277bd; /* Darker blue for card titles */
+        margin-top: 0;
+      }
+
+      p {
+        color: #039be5; /* Medium blue for card text */
+      }
+    }
+  }
+
+  /* Styles for the tip section */
+  .tipSection {
+    background-color: #fff9c4; /* Light yellow background for tip section */
+    border: 1px solid #ffee58; /* Matching yellow border */
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+
+    h2 {
+      color: #fbc02d; /* Darker yellow for tip heading */
+      margin-top: 0;
+    }
+
+    p {
+      color: #f9a825; /* Medium yellow for tip text */
+    }
+  }
+
+}
+
+.loadingMessage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 1.2rem;
+  color: $text-color;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .dashboardHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem;
+    position: static; // Remove fixed positioning on mobile
+  }
+
+  .logo {
+    margin-bottom: 1rem;
+  }
+
+  .mainNav {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+
+    .navLink {
+      margin: 0.5rem 0; // Adjust margin for stacked links
+      width: 100%; // Make links full width
+      text-align: left; // Align text to the left
+    }
+  }
+
+  .userAvatar {
+    margin-top: 1rem;
+  }
+
+  .dashboardContent {
+    margin-top: 0; // Remove margin for static header
+  }
+}

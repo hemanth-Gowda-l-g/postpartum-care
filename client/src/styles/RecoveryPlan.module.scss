@@ -1,0 +1,100 @@
+// Add these to your existing RecoveryPlan.module.scss
+
+.loading, .error, .empty {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+}
+
+.error {
+  color: #ff4d4f;
+}
+
+.weekNavigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+  
+  button {
+    padding: 0.5rem 1rem;
+    background: #A2D2FF;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    
+    &:disabled {
+      background: #ddd;
+      cursor: not-allowed;
+    }
+  }
+}
+
+.alerts {
+  background: #fff2f0;
+  border: 1px solid #ffccc7;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  
+  h4 {
+    color: #ff4d4f;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+    
+    svg {
+      width: 20px;
+      height: 20px;
+      fill: #ff4d4f;
+    }
+  }
+  
+  ul {
+    padding-left: 1.5rem;
+  }
+}
+
+.completionStatus {
+  background: #A2D2FF;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  margin-right: 1rem;
+}
+
+.task {
+  &.completed {
+    opacity: 0.7;
+    background: #f5f5f5;
+    
+    .completeBtn {
+      background: #52c41a !important;
+    }
+  }
+}
+
+.taskContent {
+  flex: 1;
+}
+
+.taskDetails {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.3rem;
+}
+
+.notesSection {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #f0f8ff;
+  border-radius: 8px;
+  
+  h4 {
+    color: #1a73e8;
+    margin-bottom: 0.5rem;
+  }
+}

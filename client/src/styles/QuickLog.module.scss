@@ -1,0 +1,63 @@
+.quickLog {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.logForm {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.formGroup {
+  margin-bottom: 1.5rem;
+
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--neutral-gray);
+  }
+
+  select, textarea {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+
+    &:focus {
+      outline: none;
+      border-color: var(--primary-blue);
+    }
+  }
+
+  input[type="range"] {
+    width: 100%;
+    margin: 0.5rem 0;
+  }
+}
+
+.painValue {
+  display: inline-block;
+  margin-left: 1rem;
+  font-weight: bold;
+  color: var(--primary-blue);
+}
+
+.submitButton {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: var(--primary-blue);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+
+  &:hover {
+    background-color: darken(#A2D2FF, 10%);
+  }
+} 

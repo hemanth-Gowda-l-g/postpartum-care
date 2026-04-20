@@ -1,0 +1,178 @@
+.emergencyContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #d32f2f;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+// Emergency Contacts Section
+.emergencyContacts {
+  margin-bottom: 40px;
+}
+
+.contactGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.contactCard {
+  background: white;
+  border: 1px solid #ffcdd2;
+  border-radius: 8px;
+  padding: 20px;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+
+  h3 {
+    color: #d32f2f;
+    margin: 0 0 10px 0;
+  }
+}
+
+.phoneNumber {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #d32f2f;
+  text-decoration: none;
+  margin: 10px 0;
+  padding: 10px;
+  background: #fff5f5;
+  border-radius: 4px;
+  text-align: center;
+
+  &:hover {
+    background: #ffe0e0;
+  }
+}
+
+.description {
+  color: #666;
+  margin: 10px 0;
+  font-weight: 500;
+}
+
+.whenToCall {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 10px 0 0 0;
+}
+
+// Warning Signs Section
+.warningSigns {
+  margin-bottom: 40px;
+}
+
+.signsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.signsCard {
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+
+  h3 {
+    color: #333;
+    margin: 0 0 15px 0;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      padding: 8px 0;
+      border-bottom: 1px solid #f0f0f0;
+      color: #666;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+  }
+}
+
+// Quick Actions Section
+.quickActions {
+  margin-bottom: 40px;
+}
+
+.actionButtons {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.emergencyButton,
+.crisisButton,
+.resourcesButton {
+  display: block;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.emergencyButton {
+  background: #d32f2f;
+  color: white;
+
+  &:hover {
+    background: #b71c1c;
+  }
+}
+
+.crisisButton {
+  background: #1976d2;
+  color: white;
+
+  &:hover {
+    background: #1565c0;
+  }
+}
+
+.resourcesButton {
+  background: #6c63ff;
+  color: white;
+
+  &:hover {
+    background: #5a52d5;
+  }
+}
+
+// Important Note
+.importantNote {
+  background: #fff5f5;
+  border: 1px solid #ffcdd2;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  color: #d32f2f;
+  font-size: 1.1rem;
+  margin-top: 40px;
+
+  p {
+    margin: 0;
+  }
+} 
